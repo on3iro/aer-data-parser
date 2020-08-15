@@ -2,6 +2,21 @@
 # yarn lockfile v1
 
 
+"@types/node@^14.0.27":
+  version "14.0.27"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-14.0.27.tgz#a151873af5a5e851b51b3b065c9e63390a9e0eb1"
+  integrity sha512-kVrqXhbclHNHGu9ztnAwSncIgJv/FaxmzXJvGXNdcCpV1b8u1/Mi6z6m0vwy0LzKeXFTPLH0NzwmoJ3fNCIq0g==
+
+aer-data@^2.4.0:
+  version "2.4.0"
+  resolved "https://registry.yarnpkg.com/aer-data/-/aer-data-2.4.0.tgz#bb2e3aaa29e894be8bf54132aaaf945cc6eb8c40"
+  integrity sha512-AviM+6Jle0cig0EW1yjedCIdLqMIXg9/JvAFTOyUO4xqDWAWS8eUjy2XDNBzEWAgg05up4YqSk/M1F4uPFVf7A==
+
+aer-types@^1.0.11:
+  version "1.0.11"
+  resolved "https://registry.yarnpkg.com/aer-types/-/aer-types-1.0.11.tgz#03e5070d9f891323620d51a138c0f1800076a847"
+  integrity sha512-ehf6vYBPlxmzpXniW3lyzNc2VG714035JFlFBzD/CFMaE0nBwHal9fu1kddLKYWm8nV7IFLBZsg+uGNjLLlKZw==
+
 arg@^4.1.0:
   version "4.1.3"
   resolved "https://registry.yarnpkg.com/arg/-/arg-4.1.3.tgz#269fc7ad5b8e42cb63c896d5666017261c144089"
@@ -45,6 +60,11 @@ ts-node@^8.10.2:
     make-error "^1.1.1"
     source-map-support "^0.5.17"
     yn "3.1.1"
+
+typescript@^3.9.7:
+  version "3.9.7"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-3.9.7.tgz#98d600a5ebdc38f40cb277522f12dc800e9e25fa"
+  integrity sha512-BLbiRkiBzAwsjut4x/dsibSTB6yWpwT5qWmC2OfuCg3GgVQCSgMs4vEctYPhsaGtd0AeuuHMkjZ2h2WG8MSzRw==
 
 yn@3.1.1:
   version "3.1.1"

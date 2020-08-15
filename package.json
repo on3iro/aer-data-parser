@@ -3,7 +3,8 @@
   "version": "0.0.1",
   "description": "",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node ./src/index.ts"
   },
   "keywords": [
     "aeons-end-ranzomizer",
@@ -14,6 +15,10 @@
   "author": "Theo Salzmann",
   "license": "MIT",
   "dependencies": {
-    "ts-node": "^8.10.2"
+    "@types/node": "^14.0.27",
+    "aer-data": "^2.4.0",
+    "aer-types": "^1.0.11",
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.7"
   }
 }
