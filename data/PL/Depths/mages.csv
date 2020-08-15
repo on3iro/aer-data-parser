@@ -1,0 +1,18 @@
+expansion,name,id,mageTitle,ability,numberOfCharges,uniqueStarters
+Depths,Nym,Nym,Nowicjusz Magii Bram,"
+        <h2>Ostateczna Bariera</h2>
+        <p class=""ability-activation"">Użyj podczas swojej fazy głównej:</p>
+        <p>Odrzuć wierzchnią kartę z talii Nemezis.</p>
+        <p>W przypadku odrzucenia karty Ataku, odrzuć dodatkową kartę.</p>
+      ",5,"[{""type"":""Spell"",""name"":""Spopielenie"",""expansion"":""Depths"",""id"":""Cinder"",""cost"":0,""effect"":""\n            <p>\n              <b>Aktywacja:</b> Zadaj 1 obrażenie.\n              <span class=\""or\"">ALBO</span>\n              <b>Aktywacja:</b> Otrzymujesz 2 <span class=\""aether\"">&AElig;</span>.\n            </p>\n          "",""keywords"":[]}]"
+Depths,Reeve,Reeve,Elitarny Mag Bram,"
+        <h2>Rozrywające Ostrze</h2>
+        <p class=""ability-activation"">Użyj podczas swojej fazy głównej:</p>
+        <p>Zadaj 5 obrażeń Poplecznikowi.</p>
+        <p>Zadaj 3 obrażenia innemu Poplecznikowi.</p>
+      ",4,"[{""type"":""Gem"",""name"":""Odłamek Obsydianu"",""expansion"":""Depths"",""id"":""ObsidianShard"",""cost"":0,""effect"":""\n            <p>\n              Otrzymujesz 1 <span class=\""aether\"">&AElig;</span>.<br/>\n              Możesz otrzymać 1 obrażenie. Jeżeli to zrobisz, otrzymujesz dodatkowe 2 <span class=\""aether\"">&AElig;</span>.\n            </p>\n          "",""keywords"":[]}]"
+Depths,Zhana,Zhana,Zbuntowana Magini Bram,"
+        <h2>Glif Strażniczy</h2>
+        <p class=""ability-activation"">Użyj podczas swojej fazy głównej:</p>
+        <p>Gravehold otrzymuje 7 żywotności.</p>
+      ",5,"[{""type"":""Spell"",""name"":""Wieczny Żar"",""expansion"":""Depths"",""id"":""EternalEmber"",""cost"":0,""effect"":""\n            <p>\n              <b>Aktywacja:</b> Zadaj 1 obrażenie.\n              <span class=\""or\"">ALBO</span>\n              <b>Aktywacja:</b> Aktywuj jedno ze swoich przygotowanych Zaklęć bez odrzucania go.\n            </p>\n          "",""keywords"":[]}]"

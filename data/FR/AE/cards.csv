@@ -1,0 +1,115 @@
+type,expansion,name,id,cost,effect,keywords
+Gem,AE,Agrégat de diamants,DiamondCluster,4,"<p>
+Gagnez 2 <span class=""aether"">&AElig;</span>.<br/>
+Si c'est le second Agrégat de diamants que vous jouez ce tour, gagnez 2 <span class=""aether"">&AElig;</span> de plus.
+</p>",[]
+Spell,AE,Arc chaotique,ChaosArc,6,"<p>
+<b>Lancer :</b> Infligez 3 dégâts.<br/>
+Infligez 2 dégâts supplémentaires par sort préparé sur une brèche adjacente.
+</p>",[]
+Spell,AE,Mise à feu,Ignite,4,"<p>
+<b>Lancer :</b> Infligez 2 dégâts.<br/>
+Un allié gagne 1 charge.
+</p>",[]
+Spell,AE,Vol d'essence,EssenceTheft,5,"<p>
+<b>Lancer :</b> Infligez 3 dégâts.<br/>
+Vous pouvez défausser une carte de votre main. Si vous le faites, un joueur gagne 1 point de vie.
+</p>",[]
+Gem,AE,Rubis fulgurant,SearingRuby,4,"<p>
+Gagnez 2 <span class=""aether"">&AElig;</span>.<br/>
+Gagnez 1 <span class=""aether"">&AElig;</span> supplémentaire qui ne peut être utilisé que pour acquérir un sort.
+</p>",[]
+Spell,AE,Éclair enragé,FeralLightning,5,"<p>
+Ce sort peut être préparé sur une brèche fermée sans qu'elle doive être stabilisée.<br/>
+<br/>
+<b>Lancer :</b> Infligez 3 dégâts.
+</p>",[]
+Spell,AE,Aperçu planaire,PlanarInsight,6,"<p>
+<b>Lancer :</b> Infligez 2 dégâts.<br/>
+Infligez 1 dégât supplémentaire pour chacune de vos brèches ouvertes.
+</p>",[]
+Spell,AE,Écho spectral,SpectralEcho,3,"<p>
+<b>Lancer :</b> Infligez 2 dégâts.<br/>
+Vous pouvez détruire une carte de votre main.
+</p>",[]
+Gem,AE,Opale brûlante,BurningOpal,5,"<p>
+Gagnez 3 <span class=""aether"">&AElig;</span>.<br/>
+Vous pouvez défausser une carte de votre main pour qu'un allié pioche une carte.
+</p>",[]
+Spell,AE,Vide dévorant,ConsumingVoid,7,"<p>
+<b>Lancer :</b> Détruisez jusqu'à deux cartes de votre main. Infligez 3 dégâts par carte détruite de cette manière.
+</p>",[]
+Relic,AE,Prisme instable,UnstablePrism,3,"<p>
+Appliquez deux fois l'effet d'une gemme de votre main, puis détruisez-la.
+<span class=""or"">OU</span>
+Gagnez 2 <span class=""aether"">&AElig;</span>.
+</p>",[]
+Gem,AE,Saphir nuageux,CloudedSapphire,6,"<p>
+Gagnez 3 <span class=""aether"">&AElig;</span>.<br/>
+S'il s'agit du premier Saphir nuageux que vous jouez ce tour, un allié gagne 1 charge.
+</p>",[]
+Relic,AE,Talisman de mage,MagesTalisman,5,"<p>
+Gagnez 1 charge.<br/>
+Un allié gagne 1 charge.
+</p>",[]
+Relic,AE,Dague fléchissante,FlexingDagger,2,"<p>
+La prochaine brèche que vous stabilisez ou que vous ouvrez lors de ce tour vous coûte 3 <span class=""aether"">&AElig;</span> de moins.
+<span class=""or"">OU</span>
+Détruisez cette carte. Infligez 1 dégât.
+</p>",[]
+Spell,AE,Tentacule de lave,LavaTendril,4,"<p>
+Lorsque préparé, à la fin de votre phase d'incantation, infligez 1 dégât.<br/>
+<br/>
+<b>Lancer :</b> Infligez 3 dégâts.
+</p>",[]
+Relic,AE,Vortex en bouteille,BottledVortex,3,"<p>
+Détruisez cette carte.<br/>
+Détruisez jusqu'à deux cartes de votre ou de votre défausse.<br/>
+Piochez une carte.
+</p>",[]
+Spell,AE,Nexus des arcanes,ArcaneNexus,7,"<p>
+Lorsque préparé, une fois par tour durant votre phase principale, vous pouvez reprendre une gemme jouée ce tour-ci en main.<br/>
+<br/>
+<b>Lancer :</b> Infligez 4 dégâts.
+</p>",[]
+Spell,AE,Feu obscur,DarkFire,5,"<p>
+<b>Lancer :</b> Défaussez jusqu'à deux cartes de votre main.<br/>
+Infligez 3 dégâts par carte que vous avez défaussée de cette manière.
+</p>",[]
+Spell,AE,Flamme du phénix,PhoenixFlame,3,"<p>
+<b>Lancer :</b> Infligez 2 dégâts.<br/>
+Vous pouvez perdre 1 charge pour infliger 2 dégâts supplémentaires.
+</p>",[]
+Gem,AE,Jade,Jade,2,"<p>
+Gagnez 2 <span class=""aether"">&AElig;</span>.
+</p>",[]
+Spell,AE,Vision amplifiée,AmplifyVision,4,"<p>
+<b>Lancer :</b> Stabilisez votre brèche ayant le coût le plus faible.<br/>
+Infligez 2 dégâts. Si toutes vos brèches sont ouvertes, infligez 1 dégat de plus.
+</p>",[]
+Gem,AE,Ambre de V'risbois,VriswoodAmber,3,"<p>
+Lorsque vous acquérez cette carte, vous pouvez la placer au-dessus de votre pioche.<br/>
+Gagnez 2 <span class=""aether"">&AElig;</span>.
+</p>",[]
+Relic,AE,Bâton d'explosion,BlastingStaff,4,"<p>
+Vous pouvez lancer un sort que vous avez préparé ce tour-ci et infliger 2 dégâts supplémentaires avec ce sort.
+</p>",[]
+Gem,AE,Perle filtrante,SiftersPearl,3,"<p>
+Gagnez 2 <span class=""aether"">&AElig;</span>.<br/>
+Chaque joueur révèle la première carte de sa pioche et peut soit la défausser soit la remettre sur le dessus de sa pioche.
+</p>",[]
+Spell,AE,Fouet ardent,WildfireWhip,6,"<p>
+Lorsque prépare, vous pouvez dépenser 2 <span class=""aether"">&AElig;</span> durant votre phase principale, pour lancer un sort préparé chez n'importe quel joueur.<br/>
+<br/>
+<b>Lancer :</b> Infligez 4 dégâts.
+</p>",[]
+Relic,AE,Orbre de stabilisation,FocusingOrb,4,"<p>
+Stabilisez la brèche d'un joueur.
+<span class=""or"">OU</span>
+Détruisez cette carte pour faire gagner 3 points de vie à Gravehold.
+</p>",[]
+Spell,AE,Vague d'oubli,OblivionSwell,5,"<p>
+Lorsque prépare, une fois par tour, durant votre phase principale, gagnez 1 <span class=""aether"">&AElig;</span>.<br/>
+<br/>
+<b>Lancer :</b> Infligez 2 dégâts. Vous pouvez défausser une gemme pour infliger autant de dégâts supplémentaires que son coût.
+</p>",[]

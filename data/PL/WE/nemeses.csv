@@ -1,0 +1,10 @@
+expansion,name,id,health,difficulty,expeditionRating,additionalInfo
+WE,Megiera Bram,GateWitch,70,7,4,"
+        <p>
+          Gdy Megiera Bram przyspiesza przepływ czasu, 
+          traci trzy żetony Nemezis zamiast czterech.
+        </p>
+      "
+WE,Pani Pustej Korony,HollowCrown,1,5,3,
+WE,Arcymag Zasłony,MagusOfCloaks,35,7,3,
+WE,Mroczny Tytan,UmbraTitan,70,3,1,

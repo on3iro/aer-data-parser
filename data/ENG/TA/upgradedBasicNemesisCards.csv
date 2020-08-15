@@ -1,0 +1,23 @@
+id,name,expansion,tier,type,effect,upgraded
+Rupture,Rupture,TA,1,Attack,"
+      <p>
+        Unleash. Any player suffers 4 damage.
+      </p>
+    ",1
+FurrowOfDestruction,Furrow Of Destruction,TA,1,Power,"
+      <p>
+        <b>To Discard:</b> Spend 6 <span class=""aether"">&AElig;</span>.<br />
+        <br />
+        <b>Power 2:</b> Unleash twice. Gravehold suffers 3 damage.
+      </p>
+    ",1
+Mangle,Mangle,TA,2,Attack,"
+      <p>
+        The player with the most charges loses 3 charges and suffers 3 damage. A different player discards three cards in hand.
+      </p>
+    ",1
+HowlingSlayer,Howling Slayer,TA,2,Minion,"
+      <p>
+        <b>Persistent:</b> Any player suffers 2 damage. Any player discards a card in hand.
+      </p>
+    ",1

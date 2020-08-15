@@ -1,0 +1,47 @@
+type,expansion,name,id,cost,effect,keywords
+Relic,Nameless,Roztapiający Młot,MoltenHammer,5,"
+      <p>
+        Otrzymujesz 1 Ładunek.<br/>
+        Możesz zniszczyć kartę na ręce lub z wierzchu kart odrzuconych dowolnego gracza.
+      </p>
+        ",[]
+Spell,Nameless,Luminacja,Radiance,8,"
+      <p>
+      <b>Aktywacja:</b> Zadaj 5 obrażeń.<br/>
+      Każdy sojusznik dobiera kartę.
+        </p>
+      ",[]
+Spell,Nameless,Płomień,Blaze,4,"
+      <p>
+        Gdy pozyskujesz tę kartę, możesz ją umieścić na wierzchu stosu kart odrzuconych dowolnego gracza.<br/>
+          <b>Aktywacja:</b> Zadaj 2 obrażenia.<br/>
+        Zadaj 1 dodatkowe obrażenie za każdą wcześniejszą swoją aktywację Płomienia w tej turze oraz za każdy inny Płomień, 
+        który masz przygotowany.
+        </p>
+            ",[]
+Spell,Nameless,Uderzenie Wróżby,ScryingBolt,6,"
+      <p>
+      <b>Aktywacja:</b> Zadaj 5 obrażeń.<br/>
+      Możesz stracić 1 Ładunek. Jeżeli się na to zdecydujesz, odkryj dwie wierzchnie karty z talii Nemezis. 
+      Ułóż je z powrotem w dowolnej kolejności.
+        </p>
+      ",[]
+Spell,Nameless,Piętno Mędrca,SagesBrand,7,"
+      <p>
+        To zaklęcie musi być przygotowane na dwóch przylegających Bramach w taki sposób, aby karta dotykała obu Bram. 
+        Ta karta w pełni zajmuje obie Bramy.<br/>
+        Gdy przygotowane: podczas swojej fazy dobierania dobierz dodatkową kartę.<br/>
+        <b>Aktywacja:</b> Zadaj 6 obrażeń.
+        </p>
+        ",[]
+Gem,Nameless,Wysysający Agat,LeechingAgate,3,"
+      <p>
+        Gdy pozyskujesz tę kartę, otrzymujesz 1 Ładunek.<br/>
+        Otrzymujesz 2 <span class=""aether"">&AElig;</span>.
+      </p>
+        ",[]
+Relic,Nameless,Spirala Czasoprzestrzenna,TemporalHelix,7,"
+      <p>
+      Aktywuj przygotowane Zaklęcie dowolnego gracza bez odrzucania go.
+      </p>
+      ",[]

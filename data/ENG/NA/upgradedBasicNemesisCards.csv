@@ -1,0 +1,86 @@
+id,name,expansion,tier,type,power,effect,upgraded
+HissingAcid,Hissing Acid,NA,1,Power,3,"
+      <p>
+        <b>To Discard:</b> Spend 6 <span class=""aether"">&AElig;</span>.<br />
+        <br /> 
+        <b>Power 3:</b> Reveal the top card of the turn order deck. If it's a player turn order card, Unleash three times. Otherwise, any player suffers 5 damage.
+      </p>
+    ",1
+Wreck,Wreck,NA,1,Attack,,"
+      <p>
+        Unleash twice. Gravehold suffers 1 damage.
+      </p>
+    ",1
+BaneCommander,Bane Commander,NA,1,Minion,,"
+      <p>
+        <b>Persistent:</b> Unleash. Any player suffers 1 damage.
+      </p>
+    ",1
+SkyTremor,Sky Tremor,NA,2,Power,1,"
+      <p>
+        <b>To Discard:</b> Spend 7 <span class=""aether"">&AElig;</span>.<br />
+        <br />
+        <b>Power 1:</b> Unleash twice. Gravehold suffers 4 damage.	
+      </p>
+    ",1
+EngulfingMadness,Engulfing Madness,NA,2,Power,2,"
+      <p>
+        <b>To Discard:</b> Spend 8 <span class=""aether"">&AElig;</span>.<br />
+        <br />
+        <b>Power 2:</b> Unleash twice. Any player suffers 4 damage.
+      </p>
+    ",1
+Separate,Separate,NA,2,Attack,,"
+      <p>
+        Unleash twice. Gravehold suffers 2 damage. The player with the most expensive prepped spell discards that spell.
+      </p>
+    ",1
+NeedleDoom,Needle Doom,NA,2,Minion,,"
+      <p>
+        <b>Persistent:</b> Unleash. Gravehold suffers 2 damage.	
+      </p>
+    ",1
+Marked,Marked,NA,2,Attack,,"
+      <p>
+        Unleash twice. The player with the lowest life suffers 3 damage.	
+      </p>
+    ",1
+Eradicate,Eradicate,NA,3,Attack,,"
+      <p>
+        Unleash twice. Any player discards their three most expensive cards in hand.
+      </p>
+    ",1
+FlashOfDecay,Flash Of Decay,NA,3,Power,2,"
+      <p>
+        <b>Power 2:</b> Unleash twice. The player with the most expensive prepped spell destroys it. If that spell costs 4 <span class=""aether"">&AElig;</span> or less, or no spell was destroyed, Unleash.
+      </p>
+    ",1
+Terrify,Terrify,NA,3,Attack,,"
+      <p>
+        Unleash three times. Gravehold suffers 2 damage. Any player destroys two cards in hand.
+      </p>
+    ",1
+RayOfDesolation,Ray Of Desolation,NA,3,Power,1,"
+      <p>
+        <b>Power 1:</b> Unleash twice. The players collectively destroy the two most expensive prepped spells.
+      </p>
+    ",1
+ThunderousTempest,Thunderous Tempest,NA,3,Power,2,"
+      <p>
+        <b>To Discard:</b> Spend 9 <span class=""aether"">&AElig;</span>.<br />
+        <br />
+        <b>Power 2:</b> Unleash. If there are two nemesis turn order cards in the turn order discard pile, any player suffers 8 damage. Otherwise, any player suffers 5 damage.
+      </p>
+    ",1
+Sacrifice,Sacrifice,NA,3,Attack,,"
+      <p>
+        Unleash four times. 
+        <span class=""or"">OR</span> 
+        Gravehold suffers 4 damage and any player suffers 4 damage.	
+      </p>
+    ",1
+Burialskulk,Burialskulk,NA,3,Minion,,"
+      <p>
+        <b>Persistent:</b> Unleash twice.	
+      </p>
+    ",1

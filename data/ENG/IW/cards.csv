@@ -1,0 +1,24 @@
+type,expansion,name,id,cost,effect,keywords
+Gem,IW,Jeweled Brain,JeweledBrain,3,"
+        <p>
+          Gain 2 <span class=""aether"">&AElig;</span>.
+          <span class=""or"">OR</span>
+          Gain 1 <span class=""aether"">&AElig;</span>. Return to your hand a 
+          card in your discard pile that costs 0 <span class=""aether"">&AElig;</span>.
+        </p>
+      ",[]
+Relic,IW,Blast Sphere,BlastSphere,8,"
+        <p>
+          Cast any player's prepped spell three times without discarding it 
+          and then destroy it.
+        </p>
+      ",[]
+Spell,IW,Wound Mender,WoundMender,8,"
+        <p>
+          <b>Echo</b>
+        </p>
+        <p>
+          <b>Cast:</b> Deal 2 damage.<br/>
+          If this was cast from an opened III or IV breach, gain 1 life.
+        </p>
+      ","[""echo""]"

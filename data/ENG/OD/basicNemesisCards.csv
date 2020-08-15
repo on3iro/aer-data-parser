@@ -1,0 +1,20 @@
+id,expansion,tier,type,name,hp,effect
+LabyrinthWisp-OD,OD,1,Minion,Labyrinth Wisp,5,"
+      <p>
+        <b>Persistent:</b> Any player discards a prepped spell.
+        <span class=""or"">OR</span>
+        Any player loses 1 charge.
+      </p>
+    "
+Assail-OD,OD,2,Attack,Assail,,"
+      <p>
+        Unleash twice. The player with the most expensive prepped spell places that spell on top of their deck.
+      </p>
+    "
+DireAbbatoir-OD,OD,3,Power,Dire Abbatoir,,"
+      <p>
+        <b>To Discard:</b> Spend 8 <span class=""aether"">&AElig;</span>.<br />
+        <br />
+        <b>Power 2:</b> The player with the most life suffers damage equal to their current life.
+      </p>
+    "

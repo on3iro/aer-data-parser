@@ -1,0 +1,178 @@
+id,name,expansion,level,subtype,effect
+KadirsEmeraldShard,Kadir's Emerald Shard,NA,1,Gem,"
+      <p>
+      Gain 1 <span class=""aether"">&AElig;</span>.
+        <span class=""or"">OR</span>
+      Any player gains 1 life.
+      </p>
+      "
+GexsShatteredGeode,Gex's Shattered Geode,NA,1,Gem,"
+      <p>
+      Gain 1 <span class=""aether"">&AElig;</span>.<br/>
+      You may place the top card of any ally's discard pile into your hand.
+      </p>
+      "
+JiansMoonstoneShard,Jian's Moonstone Shard,NA,1,Gem,"
+      <p>
+      Gain 1 <span class=""aether"">&AElig;</span>.<br/>
+      Gain an additional 1 <span class=""aether"">&AElig;</span> that can only 
+      be used to gain a gem.
+      </p>
+      "
+LashsQuartzShard,Lash's Quartz Shard,NA,1,Gem,"
+      <p>
+      Gain 1 <span class=""aether"">&AElig;</span>.<br/>
+      Reveal the top card of the turn order deck. You may place that card on the bottom or
+      the top of the turn order deck. If you revealed a player turn order card, gain an 
+      additional 1 <span class=""aether"">&AElig;</span>.
+      </p>
+      "
+XaxosFlare,Xaxo's Flare,NA,1,Spell,"
+      <p>
+      <b>Cast:</b> Reveal the top card of the turn order deck, and then place it 
+      back on top of the turn order deck. If you revealed a player turn order 
+      card, deal 3 damage. Otherwise, deal 1 damage.
+      </p>
+      "
+AdelheimsAmethystShard,Adelheim's Amethyst Shard,NA,1,Gem,"
+      <p>
+      Gain 1 <span class=""aether"">&AElig;</span>.<br/>
+      Any ally may draw a card and then discard a card in hand.
+      </p>
+      "
+BramasBuriedLight,Brama's Buried Light,NA,1,Spell,"
+      <p>
+      <b>Cast:</b> Deal 1 damage.<br/>
+      Gain 1 <span class=""aether"">&AElig;</span>.
+      </p>
+      "
+GarusTorch,Garu's Torch,NA,1,Spell,"
+      <p>
+      <b>Cast:</b> Deal 1 damage.
+        <span class=""or"">OR</span>
+      <b>Cast:</b> Focus any player's breach.
+      </p>
+      "
+XaxosPyre,Xaxo's Pyre,NA,1,Spell,"
+      <p>
+      <b>Cast:</b> Deal 1 damage.<br/>
+      Any ally may discard a card in hand. If they do, deal 2 additional damage.
+      </p>
+      "
+MistsGarnetShard,Mist's Garnet Shard,NA,1,Gem,"
+      <p>
+      Gain 1 <span class=""aether"">&AElig;</span>.
+        <span class=""or"">OR</span>
+      Cast any player's prepped spell.
+      </p>
+      "
+ShimmeringCloakOfTheMagus,Shimmering Cloak Of The Magus,NA,2,,"
+      <p>
+      After a player finishes resolving their ability, that player deals 2 damage.
+      </p>
+      "
+ImbuedShackles,Imbued Shackles,NA,2,,"
+      <p>
+      At the start of the game, set this next to a supply pile that costs 7 
+      <span class=""aether"">&AElig;</span> or more. These cards cost players 1 
+      less <span class=""aether"">&AElig;</span> to gain.
+      </p>
+      "
+GluttonsTooth,Glutton's Tooth,NA,2,,"
+      <p>
+      When the last card in a supply pile is gained or destroyed, any player deals 
+      6 damage.
+      </p>
+      "
+CoreOfRage,Core Of Rage,NA,2,,"
+      <p>
+      At the start of the game, set this next to a spell or relic supply pile. 
+      When a player gains a card from that supply pile, they deal 2 damage.
+      </p>
+      "
+CleansingAmulet,Cleansing Amulet,NA,2,,"
+      <p>
+      After a player finishes resolving their ability, any player may destroy 
+      a card in hand.
+      </p>
+      "
+CarapaceFragement,Carapace Fragement,NA,2,,"
+      <p>
+      At the start of the game, set this next to a relic or spell supply pile. 
+      When a player gains a card from that supply pile, that player focuses one 
+      of their breaches.
+      </p>
+      "
+ThornedWhip,Thorned Whip,NA,2,,"
+      <p>
+      When a player opens a breach, that player deals 2 damage.
+      </p>
+      "
+BonesOfDeathmind,Bones Of Deathmind,NA,2,,"
+      <p>
+      When a player opens a breach, that player gains 1 charge.<br/>
+      <br/>
+      At the start of any player's turn, if that player has no closed breaches, 
+      that player gains 1 charge.
+      </p>
+      "
+AcceleratingGauntlets,Accelerating Gauntlets,NA,3,,"
+      <p>
+      At the start of your first turn of the game, gain a card that costs 
+      4 <span class=""aether"">&AElig;</span> or less.
+      </p>
+      "
+EssenceExtractor,Essence Extractor,NA,3,,"
+      <p>
+      When you play a gem that costs 5 <span class=""aether"">&AElig;</span> or 
+      more, gain an additional 1 <span class=""aether"">&AElig;</span>.
+      </p>
+      "
+BroochOfAttunment,Brooch Of Attunment,NA,3,,"
+      <p>
+      Once per turn, when you cast a spell that costs 6 <span class=""aether"">&AElig;</span> 
+      or more, gain 2 charges.
+      </p>
+      "
+BladedCrystal,Bladed Crystal,NA,3,,"
+      <p>
+      When you deal damage to the nemesis with a spell, that spell deals 
+      1 additional damage.
+      </p>
+      "
+PrismOfDestruction,Prism Of Destruction,NA,3,,"
+      <p>
+      If you have no closed breaches, spells you cast deal 2 additional damage.
+      </p>
+      "
+ForgottenTrinket,Forgotten Trinket,NA,3,,"
+      <p>
+      At the start of your first turn of the game, focus each of your closed 
+      breaches once.
+      </p>
+      "
+PrecisionMagnifier,Precision Magnifier,NA,3,,"
+      <p>
+      Spells you cast that cost 2 <span class=""aether"">&AElig;</span> or 
+      more deal 1 additional damage.
+      </p>
+      "
+ShroudOfObfucation,Shroud of Obfucation,NA,3,,"
+      <p>
+      When you cast two or more spells during your casting phase, gain 2 
+      <span class=""aether"">&AElig;</span>.
+      </p>
+      "
+VerdantStaff,Verdant Staff,NA,3,,"
+      <p>
+      When you gain a spell, gain 1 life.
+      </p>
+      "
+FlowingMantle,Flowing Mantle,NA,3,,"
+      <p>
+      At the start of your turn, gain 1 <span class=""aether"">&AElig;</span> 
+      that can onlly be used to gain relics.<br/>
+      <br/>
+      When you gain a relic, you may place it on top of your deck.
+      </p>
+      "

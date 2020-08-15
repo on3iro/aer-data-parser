@@ -1,0 +1,15 @@
+expansion,name,id,health,difficulty,expeditionRating,additionalInfo
+Legacy,Bladius,Bladius,40,1,1,
+Legacy,Deathmind,Deathmind,80,6,4,
+Legacy,Fungal Mesh,FungalMesh,70,4,2,
+Legacy,Maelstrom: Risen,MaelstromRisen,65,8,4,"
+        <p>
+          During setup, include two less upgraded basic nemesis cards in each tier.
+        </p>
+      "
+Legacy,Spawning Horror,SpawningHorror,50,3,1,
+Legacy,Xaxos: Ascended,XaxosAscended,90,9,4,"
+        <p>
+          During setup, include three less upgraded basic nemesis cards in each tier.
+        </p>
+      "

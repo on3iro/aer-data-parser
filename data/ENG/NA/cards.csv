@@ -1,0 +1,167 @@
+type,expansion,name,id,cost,effect,keywords
+Gem,NA,Lurking Sionite,LurkingSionite,3,"
+      <p>
+      Gain 2 <span class=""aether"">&AElig;</span>.<br/>
+      If there is a Lurking Sionite in any ally's discard pile, gain an 
+      additional 1 <span class=""aether"">&AElig;</span>.
+      </p>
+      ",[]
+Gem,NA,Unrefined Blaststone,UnrefinedBlaststone,6,"
+      <p>
+      Gain 3 <span class=""aether"">&AElig;</span>.
+        <span class=""or"">OR</span>
+      Destroy a card in this card's supply pile. If you do, deal 3 damage.
+      </p>
+      ",[]
+Gem,NA,Exogranite,Exogranite,3,"
+      <p>
+      Gain 2 <span class=""aether"">&AElig;</span>
+      <span class=""or"">OR</span>
+      Destroy this. Gain 3 <span class=""aether"">&AElig;</span>.
+      </p>
+      ",[]
+Gem,NA,Recurring Jasper,RecurringJasper,4,"
+      <p>
+      Gain 2 <span class=""aether"">&AElig;</span>.<br/>
+      If the top card of your discard pile is a spell, you may place this 
+      gem on top of your deck.
+      </p>
+      ",[]
+Gem,NA,Energized Rubidium,EnergizedRubidium,5,"
+      <p>
+      Gain 3 <span class=""aether"">&AElig;</span>.<br/>
+      Any ally may discard a card in hand. If they do, that player gains 
+      1 charge.
+      </p>
+      ",[]
+Gem,NA,Resonant Pearl,ResonantPearl,3,"
+      <p>
+      Gain 2 <span class=""aether"">&AElig;</span>.<br/>
+      Any ally may discard a Resonant Pearl in hand and draw a card. 
+        If they do, gain an additional 1 <span class=""aether"">&AElig;</span>.
+      </p>
+      ",[]
+Relic,NA,Caged Fire,CagedFire,3,"
+      <p>
+      Destroy the top card of any player's discard pile.
+        <span class=""or"">OR</span>
+      Destroy this. Gain 2 life.
+      </p>
+      ",[]
+Relic,NA,Galvanized Bauble,GalvanizedBauble,3,"
+      <p>
+      Focus any ally's breach.
+        <span class=""or"">OR</span>
+      Cast any player's prepped spell. You may destroy it.
+      </p>
+      ",[]
+Relic,NA,Aether Conduit,AetherConduit,4,"
+      <p>
+      <b>Attach</b> this to any player's breach.
+      </p>
+      <p>
+      Whena spell is cast from this breach, the player who cast that spell 
+      gains 1 <span class=""aether"">&AElig;</span>.
+      </p>
+      ","[""attach""]"
+Relic,NA,Well of Energy,WellOfEnergy,7,"
+      <p>
+      Gravehold gains 2 life.
+        <span class=""or"">OR</span>
+      Any player gains 2 life.
+      </p>
+      ",[]
+Relic,NA,Pain Conduit,PainConduit,3,"
+      <p>
+      <b>Attach</b> this to any player's breach.
+      </p>
+      <p>
+      When a spell is cast from this breach, it deals 2 additional damage, 
+      and discard this card.
+      </p>
+      ","[""attach""]"
+Relic,NA,Link Conduit,LinkConduit,6,"
+      <p>
+      <b>Attach</b> this to any player's breach.
+      </p>
+      <p>
+      Two spells may be prepped to this breach.
+      </p>
+      ","[""attach""]"
+Relic,NA,Marble Galaxy,MarbleGalaxy,2,"
+      <p>
+      Any ally may discard a Marble Galaxy in hand and draw a card.<br/>
+      Gain 1 charge or focus your closed breach with the lowest focus cost.
+        If an ally discarded Marble Galaxy, resolve both effects.
+      </p>
+      ",[]
+Spell,NA,Deluge of Power,DelugeOfPower,6,"
+      <p>
+        <b>Cast:</b> Deal 4 damage.<br/>
+        Any ally may discard up to two cards in hand. They draw a card for each 
+        card discarded this way.
+      </p>
+      ",[]
+Spell,NA,Reverberating Shock,ReverberatingShock,4,"
+      <p>
+        <b>Echo</b>
+      </p>
+      <p>
+        <b>Cast:</b> Deal 1 damage.<br/>
+        Gain 1 <span class=""aether"">&AElig;</span> that can only be used to 
+        gain cards.
+      </p>
+      ","[""echo""]"
+Spell,NA,Fatal Harmony,FatalHarmony,5,"
+      <p>
+      <b>Cast:</b> Deal 4 damage.<br/>
+      Any ally may discard a Fatal Harmony in hand and draw a card.<br/>
+      If they do, deal 3 damage.<br/>
+      <span class=""hint"">(Effects that 
+      modify damage affect both instances of damage.)</span>
+        </p>
+        ",[]
+Spell,NA,Bouncing Boom,BouncingBoom,6,"
+      <p>
+      <b>Echo</b>
+      </p>
+      <p>
+        <b>Cast:</b> Deal 2 damage.
+        </p>
+        ","[""echo""]"
+Spell,NA,Spirit Lift,SpiritLift,8,"
+      <p>
+        While prepped once during your turn when you gain a charge, any ally 
+        gains 2 charges.<br/>
+        <b>Cast:</b> Deal 5 damage.
+        </p>
+        ",[]
+Spell,NA,Tethered Darts,Tethered Darts,3,"
+      <p>
+      <b>Cast:</b> Deal 2 damage.<br/>
+      If this was cast from an opened III or IV breach, you may place this 
+      into any ally's hand.
+        </p>
+      ",[]
+Spell,NA,Force Amplifier,ForceAmplifier,4,"
+      <p>
+      <b>Cast:</b> Deal 3 damage.<br/>
+      If this was cast from an opened III or IV breach, deal 1 additional 
+      damage.
+        </p>
+      ",[]
+Spell,NA,Imbued Smash,ImbuedSmash,5,"
+      <p>
+      <b>Cast:</b> Deal 4 damage.<br/>
+      You may discard a card in hand. If you do, deal 2 damage to the nemesis.<br/>
+        <span class=""hint"">(Effects that modify damage affect both 
+        instances of damage.)</span>
+        </p>
+        ",[]
+Spell,NA,Pattern Strike,PatternStrike,7,"
+      <p>
+      <b>Cast:</b> Deal 4 damage.<br/>
+      You may return to your hand up to two cards in your discard pile 
+      that cost 0 <span class=""aether"">&AElig;</span>.
+        </p>
+      ",[]

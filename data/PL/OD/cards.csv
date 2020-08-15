@@ -1,0 +1,69 @@
+type,expansion,name,id,cost,effect,keywords
+Spell,OD,Zwęglenie,Char,8,"
+        <p>
+          <b>Aktywacja:</b> Zadaj 6 obrażeń.<br/>
+          Jeżeli te obrażenia spowodują odrzucenie Poplecznika, dowolny gracz otrzymuje 2 punkty życia.
+        </p>
+      ",[]
+Gem,OD,Obcy Pierwiastek,AlienElement,4,"
+        <p>
+          Otrzymujesz 1 <span class=""aether"">&AElig;</span>.<br/>
+          Za każdą twoją Bramę z przygotowanym na niej Zaklęciem otrzymujesz dodatkowo 1 <span class=""aether"">&AElig;</span>.
+        </p>
+      ",[]
+Spell,OD,Przypiekanie,Scorch,5,"
+        <p>
+          <b>Aktywacja:</b> Zadaj 4 obrażenia.<br/>
+          Jeżeli te obrażenia spowodują odrzucenie unikalnego Poplecznika z talii Nemezis, dowolny sojusznik otrzymuje 2 Ładunki.
+        </p>
+      ",[]
+Spell,OD,Piromancja,Pyromancy,7,"
+        <b>Aktywacja:</b> Zadaj 1 obrażenie.<br/>
+        Sojusznicy mogą wspólnie odrzucić do dwóch kart z ręki. Za każdą odrzuconą w ten sposób kartę, zadaj 3 dodatkowe obrażenia.
+      ",[]
+Spell,OD,Aura Zwrotna,FeedbackAura,5,"
+        <p>
+          <b>Aktywacja:</b> Zadaj 3 obrażenia.<br/>
+          Jeżeli masz 4 lub więcej Ładunków, zadaj 3 dodatkowe obrażenia.
+        </p>
+          ",[]
+Spell,OD,Katalizator,Catalyst,6,"
+        <p>
+          <b>Aktywacja:</b> Zadaj 2 obrażenia.<br/>
+          Jeżeli masz 2 lub mniej punktów życia, zadaj 5 dodatkowych obrażeń.
+        </p>
+      ",[]
+Gem,OD,Kamień Bólu,PainStone,6,"
+        <p>
+          Otrzymaj 3 <span class=""aether"">&AElig;</span>.
+          <span class=""or"">ALBO</span>
+          Otrzymaj 2 <span class=""aether"">&AElig;</span> i zadaj 1 obrażenie.
+        </p>
+      ",[]
+Relic,OD,Astralny Sześcian,AstralCube,5,"
+        <p>
+          Weź z powrotem na rękę kartę Klejnotu, zagraną przez ciebie w tej turze.<br/>
+          Odkryj wierzchnią kartę z talii tur. Jeżeli odkryłeś kartę tury gracza, ten gracz otrzymuje 1 punkt życia.
+        </p>
+      ",[]
+Relic,OD,Zagadkosfera,RiddleSphere,3,"
+        <p>
+          Otrzymujesz 1 Ładunek.
+          <span class=""or"">ALBO</span>
+          Możesz stracić 2 Ładunki. Jeżeli to zrobisz, otrzymujesz 5 <span class=""aether"">&AElig;</span>.
+        </p>
+      ",[]
+Spell,OD,Podziemna Więź,NetherConduit,7,"
+        <b>Aktywacja:</b> Odkryj kartę z ręki o koszcie 2 <span class=""aether"">&AElig;</span> 
+        lub więcej.<br/>
+        Jeżeli to zrobisz, zadaj tyle obrażeń, ile takich kart brakuje w ich stosie na rynku zasobów. 
+        Następnie dowolny sojusznik może pozyskać kartę z tego stosu zasobów.<br/>
+        <span class=""hint"">(Na początku gry stosy Klejnotów mają po 7 kart, a stosy Artefaktów i Zaklęć po 5 kart.)</span>
+      ",[]
+Gem,OD,Skarabeusz w Bursztynie,HauntedBerylite,3,"
+        <p>
+          Otrzymujesz 2 <span class=""aether"">&AElig;</span>.
+          <span class=""or"">ALBO</span>
+          Zniszcz kartę na swojej ręce.
+        </p>
+      ",[]

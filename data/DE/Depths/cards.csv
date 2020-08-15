@@ -1,0 +1,50 @@
+type,expansion,name,id,cost,effect,keywords
+Spell,Depths,Verbindung Mit Der Leere,VoidBond,4,"
+      <p>
+        <b>Wirken:</b> Füge 3 Schaden zu.<br />
+        Wähle 1 Spieler und wirke 1 seiner gebundenen Zauber.
+      </p>
+    ",[]
+Spell,Depths,Flammenmeer,Combustion,5,"
+      <p>
+        <b>Wirken:</b> Füge 1 Monster deiner Wahl 2 Schaden zu.<br />
+        Füge 1 anderem Monster oder dem Erzfeind 2 Schaden zu.
+      </p>
+    ",[]
+Relic,Depths,Vim-Generator,VimDynamo,4,"
+      <p>
+        Erleide 1 Schaden und wähle 1 Spieler, der 2 Karten zieht.
+        <span class=""or"">ODER</span>
+        Zerstöre diese Karte und wähle 1 Spieler, der 2 Leben heilt und 1 Energie erhält.
+      </p>
+    ",[]
+Spell,Depths,Zersetzende Sense,DisintegratingScythe,7,"
+      <p>
+        <b>Wirken:</b> Füge 8 Schaden zu.<br />
+        Erleide 1 Schaden. Anstatt diesen Zauber abzuwerfen, zerstöre ihn oder lege ihn auf den Ablagestapel 1 Spielers deiner Wahl.
+      </p>
+    ",[]
+Spell,Depths,Ungeheures Inferno,MonstrousInferno,8,"
+      <p>
+        <b>Dauerhaft:</b> Dieser Zauber muss auf 2 aneinandergrenzende Risse gebunden werden. Beide Risse sind damit nicht mehr frei.<br />
+        <b>Wirken:</b> Füge 7 Schaden zu. Dieser Schaden ist aufteilbar.
+      </p>
+    ",[]
+Spell,Depths,Verschlingender Schatten,DevouringShadow,6,"
+      <p>
+        <b>Gebunden:</b> In deinem Schritt <i>Aktionen ausführen</i> wähle 1 Karte auf deiner Hand und zerstöre sie.<br />
+        <b>Wirken:</b> Füge 3 Schaden zu.
+      </p>
+    ",[]
+Gem,Depths,Topas Der Verbannung,BanishingTopaz,5,"
+      <p>
+        Erhalte 2 <span class=""aether"">&AElig;</span>.<br />
+        Legst du jetzt 1 Karte deiner Wahl von deiner Hand auf dein Deck? Erhalte 2 <span class=""aether"">&AElig;</span>.
+      </p>
+    ",[]
+Relic,Depths,Verwandler,Transmogrifier,4,"
+      <p>
+        Zerstöre 1 Karte deiner Wahl auf deiner Hand.<br />
+        Erwirb 1 Karte gratis, die bis zu 3 <span class=""aether"">&AElig;</span> mehr kostet als die zerstörte Karte.
+      </p>
+    ",[]

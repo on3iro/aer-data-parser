@@ -1,0 +1,12 @@
+expansion,name,id,mageTitle,ability,numberOfCharges,uniqueStarters
+Depths,Nym,Nym,Apprenti,"<h2>Barrière définitive</h2>
+<p class=""ability-activation"">S'active durant votre phase principale :</p>
+<p>Défaussez la première carte de la pioche Némésis
+<span class=""hint"">S'il s'agit d'une carte Attaque, défaussez une carte supplémentaire de la pioche Némésis</span></p>",5,"[{""type"":""Spell"",""expansion"":""Depths"",""name"":""Cendre"",""id"":""Cinder"",""cost"":0,""effect"":""<p>\n<b>Lancer :</b> Infligez 1 dégât.\n<span class=\""or\"">OU</span>\n<b>Lancer :</b> Gagnez 2 <span class=\""aether\"">&AElig;</span>\n</p>"",""keywords"":[]}]"
+Depths,Reeve,Reeve,Mage de la Brèche d'élite,"<h2>Lame de répression</h2>
+<p class=""ability-activation"">S'active durant votre phase principale :</p>
+<p>Infligez 5 dégâts à un serviteur
+<span class=""hint"">Infligez 3 dégâts à un autre serviteur</span></p>",4,"[{""type"":""Gem"",""expansion"":""Depths"",""name"":""Eclat d'obsidienne"",""id"":""ObsidianShard"",""cost"":0,""effect"":""<p>\nGagnez 1 <span class=\""aether\"">&AElig;</span><br/>\nVous pouvez subir 1 dégât. Si vous le faites, gagnez 2 <span class=\""aether\"">&AElig;</span> supplémentaires\n</p>"",""keywords"":[]}]"
+Depths,Z'hana,Zhana,Renégate,"<h2>Glyphe du Sanctum</h2>
+<p class=""ability-activation"">S'active durant votre phase principale :</p>
+<p>Gravehold gagne 7 points de vie</p>",5,"[{""type"":""Spell"",""expansion"":""Depths"",""name"":""Braise éternelle"",""id"":""EternalEmber"",""cost"":0,""effect"":""<p>\n<b>Lancer :</b> Infligez 1 dégât.\n<span class=\""or\"">OU</span>\n<b>Lancer :</b> Lancez un de vos sorts préparés sans le défausser\n</p>"",""keywords"":[]}]"

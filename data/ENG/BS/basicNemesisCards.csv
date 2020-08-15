@@ -1,0 +1,52 @@
+id,expansion,tier,type,name,effect
+BladeStorm-BS,BS,1,Attack,Blade Storm,"
+      <p>
+        Gravehold suffers 3 damage. The player with the fewest opened breaches suffers 2 damage.
+      </p>
+    "
+HexofVulnerability-BS,BS,1,Power,Hex of Vulnerability,"
+      <p>
+        <b>To Discard:</b> Spend 6 <span class=""aether"">&AElig;</span>.<br />
+        <br />
+        <b>Power 3:</b> Place this card next to the player with the most life. For the rest of the game, when that player suffers damage, they suffer 1 additional damage.
+      </p>
+    "
+ThrongCommander-BS,BS,1,Minion,Throng Commander,"
+      <p>
+        <b>Persistent:</b> If there are two or more other minions in play, Gravehold suffers 6 damage and discard this minion. Otherwise, any player suffers 2 damage.
+      </p>
+    "
+Divert-BS,BS,2,Attack,Divert,"
+      <p>
+        The player with the most expensive prepped spell casts that spell. The damage that spell deals must be dealt to the player who cast it instead of to a minion or the nemesis.
+      </p>
+    "
+Depreciate-BS,BS,2,Power,Depreciate,"
+      <p>
+        <b>To Discard:</b> Spend 7 <span class=""aether"">&AElig;</span>.<br />
+        <br />
+        <b>Power 2:</b> Unleash twice. The player with the most expensive card in hand destroys that card and then gains a card of the same type that costs less from any supply pile. That player suffers 2 damage.
+      </p>
+    "
+ArmoredHaze-BS,BS,2,Minion,Armored Haze,"
+      <p>
+        <b>Persistent:</b> Any player suffers 1 damage for each shield token this minion has. Then, this minion suffers 1 damage.
+      </p>
+    "
+Muster-BS,BS,3,Attack,Muster,"
+      <p>
+        Unleash twice. Each minion in plays gains 5 life.
+      </p>
+    "
+BreachTunnel-BS,BS,3,Power,Breach Tunnel,"
+      <p>
+        <b>Power 4:</b> If each player has at least one closed breach, the nemesis overwhelms them and the players lose.
+      </p>
+    "
+MailedShade-BS,BS,3,Minion,Mailed Shade,"
+      <p>
+        This minion can only be dealt damage by spells cast from a III breach.<br />
+        <br />
+        <b>Persistent:</b> Unleash twice.
+      </p>
+    "

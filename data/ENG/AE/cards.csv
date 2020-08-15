@@ -1,0 +1,176 @@
+type,expansion,name,id,cost,effect,keywords
+Gem,AE,Diamond Cluster,DiamondCluster,4,"
+        <p>
+          Gain 2 <span class=""aether"">&AElig;</span>.<br/>
+          If this is the second time you have played Diamond Cluster this turn 
+          gain an additional 2 <span class=""aether"">&AElig;</span>.
+        </p>
+      ",[]
+Spell,AE,Chaos Arc,ChaosArc,6,"
+      <p>
+      <b>Cast:</b> Deal 3 damage.<br/>
+      Deal 2 additional damage for each prepped spell in an adjacent breach.
+        </p>
+        ",[]
+Spell,AE,Ignite,Ignite,4,"
+        <p>
+          <b>Cast:</b> Deal 2 damage.<br/>
+          Any ally gains 1 charge.
+        </p>
+          ",[]
+Spell,AE,Essence Theft,EssenceTheft,5,"
+        <p>
+          <b>Cast:</b> Deal 3 damage.<br/>
+          You may discard a card in hand. If your do, any player gains 1 life.
+        </p>
+      ",[]
+Gem,AE,Searing Ruby,SearingRuby,4,"
+      <p>
+      Gain 2 <span class=""aether"">&AElig;</span>.<br/>
+      Gain an additional 1 <span class=""aether"">&AElig;</span> that can only 
+      be used to gain a spell.
+      </p>
+      ",[]
+Spell,AE,Feral Lightning,FeralLightning,5,"
+        <p>
+          This spell may be prepped to a closed breach without focusing it.<br/>
+          <b>Cast:</b> Deal 3 damage.
+        </p>
+      ",[]
+Spell,AE,Planar Insight,PlanarInsight,6,"
+      <p>
+      <b>Cast:</b> Deal 2 damage.<br/>
+        Deal 1 addtional damage for each of your opened breaches.
+        </p>
+      ",[]
+Spell,AE,Spectral Echo,SpectralEcho,3,"
+        <p>
+          <b>Cast:</b> Deal 2 damage.<br/>
+          You may destroy a card in hand.
+        </p>
+          ",[]
+Gem,AE,Burning Opal,BurningOpal,5,"
+      <p>
+      Gain 3 <span class=""aether"">&AElig;</span>.<br/>
+      You may discard a card in hand. If you do, any ally draws a card.
+      </p>
+      ",[]
+Spell,AE,Consuming Void,ConsumingVoid,7,"
+      <p>
+      <b>Cast:</b> Destory up to two cards in hand.<br/>
+      Deal 3 damage for each card destroyed in this way.
+        </p>
+        ",[]
+Relic,AE,Unstable Prism,UnstablePrism,3,"
+      <p>
+        Play a gem in hand twice and destroy it.
+        <span class=""or"">OR</span>
+        Gain 2 <span class=""aether"">&AElig;</span>.
+      </p>
+        ",[]
+Gem,AE,Clouded Sapphire,CloudedSapphire,6,"
+      <p>
+      Gain 3 <span class=""aether"">&AElig;</span>.<br/>
+      If this is the first time you have played Clouded Sapphire this turn, 
+      any ally gains 1 charge.
+      </p>
+      ",[]
+Relic,AE,Mages Talisman,MagesTalisman,5,"
+      <p>
+        Gain 1 charge.<br/>
+        Any ally gains 1 charge.
+      </p>
+        ",[]
+Relic,AE,Flexing Dagger,FlexingDagger,2,"
+      <p>
+        The next time you focus or open a breach this turn, it costs 3 
+        <span class=""aether"">&AElig;</span> less.
+        <span class=""or"">OR</span>
+        Destory this. Deal 1 damage.
+      </p>
+        ",[]
+Spell,AE,Lava Tendril,LavaTendril,4,"
+      <p>
+        While prepped, at the end of your casting phase deal 1 damage.<br/>
+        <b>Cast:</b> Deal 3 damage.
+        </p>
+        ",[]
+Relic,AE,Bottled Vortex,BottledVortex,3,"
+      <p>
+        Destroy this.<br/>
+        Destory up to two cards in your hand or discard pile.<br/>
+        Draw a card.
+      </p>
+        ",[]
+Spell,AE,Arcane Nexus,ArcaneNexus,7,"
+      <p>
+      While prepped, once per turn during your main phase you may return a gem 
+      you played this turn to your hand.<br/>
+        <b>Cast:</b> Deal 4 damage.
+        </p>
+      ",[]
+Spell,AE,Dark Fire,DarkFire,5,"
+        <p>
+        <b>Cast:</b> Discard up to two cards in hand.<br/>
+        Deal 3 damage for each card discarded this way.
+        </p>
+        ",[]
+Spell,AE,Phoenix Flame,PhoenixFlame,3,"
+        <p>
+          <b>Cast:</b> Deal 2 damage.<br/>
+          You may lose 1 charge to deal 2 additional damage.
+        </p>
+      ",[]
+Gem,AE,Jade,Jade,2,"
+      <p>
+        Gain 2 <span class=""aether"">&AElig;</span>.
+      </p>
+        ",[]
+Spell,AE,Amplify Vision,AmplifyVision,4,"
+      <p>
+      <b>Cast:</b> Focus your closed breach with the lowest focus cost.<br/>
+      Deal 2 damage.<br/>
+      If all of your breaches are opened, deal 1 additional damage.
+        </p>
+      ",[]
+Gem,AE,Vriswood Amber,VriswoodAmber,3,"
+      <p>
+        When gain this, you may place it on top of your deck.<br/>
+        Gain 2 <span class=""aether"">&AElig;</span>.
+      </p>
+        ",[]
+Relic,AE,Blasting Staff,BlastingStaff,4,"
+      <p>
+        You may cast a prepped spell that you prepped this turn. If you do, 
+        that spell deals 2 additional damage.
+      </p>
+        ",[]
+Gem,AE,Sifters Pearl,SiftersPearl,3,"
+      <p>
+      Gain 2 <span class=""aether"">&AElig;</span>.<br/>
+      Each player reveals the top card of their deck and either discards it or 
+      returns it to the top of their deck.
+      </p>
+      ",[]
+Spell,AE,Wildfire Whip,WildfireWhip,6,"
+      <p>
+      While prepped, during your main phase you may spend 2 <span class=""aether"">&AElig;</span> 
+      to cast any player's prepped spell.<br/>
+        <b>Cast:</b> Deal 4 damage.
+        </p>
+      ",[]
+Relic,AE,Focusing Orb,FocusingOrb,4,"
+      <p>
+        Focus any player's breach.
+        <span class=""or"">OR</span>
+        Destory this. Gravehold gains 3 life.
+      </p>
+        ",[]
+Spell,AE,Oblivion Swell,OblivionSwell,5,"
+      <p>
+      While prepped, once per turn during your main phase you may gain 1 
+      <span class=""aether"">&AElig;</span>.<br/>
+      <b>Cast:</b> Deal 2 damage.<br/>
+      You may discard a gem. If you do, deal additional damage equal to its cost.
+        </p>
+      ",[]

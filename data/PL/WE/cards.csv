@@ -1,0 +1,176 @@
+type,expansion,name,id,cost,effect,keywords
+Gem,WE,Nieregularny Monokryształ,ErraticIngot,5,"
+      <p>
+      Otrzymujesz 2 <span class=""aether"">&AElig;</span>.<br/>
+      Otrzymujesz dodatkowe 2 <span class=""aether"">&AElig;</span> jeżeli w stosie odrzuconych kart tur 
+      jest przynajmniej jedna karta tury Nemezis.
+      </p>
+      ",[]
+Spell,WE,Spopielające Cienie,ReduceToAsh,7,"
+      <p>
+      Gdy przygotowane: na początku swojej fazy aktywacji odkryj wierzchnią kartę swojej talii. 
+      Możesz zniszczyć odkrytą kartę.<br/>
+        <b>Aktywacja:</b> Zadaj 4 obrażenia.
+        </p>
+        ",[]
+Relic,WE,Rękawica Wiru Magii,VortexGauntlet,6,"
+      <p>
+      Aktywuj przygotowane Zaklęcie dowolnego gracza.<br/>
+      Zwróć to Zaklęcie na rękę tego gracza.
+      </p>
+      ",[]
+Spell,WE,Zwęglenie,Carbonize,4,"
+      <p>
+      <b>Aktywacja:</b> Zadaj 3 obrażenia.<br/>
+      Odkryj wierzchnią kartę talii tur. Możesz umieścić tę kartę na spodzie talii tur.
+        </p>
+      ",[]
+Spell,WE,Equilibrium,Equilibrium,7,"
+      <p>
+      Gdy przygotowane: za każdym razem gdy otrzymujesz obrażenia obniżasz je o 1 (do minimum 1).<br/>
+        <b>Aktywacja:</b> Zadaj 4 obrażenia.
+        </p>
+        ",[]
+Gem,WE,Szkło Wulkaniczne,VolcanicGlass,3,"
+      <p>
+      Kiedy pozyskujesz tę kartę w swojej turze, możesz wydać 2 <span class=""aether"">&AElig;</span>. 
+      Jeżeli to zrobisz, dowolny sojusznik także pozyskuje Szkło Wulkaniczne i umieszcza je na wierzchu swojej talii.<br/>
+      Otrzymujesz 2 <span class=""aether"">&AElig;</span>.
+      </p>
+      ",[]
+Spell,WE,Sfera Konwekcji,ConvectionField,5,"
+      <p>
+      <b>Aktywacja:</b> Zadaj 4 obrażenia.
+        <span class=""or"">ALBO</span>
+      <b>Aktywacja:</b> Zadaj 2 obrażenia. Dowolny sojusznik może zniszczyć kartę z ręki.
+        </p>
+      ",[]
+Spell,WE,Postrzępiona Błyskawica,JaggedLightning,4,"
+      <p>
+      <b>Aktywacja:</b> Zadaj 3 obrażenia.<br/>
+      Możesz odrzucić kartę z ręki. Jeżeli to zrobisz, dowolny gracz wzmacnia swoją zamkniętą Bramę o najniższym koszcie.
+        </p>
+      ",[]
+Gem,WE,Krwawy Klejnot,BloodstoneJewel,6,"
+      <p>
+      Kiedy pozyskujesz Krwawy Klejnot po raz PIERWSZY w swojej turze, otrzymujesz 3 <span class=""aether"">&AElig;</span>. <br/>
+      Otrzymujesz 3 <span class=""aether"">&AElig;</span>.
+      </p>
+      ",[]
+Spell,WE,Iskrzenie,Kindle,4,"
+      <p>
+      Gdy przygotowane: podczas swojej fazy głównej możesz także przygotować jedną Iskrę na Bramie, na której to Iskrzenie.<br/>
+        <b>Aktywacja:</b> Zadaj 3 obrażenia.
+        </p>
+        ",[]
+Spell,WE,Myślokształtny Chowaniec,ThoughtformFamiliar,3,"
+      <p>
+      <b>Aktywacja:</b> Zadaj 2 obrażenia.<br/>
+      Zadaj 1 dodatkowe obrażenie za każde inne twoje przygotowane Zaklęcie.
+        </p>
+        ",[]
+Spell,WE,Krystalizacja,Crystallize,8,"
+      <p>
+      To Zaklęcie musi być przygotowane na dwóch sąsiadujących Bramach w taki sposób, 
+      aby karta dotykała obu Bram. Ta karta w pełni zajmuje obie Bramy.<br/>
+      <b>Aktywacja:</b> Dowolny sojusznik odkrywa swoje karty na ręku.<br/>
+      Zadaj 2 obrażenia za każdy Klejnot na ręce tego sojusznika.
+        </p>
+        ",[]
+Spell,WE,Ognisty Szturm,FieryTorrent,5,"
+      <p>
+      <b>Aktywacja:</b> Zadaj 2 obrażenia.<br/>
+      Zadaj dodatkowe 2 obrażenia za każdy inny Ognisty Szturm przygotowany przez dowolnego gracza.
+        </p>
+      ",[]
+Spell,WE,Iglica Świętego Ognia,CelestialSpire,5,"
+      <p>
+      <b>Aktywacja:</b> Zadaj 3 obrażenia.<br/>
+      Jeżeli stos zasobów tej karty jest pusty, dowolny sojusznik dobiera kartę.
+        </p>
+      ",[]
+Spell,WE,Przywołanie Zagubionych Dusz,ConjureTheLost,6,"
+      <p>
+      <b>Aktywacja:</b> Zadaj 5 obrażeń.<br/>
+      Możesz zniszczyć tę kartę. Jeżeli to zrobisz, Gravehold otrzymuje 4 żywotności.
+        </p>
+      ",[]
+Spell,WE,Kuźnia Energetyczna,NovaForge,6,"
+      <p>
+      Gdy przygotowane: raz na turę podczas swojej fazy głównej możesz otrzymać 2 
+      <span class=""aether"">&AElig;</span>, które możesz użyć tylko, aby pozyskać Zaklęcie.<br/>
+        <b>Aktywacja:</b> Zadaj 4 obrażenia.
+        </p>
+        ",[]
+Gem,WE,Brylant Grozy,DreadDiamond,3,"
+      <p>
+      Otrzymujesz 2 <span class=""aether"">&AElig;</span>.<br/>
+      Możesz odrzucić przygotowane zaklęcie. Jeżeli to zrobisz otrzymujesz dodatkowy 1  
+      <span class=""aether"">&AElig;</span>.
+      </p>
+      ",[]
+Relic,WE,Kompas z Kamiennego Kręgu,CairnCompass,4,"
+      <p>
+      Dowolny sojusznik może przygotować Zaklęcie ze swojego stosu kart odrzuconych na swojej otwartej 
+      lub zamkniętej Bramie/Bramach.
+      </p>
+      ",[]
+Gem,WE,Szlaka Skorii,ScoriaSlag,4,"
+      <p>
+      Otrzymujesz 2 <span class=""aether"">&AElig;</span>.<br/>
+      Jeżeli rząd kart Nemezis jest wyższy niż 1, otrzymujesz dodatkowo 1 <span class=""aether"">&AElig;</span>.
+      </p>
+      ",[]
+Gem,WE,Ruda Bram,BreachOre,4,"
+      <p>
+      Otrzymujesz 2 <span class=""aether"">&AElig;</span>.<br/>
+      <span class=""or"">ALBO</span>
+      Wzmocnij swoją zamkniętą bramę o najniższym koszcie wzmocnienia.
+      </p>
+      ",[]
+Relic,WE,Bestiołap,FiendCatcher,3,"
+      <p>
+      Możesz zniszczyć jedną kartę ze swojej ręki lub stosu kart odrzuconych.<br/>
+      Odkryj wierzchnią kartę talii tur. Jeżeli odkryłeś kartę tury Nemezis, możesz umieścić tę kartę na spodzie talii tur.
+      </p>
+      ",[]
+Spell,WE,Fala Pirotechniczna,PyrotechnicSurge,4,"
+      <p>
+      To Zaklęcie musi być przygotowane na dwóch sąsiadujących Bramach w taki sposób, 
+      aby karta dotykała obu Bram. Ta karta w pełni zajmuje obie Bramy.<br/>
+      <b>Aktywacja:</b> Zadaj 4 obrażenia.<br/>
+      Możesz zniszczyć kartę ze swojego stosu kart odrzuconych.
+        </p>
+      ",[]
+Spell,WE,Zorza,Aurora,5,"
+      <p>
+      Gdy przygotowane: raz na turę w trakcie swojej fazy głównej możesz otrzymać 1 Ładunek.<br/>
+        <b>Aktywacja:</b> Zadaj 3 obrażenia.
+        </p>
+        ",[]
+Relic,WE,Zwój Konklawe,ConclaveScroll,3,"
+      <p>
+      Otrzymujesz 1 Ładunek.<br/>
+      Jeżeli stos zasobów tej kart jest pusty, możesz zniszczyć wierzchnią kartę stosu kart odrzuconych dowolnego sojusznika.
+      </p>
+      ",[]
+Relic,WE,Pierwotny Fetysz,PrimordialFetish,4,"
+      <p>
+      Wzmocnij Bramę dowolnego gracza.
+        <span class=""or"">ALBO</span>
+      Zniszcz tę kartę. Otrzymujesz 3 punkty życia.
+      </p>
+      ",[]
+Gem,WE,Zamarznięty Melafir,FrozenMagmite,3,"
+      <p>
+      Otrzymujesz 2 <span class=""aether"">&AElig;</span>.<br/>
+      Następną kartę, którą pozyskasz w tej turze, możesz położyć na wierzchu swojej talii.
+      </p>
+      ",[]
+Relic,WE,Totem Maga,MagesTotem,2,"
+      <p>
+      Zniszcz Klejnot lub Artefakt, który zagrałeś w tej turze.
+        <span class=""or"">ALBO</span>
+      Zniszcz tę kartę. Gravehold otrzymuje 1 żywotności.
+      </p>
+      ",[]

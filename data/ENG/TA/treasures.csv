@@ -1,0 +1,62 @@
+id,name,expansion,level,subtype,effect
+RemnantsVoidShard,Remnant's Void Shard,TA,1,Gem,"
+      <p>
+      Gain 1 <span class=""aether"">&AElig;</span>.<br/>
+      Gain an additional 1 <span class=""aether"">&AElig;</span> that can only 
+      be used to focus or open a breach.
+      </p>
+      "
+QuiliussErasure,Quilius's Erasure,TA,1,Spell,"
+      <p>
+      <b>Cast:</b> Deal 1 damage.<br/>
+      If this damages a minion, deal 1 additional damage.
+      </p>
+      "
+ZhanasFleetingEmber,Z'hana's Fleeting Ember,TA,1,Spell,"
+      <p>
+      <b>Cast:</b> Deal 1 damage.
+        <span class=""or"">OR</span>
+      <b>Cast:</b> Cast one of your prepped spells that costs 4 
+      <span class=""aether"">&AElig;</span> or less without discarding it.
+      </p>
+      "
+BlightedRootClump,Blighted Root Clump,TA,2,,"
+      <p>
+      When the last card in a supply pile is gained or destroyed, any player 
+      gains 3 life.
+      </p>
+      "
+PetrifiedWitchFinger,Petrified Witch Finger,TA,2,,"
+      <p>
+      When the last card in a supply pile is gained or destroyed, any player 
+      gains 3 charges.
+      </p>
+      "
+WaywardScraps,Wayward Scraps,TA,2,,"
+      <p>
+      Once per turn during any player's main phase that player may spend 
+      4 <span class=""aether"">&AElig;</span> to focus each player's IV breach.
+      </p>
+      "
+TrueSightMonocle,True Sight Monocle,TA,3,,"
+      <p>
+      At the start of your main phase, if there are six or more cards in 
+      your discard pile, gain 2 <span class=""aether"">&AElig;</span>.
+      </p>
+      "
+EntwinedAetherStrands,Entwined Aether Strands,TA,3,,"
+      <p>
+      At the end of your draw phase, you may discard one card in hand and 
+      draw a card.
+      </p>
+      "
+SiphoningBlade,Siphoning Blade,TA,3,,"
+      <p>
+      Once per turn when you focus or open a breach, gain 1 charge.
+      </p>
+      "
+GemEncrustedAnklet,Gem Encrusted Anklet,TA,3,,"
+      <p>
+      At the start of your first turn of the game, gain 3 <span class=""aether"">&AElig;</span>.
+      </p>
+      "

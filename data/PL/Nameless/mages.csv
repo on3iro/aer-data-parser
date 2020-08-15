@@ -1,0 +1,6 @@
+expansion,name,id,mageTitle,ability,numberOfCharges,uniqueStarters
+Nameless,Malastar,Malastar,Mentor Magów Bram,"
+        <h2>Dar Eteru</h2>
+        <p class=""ability-activation"">Użyj podczas swojej fazy głównej:</p>
+        <p>Pozyskaj jedno Zaklęcie z dowolnego stosu zasobów. Możesz przygotować to Zaklęcie na otwartej Bramie dowolnego gracza.</p>
+      ",6,"[{""type"":""Spell"",""name"":""Samospalanie"",""expansion"":""Nameless"",""id"":""Immolate"",""cost"":0,""effect"":""\n            <p>\n              Gdy przygotowane: gdy otrzymujesz co najmniej 1 obrażenie, otrzymujesz 1 Ładunek.<br/>\n              <b>Aktywacja:</b> Zadaj 1 obrażenie.\n            </p>\n          "",""keywords"":[]}]"

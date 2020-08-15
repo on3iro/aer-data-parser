@@ -1,0 +1,66 @@
+type,expansion,name,id,cost,effect,keywords
+Gem,TV,Fossilized Scarab,FossilizedScarab,3,"
+      <p>
+      Gain 2 <span class=""aether"">&AElig;</span>.
+        <span class=""or"">OR</span>
+      Destroy a card in hand.
+      </p>
+      ",[]
+Spell,TV,Thermal Dart,ThermalDart,4,"
+      <p>
+      <b>Link</b> <span class=""hint"">(Two spells with Link may be prepped to the same breach.)</span>
+      </p>
+      <p>
+      <b>Cast:</b> Deal 3 damage.<br/>
+      If this is not the first Thermal Dart you have cast this turn, gain 1 charge.
+        </p>
+      ","[""link""]"
+Spell,TV,Resonate,Resonate,6,"
+      <p>
+      <b>Cast:</b> Deal 4 damage.<br/>
+      If there are six or more other cards in your discard pile, deal 3 
+      additional damage.
+        </p>
+      ",[]
+Spell,TV,Conflagration,Conflagration,3,"
+      <p>
+      <b>Link</b> <span class=""hint"">(Two spells with Link mat be prepped to the same breach.)</span>
+      </p>
+      <p>
+      <b>Cast:</b> Deal 2 damage.<br/>
+      Gain 1 <span class=""aether"">&AElig;</span>.
+        </p>
+      ","[""link""]"
+Relic,TV,Dimensional Key,DimensionalKey,8,"
+      <p>
+      Any ally draws two cards.
+        <span class=""or"">OR</span>
+      Destroy this. Suffer 1 damage. Place a card in play from the nemesis deck
+      on top of the nemesis deck.
+      </p>
+      ",[]
+Spell,TV,Inner Fire,InnerFire,2,"
+      <p>
+        <b>Link</b> <span class=""hint"">(Two spells with Link mat be prepped to the same breach.)</span>
+      </p>
+      <p>
+        <b>Cast:</b> Deal 1 damage.<br/>
+        If the nemesis tier is 2 or higher, deal 1 additional damage.
+        </p>
+        ","[""link""]"
+Spell,TV,Fulminate,Fulminate,5,"
+      <p>
+      While prepped, other spells you cast deal 1 additional damage.
+      </p>
+      <p>
+      <b>Link</b> <span class=""hint"">(Two spells with Link mat be prepped to the same breach.)</span>
+      </p>  
+      <b>Cast:</b> Deal 3 damage.
+        </p>
+        ","[""link""]"
+Relic,TV,Eternity Charm,EternityCharm,3,"
+      <p>
+        Focus your closed breach with the lowest focus cost. Reveal the top 
+        three cards of your deck. You may prep on of the revealed cards.
+      </p>
+        ",[]

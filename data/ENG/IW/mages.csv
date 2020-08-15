@@ -1,0 +1,16 @@
+expansion,name,id,mageTitle,ability,numberOfCharges,uniqueStarters,complexityRating
+IW,Inco,Inco,Child Of Green,"
+        <h2>Massive Growth</h2>
+        <p class=""ability-activation"">Activate during your main phase:</p>
+        <p>Cast any number of Rose Thorns prepped by any number of players. 
+        Those spells deal 2 additional damage.</p>",5,"[{""type"":""Gem"",""name"":""Verdant Emerald"",""expansion"":""IW"",""id"":""VerdantEmerald"",""cost"":0,""effect"":""<p>Gain 1 <span class=\""aether\"">&AElig;</span>.\n            <span class=\""or\"">OR</span>\n            Gain a Rose Thorn from the Rose Thorn deck. \n            Place that card on top of any player's discard pile.</p>"",""keywords"":[]}]",4
+IW,Razra,Razra,The Trainer,"
+        <h2>Train Rip</h2>
+        <p class=""ability-activation"">Activate during your main phase:</p>
+        <p>Destroy a card with ""Rip"" in its name in your hand. 
+        Gain a card with ""Rip"" in its name from the personal upgrade deck 
+        that costs 3 <span class=""aether"">&AElig;</span> more than the destroyed card 
+        and place that card into your hand.
+        <span class=""or"">OR</span>
+        Return to your hand all cards with ""Rip"" in their name 
+        you have played this turn or are in your discard pile.</p>",4,"[{""type"":""Relic"",""name"":""Rip, Help!"",""expansion"":""IW"",""id"":""RipHelp"",""cost"":0,""effect"":""<p>Gain 1 charge.</p>"",""keywords"":[]}]",7

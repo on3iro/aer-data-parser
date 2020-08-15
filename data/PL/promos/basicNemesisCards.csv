@@ -1,0 +1,81 @@
+id,expansion,tier,type,name,effect
+Menace-promos,promos,1,Attack,Zmora,"
+      <p>
+        Gracze wspólnie odrzucają cztery karty.
+      </p>
+    "
+GlyphEnigma-promos,promos,1,Minion,Glif-Pułapka,"
+      <p>
+        <b>TRWAŁY:</b> Gravehod otrzymuje 1 obrażenie. Jeżeli ostatnia dobrana karta Nemezis była drugiego rzędu, lub wyższego, 
+        Gravehold otrzymuje dodatkowo 2 obrażenia.
+      </p>
+    "
+GravitySplinter-promos,promos,2,Power,Ułamek Grawitacji,"
+      <p>
+        <b>ABY ODRZUCIĆ:</b> Wydaj 7 <span class=""aether"">&AElig;</span>.<br />
+        <br />
+        <b>MOC 2:</b> Dwukrotne Wyzwolenie. Gracz z najmniejszą liczbą otwartych Bram otrzymuje 3 obrażenia.
+      </p>
+    "
+WorldPurge-promos,promos,3,Power,Oczyszczenie Świata,"
+      <p>
+        <b>ABY ODRZUCIĆ:</b> Wydaj 8 <span class=""aether"">&AElig;</span>.<br />
+        <br />
+        <b>MOC 2:</b> Trzykrotne wyzwolenie.<br />
+        <br />
+        <span class=""or"">ALBO</span><br />
+        <br />
+        Gravehold otrzymuje 7 obrażeń.
+      </p>
+    "
+BaneSire-promos,promos,1,Minion,Bane Sire,"
+      <p>
+        <b>Persistent:</b> Unleash.
+      </p>
+    "
+Decimate-promos,promos,1,Attack,Zdziesiątkowanie,"
+      <p>
+        Dwukrotne Wyzwolenie. Dowolny gracz otrzymuje 2 Ładunki.<br />
+        <br />
+        <span class=""or"">ALBO</span><br />
+        <br />
+        Gravehold otrzymuje 4 obrażenia.
+      </p>
+    "
+SpiritCage-promos,promos,1,Power,Cela Duszy,"
+      <p>
+        <b>ABY ODRZUCIĆ:</b> Odrzuć z ręki kartę kosztującą 5 <span class=""aether"">&AElig;</span> lub więcej.<br />
+        <br />
+        <b>MOC 3:</b> Dwukrotne Wyzwolenie. Dowolny gracz odrzuca z ręki kartę Zaklęcia.
+      </p>
+    "
+BanefulCrux-promos,promos,2,Power,Sedno Zguby,"
+      <p>
+        <b>ABY ODRZUCIĆ:</b> Odrzuć z ręki dwie karty, z których każda kosztuje 4 <span class=""aether"">&AElig;</span> lub więcej.<br />
+        <br />
+        <b>MOC 2:</b> Dwukrotne Wyzwolenie. Gravehold otrzymuje 3 obrażenia.
+      </p>
+    "
+Negate-promos,promos,2,Attack,Negacja,"
+      <p>
+        Dwukrotne Wyzwolenie.<br />
+        <br />
+        Dowolny gracz niszczy najdroższą kartę na ręce.<br />
+        <br />
+        <span class=""or"">ALBO</span><br />
+        <br />
+        Dwukrotne Wyzwolenie. Gravehold otrzymuje 3 obrażenia.
+      </p>
+    "
+Gallowskulk-promos,promos,3,Minion,Skrytoszkielet,"
+      <p>
+      <b>TRWAŁY:</b> Gracz z najmniejszą liczbą punktów życia otrzymuje 3 obrażenia.
+      </p>
+    "
+Unmake-promos,promos,3,Attack,Zniszczenie,"
+      <p>
+        Dwukrotne Wyzwolenie.<br />
+        <br />
+        Dowolny gracz niszczy trzy wierzchnie karty ze swojej talii i otrzymuje 3 obrażenia.
+      </p>
+    "

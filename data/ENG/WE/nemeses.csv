@@ -1,0 +1,10 @@
+expansion,name,id,health,difficulty,expeditionRating,additionalInfo
+WE,Gate Witch,GateWitch,70,7,4,"
+        <p>
+          When Gate Witch accelerates time, it loses five nemesis tokens 
+          instead of four nemesis tokens.
+        </p>
+      "
+WE,Hollow Crown,HollowCrown,1,5,3,
+WE,Magus Of Cloaks,MagusOfCloaks,35,7,3,
+WE,Umbra Titan,UmbraTitan,70,3,1,

@@ -1,0 +1,115 @@
+id,name,expansion,level,subtype,effect
+DezmodiasOblivionShard,Dezmodia's Oblivion Shard,IW,1,Gem,"
+        <p>
+        Gain 2 <span class=""aether"">&AElig;</span> that cannot be used to gain 
+        a relic or spell.
+        </p>
+      "
+UlgimorsCoalFragment,Ulgimor's Coal Fragment,IW,1,Gem,"
+        <p>
+        Gain 2 <span class=""aether"">&AElig;</span> and suffer 1 damage.
+          <span class=""or"">OR</span>
+        Gain 1 life.
+        </p>
+      "
+IndirasLoneOpal,Indiras's Lone Opal,IW,1,Gem,"
+        <p>
+        Gain 1 <span class=""aether"">&AElig;</span>.<br/>
+        You may cast a spell in hand that costs 4 aether or less.
+        </p>
+      "
+MistsAmethystParagon,Mist's Amethyst Paragon,IW,1,Gem,"
+        <p>
+        Gain 1 <span class=""aether"">&AElig;</span>.<br/>
+        Any ally may prep a spell in hand to their opened or closed breach(es).
+        </p>
+      "
+MalastarsImmolate,Malastar's Immolate,IW,1,Spell,"
+        <p>
+        While prepped, when you suffer damage gain 1 charge.<br/>
+        <b>Cast:</b> Deal 1 damage.
+        </p>
+      "
+YanMagdasIlluminate,Yan Magda's Illuminate,IW,1,Spell,"
+        <p>
+        While prepped, when you focus or open one of your breaches during your turn, 
+        deal 1 damage.<br/>
+        <b>Cast:</b> Deal 1 damage.
+        </p>
+      "
+EyeOfTheMaelstrom,Eye Of The Maelstrom,IW,2,,"
+        <p>
+        At the start of the game, set this next to a supply pile that costs 
+        4 <span class=""aether"">&AElig;</span> or more. When a player gains a 
+        card from that supply pile, that player gains 1 life.
+        </p>
+      "
+WellOfDespair,Well Of Despair,IW,2,,"
+        <p>
+        When a player deals 6 or more damage to the nemesis with a single spell, 
+        add a power token to this card.<br/>
+        <br/>
+        At the start of the nemesis turn, the nemesis suffers damage equal to the 
+        number of tokens on this card.
+        </p>
+      "
+CronesAmulet,Crones's Amulet,IW,2,,"
+        <p>
+        When a player opens a breach, that player may destroy a card in hand.
+        </p>
+      "
+EdibleFungusChunks,Edible Fungus Chunks,IW,2,,"
+        <p>
+        When a player gains life, they gain an additional 1 life.
+        </p>
+      "
+UmbralHornOfWar,Umbral Horn Of War,IW,2,,"
+        <p>
+        At the start of the game, set this next to a spell supply pile that costs 
+        6 <span class=""aether"">&AElig;</span> or more. Those spells deal 2 
+        additional damage when cast.
+        </p>
+      "
+TheBrokenMask,The Broken Mask,IW,2,,"
+        <p>
+        After a player finishes resolving their ability, any ally gains a charge.
+        </p>
+      "
+AlchemistsAlembic,Alchemist's Alembic,IW,3,,"
+        <p>
+          Once per turn during your main phase, when you play the second 
+          gem or relic that costs 4 <span class=""aether"">&AElig;</span> or more, deal 3 damage.
+        </p>
+      "
+SoothsayersPouch,Soothsayer's Pouch,IW,3,,"
+      <p>
+      Add an additional level 1 treasure to your starting deck using the level 1 treasure rules. <br/>
+      <br/>
+      Your group can use an additional level 2 treasure.
+      </p>
+      "
+SuppressingPin,Suppressing Pin,IW,3,,"
+      <p>
+      Once per turn during your main phase, you may discard a card in hand. If you do, any ally draws a card and you may add a power token to a power in play.
+      </p>
+      "
+Quicksilver,Quicksilver,IW,3,,"
+      <p>
+      When you cast a spell that costs 2 <span class=""aether"">&AElig;</span> 
+      or more, you may place it into any ally's hand instead of discarding it.
+      </p>
+      "
+BandOfRetrieval,Band of Retrieval,IW,3,,"
+      <p>
+      At the start of your casting phase, you may lose 1 charge. If you do, 
+      return the next spell you cast during this casting phase to your hand 
+      instead of discarding it.
+      </p>
+      "
+PurifiedBangle,Purified Bangle,IW,3,,"
+      <p>
+      Once per turn during your main phase, you may spend 9 <span class=""aether"">&AElig;</span> 
+      and suffer 1 damage to place a card in play from the nemesis deck on top 
+      of the nemesis deck.
+      </p>
+      "

@@ -1,0 +1,34 @@
+id,name,expansion,level,subtype,effect
+MazahaedronsWorldheartShard,Mazahaedron's Worldheart Shard,SD,1,Gem,"
+      <p>
+      Gain 1 <span class=""aether"">&AElig;</span>.
+        <span class=""or"">OR</span>
+      Gain 2 <span class=""aether"">&AElig;</span> that can only be used to gain 
+      a card. Place the next card you gain this turn on top of any ally's discard pile.
+      </p>
+      "
+PhaedraxasTourmalineShard,Phaedraxa's Tourmaline Shard,SD,1,Gem,"
+      <p>
+      Gain 1 <span class=""aether"">&AElig;</span>.<br/>
+      Any ally may suffer 1 damage. If they do, they destroy a card in hand.
+      </p>
+      "
+FracturedShell,Fractured Shell,SD,2,,"
+      <p>
+      At the start of the game, set this next to asupply pile that costs 4 
+      <span class=""aether"">&AElig;</span> or more. When a player gains a card 
+      from that supply, that player gains a charge.
+      </p>
+      "
+Extra-DimensionalLens,Extra-Dimensional Lens,SD,3,,"
+      <p>
+      Once per turn during your main phase, you may reveal the top three cards 
+      of the nemesis deck. Return them in any order.
+      </p>
+      "
+SeersBracer,Seer's Bracer,SD,3,,"
+      <p>
+      Once per turn during your main phase when you gain a charge, any ally 
+      draws a card.
+      </p>
+      "

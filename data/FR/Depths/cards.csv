@@ -1,0 +1,38 @@
+type,expansion,name,id,cost,effect,keywords
+Spell,Depths,Lien du vide,VoidBond,4,"<p>
+<b>Lancer :</b> Infligez 3 dégâts.<br/>
+Vous pouvez lancer un sort préparé de n'importe quel joueur.
+</p>",[]
+Spell,Depths,Combustion,Combustion,5,"<p>
+<b>Lancer :</b> Infligez 2 dégâts à un serviteur.<br/>
+Infligez 2 dégâts à un autre serviteur ou à la Némésis.<br/>
+(Les effets modifiant les dégâts s'appliquent aux dégâts de chacun des deux effets de cette carte)
+</p>",[]
+Relic,Depths,Dynamo de vigueur,VimDynamo,4,"<p>
+Subissez 1 dégât. Un joueur pioche deux cartes.<br/>
+ou<br/>
+Détruisez cette carte. Un joueur gagne 2 points de vie et 1 charge.
+</p>",[]
+Spell,Depths,Faux de désintégration,DisintegratingScythe,7,"<p>
+<b>Lancer :</b> Infligez 8 dégâts. Subissez 1 dégât.<br/>
+Plutôt que de défausser cette carte, détruisez-la, ou placez-la sur la défausse d'un joueur.
+</p>",[]
+Spell,Depths,Brasier monstrueux,MonstrousInferno,8,"<p>
+Ce sort doit être préparé sur deux brèches adjacentes, de manière à ce qu'il touche les deux brèches.<br/>
+Les deux brèches sont occupées par ce sort.<br/>
+<br/>
+<b>Lancer :</b> Infligez 7 dégâts répartis librement entre la Némésis et autant de serviteurs que souhaité.
+</p>",[]
+Spell,Depths,Ombre dévorante,DevouringShadow,6,"<p>
+Lorsque péparé, une fois par tour, durant votre phase principale, vous pouvez détruire une carte de votre main.<br/>
+<br/>
+<b>Lancer :</b> Infligez 3 dégâts.
+</p>",[]
+Gem,Depths,Topaze de bannissement,BanishingTopaz,5,"<p>
+Gagnez 2 <span class=""aether"">&AElig;</span><br/>
+Vous pouvez placer une carte de votre main sur votre pioche. Si vous le faites, gagnez 2 <span class=""aether"">&AElig;</span> supplémentaires
+</p>",[]
+Relic,Depths,Transmogriffeur,Transmogrifier,4,"<p>
+Détruisez une carte de votre main.<br/>
+Vous pouvez gagner une carte d'une pile de la réserve qui coûte jusqu'à 3 <span class=""aether"">&AElig;</span> de plus que la carte détruite.
+</p>",[]

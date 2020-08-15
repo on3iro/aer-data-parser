@@ -1,0 +1,169 @@
+id,expansion,tier,type,name,effect
+Afflict-WE,WE,1,Attack,Dokuczliwy Dotyk,"
+      <p>
+        Wyzwolenie.<br />
+        <br />
+        Dowolny gracz otrzymuje 3 obrażenia i może dobrać na rękę kartę ze swojego stosu kart odrzuconych.
+      </p>
+    "
+CatacombDrone-WE,WE,1,Minion,Robotnica z Katakumb,"
+      <p>
+        <b>TRWAŁY:</b> Wyzwolenie. Gravehold otrzymuje 1 obrażenie.
+      </p>
+    "
+Encroach-WE,WE,1,Attack,Wtargnięcie,"
+      <p>
+        Wyzwolenie.<br />
+        <br />
+        Odkryj wierzchnią kartę talii tur. Jeżeli odkryta została karta tury gracza, ten gracz otrzymuje 2 obrażenia. W innym przypadku, 
+        Gravehold otrzymuje 3 obrażenia.
+      </p>
+    "
+HeartofNothing-WE,WE,1,Power,Serce Nicości,"
+      <p>
+        <b>ABY ODRZUCIĆ:</b> Odrzuć cztery karty z ręki.<br />
+        <br />
+        <b>MOC 2:</b> Dwukrotne Wyzwolenie.<br />
+        <br />
+        <span class=""or"">ALBO</span><br />
+        <br />
+        Dowolny gracz otrzymuje 4 obrażenia.
+      </p>
+    "
+HowlingSpinners-WE,WE,1,Minion,Wijący Tkacze,"
+      <p>
+        <b>TRWAŁY:</b> Dowolny gracz otrzymuje 2 obrażenia.
+      </p>
+    "
+NightUnending-WE,WE,1,Power,Niekończąca się noc,"
+      <p>
+        <b>MOC 3:</b> Gravehold otrzymuje 2 obrażenia za każde Zaklęcie przygotowane przez gracza, który ma najwięcej przygotowanych Zaklęć.
+      </p>
+    "
+Nix-WE,WE,1,Attack,Wykończenie,"
+      <p>
+        Wyzwolenie.<br />
+        <br />
+        Dowolny gracz otrzymuje 1 obrażenie i odrzuca z ręki kartę o najwyższej wartości.
+      </p>
+    "
+PlanarCollision-WE,WE,1,Power,Kolizja Planarna,"
+      <p>
+        <b>ABY ODRZUCIĆ:</b> Odrzuć dwa przygotowane Zaklęcia.<br />
+        <br />
+        <b>MOC 2:</b> Dwukrotne Wyzwolenie.
+      </p>
+    "
+Thrash-WE,WE,1,Attack,Młócka,"
+      <p>
+        Wyzwolenie.<br />
+        <br />
+        Gracze wspólnie odrzucają 2 karty z ręki.
+      </p>
+    "
+AphoticSun-WE,WE,2,Power,Posępne Słońce,"
+      <p>
+        <b>ABY ODRZUCIĆ:</b> Wydaj 7 <span class=""aether"">&AElig;</span>.<br />
+        <br />
+        <b>MOC 2:</b> Wyzwolenie. Gracz posiadający najwięcej Ładunków otrzymuje 3 obrażenia i traci wszystkie swoje Ładunki.
+      </p>
+    "
+ChaosFlail-WE,WE,2,Power,Kiścień Chaosu,"
+      <p>
+        <b>ABY ODRZUCIĆ:</b> Wydaj 7 <span class=""aether"">&AElig;</span>.<br />
+        <br />
+        <b>MOC 2:</b> Dwukrotne Wyzwolenie. Dowolny gracz umieszcza swój stos kart odrzuconych na wierzchu swojej talii po czym ją tasuje.
+        Następnie ten gracz odkrywa dwie wierzchnie karty swojej talii i niszczy najdroższą z odkrytych kart.
+      </p>
+    "
+MageEnder-WE,WE,2,Minion,Zabójca Magów,"
+      <p>
+        <b>TRWAŁY:</b> Gracz z największą liczbą otwartych Bram otrzymuje 2 obrażenia.
+      </p>
+    "
+Mangleroot-WE,WE,2,Minion,Rozrywokrzew,"
+      <p>
+        <b>TRWAŁY:</b> Gravehold otrzymuje 3 obrażenia. Ten Poplecznik otrzymuje 2 obrażenia.
+      </p>
+    "
+MorbidGyre-WE,WE,2,Power,Makabryczny Wir,"
+      <p>
+        <b>ABY ODRZUCIĆ:</b> Wydaj 7 <span class=""aether"">&AElig;</span>.<br />
+        <br />
+        <b>MOC 1:</b> Dwukrotne Wyzwolenie. Gracze wspólnie odrzucają 3 karty z ręki.
+      </p>
+    "
+Mutilate-WE,WE,2,Attack,Okaleczenie,"
+      <p>
+        Wyzwolenie.<br />
+        <br />
+        Gracze wspólnie odrzucają 2 przygotowane Zaklęcia. Dowolny gracz otrzymuje 2 obrażenia.
+      </p>
+    "
+NullScion-WE,WE,2,Minion,Potomek Nicości,"
+      <p>
+        <b>TRWAŁY:</b> Wyzwolenie.
+      </p>
+    "
+Smite-WE,WE,2,Attack,Porażenie,"
+      <p>
+        Dwukrotne Wyzwolenie.<br />
+        <br />
+        Gravehold otrzymuje 2 obrażenia.
+      </p>
+    "
+ApocalypseRitual-WE,WE,3,Power,Rytuał Apokalipsy,"
+      <p>
+        <b>ABY ODRZUCIĆ:</b> Wydaj 8 <span class=""aether"">&AElig;</span>.<br />
+        <br />
+        <b>MOC 2:</b> Gravehold otrzymuje 5 obrażeń za każdą kartę tury Nemezis w stosie odrzuconych kart tur.
+      </p>
+    "
+Banish-WE,WE,3,Attack,Wygnanie,"
+      <p>
+        Dwukrotne Wyzwolenie.<br />
+        <br />
+        Gracz z największą liczbą przygotowanych Zaklęć otrzymuje po 1 obrażeniu za każde z nich.
+      </p>
+    "
+CataclysmicFate-WE,WE,3,Power,Skazanie na Zagładę,"
+      <p>
+        <b>ABY ODRZUCIĆ:</b> Zniszcz przygotowane Zaklęcie o koszcie 5 lub więcej <span class=""aether"">&AElig;</span> oraz Bramę, 
+        na której było ono przygotowane.<br />
+        <br />
+        <b>MOC 1:</b> Gracz z najmniejszą liczbą punktów życia otrzymuje 4 obrażenia.
+      </p>
+    "
+MonstrosityofOmens-WE,WE,3,Minion,Abominacja Omenów,"
+      <p>
+        Wartość obrażeń zadawanych temu Poplecznikowi jest obniżana do 1 obrażenia.<br />
+        <br />
+        <b>TRWAŁY:</b> Gravehold otrzymuje obrażenia w liczbie równej aktualnej liczbie punktów życia tego Poplecznika.
+      </p>
+    "
+Engulf-WE,WE,3,Attack,Przytłoczenie,"
+      <p>
+        Rozpatrz ponownie ostatnią odrzuconą kartę Ataku ze stosu kart odrzuconych Nemezis.
+      </p>
+    "
+Quell-WE,WE,3,Attack,Stłamszenie,"
+      <p>
+        Gravehold otrzymuje 7 obrażeń.<br />
+        <br />
+        <span class=""or"">ALBO</span><br />
+        <br />
+        Trzykrotne Wyzwolenie.
+      </p>
+    "
+Throttle-WE,WE,3,Attack,Przyduszenie,"
+      <p>
+        Dwukrotne Wyzwolenie.<br />
+        <br />
+        Dowolny gracz niszczy trzy karty o najwyższej wartości, które ma na ręce.
+      </p>
+    "
+WitheringBeam-WE,WE,3,Power,Promień Uwiądu,"
+      <p>
+        <b>MOC 2:</b> Dwukrotne Wyzwolenie. Gracze wspólnie niszczą 2 przygotowane Zaklęcia o najwyższej wartości.
+      </p>
+    "

@@ -1,0 +1,7 @@
+expansion,name,id,mageTitle,ability,numberOfCharges,uniqueStarters,complexityRating
+SD,Nook,Nook,Orb Caller,"
+        <h2>Condense Aether</h2>
+        <p class=""ability-activation"">Activate during your main phase:</p>
+        <p>You my destroy a card in your hand or discard pile.
+        Gain 4 <span class=""aether"">&AElig;</span>.<br/>
+        You may place the next spell you gain this turn into your hand.</p>",5,"[{""type"":""Gem"",""name"":""Mystic Orb"",""expansion"":""SD"",""id"":""MysticOrb"",""cost"":0,""effect"":""<p>Gain 1 charge.<br/>\n          Cast a spell in your hand. Return that spell to its supply pile, \n          if able. You may lose 1 charge to gain a spell from any supply pile \n          that costs less than the cast spell.</p>"",""keywords"":[]}]",9

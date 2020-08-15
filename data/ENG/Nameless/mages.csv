@@ -1,0 +1,7 @@
+expansion,name,id,mageTitle,ability,numberOfCharges,uniqueStarters
+Nameless,Malastar,Malastar,Breach Mage Mentor,"
+        <h2>Gift Of Aether</h2>
+        <p class=""ability-activation"">Activate during your main phase:</p>
+        <p>Gain a spell from any supply pile. You may prep that spell to 
+        any player's opened breach.</p>
+      ",6,"[{""type"":""Spell"",""name"":""Immolate"",""expansion"":""Nameless"",""id"":""Immolate"",""cost"":0,""effect"":""\n            <p>\n              While prepped, when you suffer 1 damage gain 1 charge.<br/>\n              <b>Cast:</b> Deal 1 damage.\n            </p>\n          "",""keywords"":[]}]"

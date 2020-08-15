@@ -1,0 +1,143 @@
+id,expansion,tier,type,name,power,effect
+AgonyField-AE,AE,1,Power,Feld Der Qualen,2,"
+      <p>
+        <b>Verhindern:</b> Zerstöre 1 Karte deiner Wahl auf deiner Hand, die 2 <span class=""aether"">&AElig;</span> oder mehr kostet.<br />
+        <br />
+        <b>Zeit 2:</b> SPEZIAL 1. Wählt 1 Spieler, der 3 Karten seiner Wahl von der Hand abwirft und 1 Karte zieht.
+      </p>
+    "
+BaneSire-AE,AE,1,Minion,Unheilbringer,,"
+      <p>
+        <b>Ansturm:</b> SPEZIAL 1.
+      </p>
+    "
+BleedStatic-AE,AE,1,Power,Laufendes Blut,3,"
+      <p>
+        <b>Zeit 3:</b> Wählt den Spieler mit den meisten Zaubern auf seinen Rissen: Erleide 2 Schaden für jeden Zauber auf deinen Rissen.
+      </p>
+    "
+EyeofNothing-AE,AE,1,Power,Auge Des Nichts,2,"
+      <p>
+        <b>Verhindern:</b> Bezahle 6 <span class=""aether"">&AElig;</span>.<br />
+        <br />
+        <b>Zeit 2:</b> SPEZIAL 2.
+      </p>
+    "
+HazeSpewer-AE,AE,1,Minion,Dunstspeier,,"
+      <p>
+        <b>Ansturm:</b> Fügt der <i>Feste</i> Schaden in Höhe des übrigen Lebens dieses Monsters zu. Dieses Monster erleidet 1 Schaden.
+      </p>
+    "
+Skewer-AE,AE,1,Attack,Aufspiessen,,"
+      <p>
+        SPEZIAL 1.<br />
+        Fügt 1 Spieler eurer Wahl 3 Schaden zu. Dieser Spieler zieht 1 Karte.
+      </p>
+    "
+Slaughter-AE,AE,1,Attack,Abschlachten,,"
+      <p>
+        SPEZIAL 1.<br />
+        Fügt der <i>Feste der letzten Ruhe</i> 3 Schaden zu.
+      </p>
+    "
+WovenSky-AE,AE,1,Power,Verwobener Himmel,2,"
+      <p>
+        <b>Verhindern:</b> Wirf 3 Karten deiner Wahl von deiner Hand ab.<br />
+        <br />
+        <b>Zeit 2:</b> SPEZIAL 1. Fügt 1 Spieler eurer Wahl 4 Schaden zu.
+      </p>
+    "
+Awaken-AE,AE,2,Attack,Erwachen,,"
+      <p>
+        SPEZIAL 2. Fügt der <i>Feste der letzten Ruhe</i> 3 Schaden zu. 
+        <span class=""or"">ODER</span>
+        Bringt das zuletzt getötete Monster vom Ablagestapel zurück ins Spiel.
+      </p>
+    "
+Cauterizer-AE,AE,2,Minion,Veröder,,"
+      <p>
+        <b>Dauerhaft:</b> Wenn du diesem Monster Schaden zufügst, fügst du nur 1 Schaden zu.<br />
+        <br />
+        <b>Ansturm:</br> Wählt 1 Spieler und fügt ihm Schaden in Höhe des aktuellen Lebens dieses Monsters zu.
+      </p>
+    "
+Dispel-AE,AE,2,Attack,Verbannen,,"
+      <p>
+        SPEZIAL 2.<br />
+        Der Spieler mit den meisten gebundenen Zaubern, wählt seinen gebundenen Zauber mit den höchsten 
+        <span class=""aether"">&AElig;</span>-Kosten und wirft ihn ab.
+      </p>
+    "
+Needlemaw-AE,AE,2,Minion,Nadelmaul,,"
+      <p>
+        <b>Ansturm:</b> Fügt der <i>Feste der letzten Ruhe</i> 2 Schaden zu.
+      </p>
+    "
+LayWaste-AE,AE,2,Attack,Lay Waste,,"
+      <p>
+        SPEZIAL 2.<br />
+        Fügt 1 Spieler eurer Wahl 2 Schaden zu.
+      </p>
+    "
+PulverizingRay-AE,AE,2,Power,Pulverisierungsstrahl,1,"
+      <p>
+        <b>Zeit 1:</b> Entscheidet 6x:<br />
+        Fügt der <i>Feste</i> der letzten Ruhe 3 Schaden zu.
+        <span class=""or"">ODER</span>
+        Wählt 1 Spieler, der 1 Kristall von seiner Hand abwirft.
+      </p>
+    "
+Venomite-AE,AE,2,Minion,Giftmilbe,,"
+      <p>
+        <b>Ansturm:</b> Fügt dem Spieler eurer Wahl mit dem geringsten übrigen Leben 2 Schaden zu.
+        <span class=""or"">ODER</span>
+        Wählt 1 Spieler, der 1 seiner gebundenen Zauber abwirft, der 3 <span class=""aether"">&AElig;</span> oder mehr kostet.
+      </p>
+    "
+DoomAegis-AE,AE,3,Power,Mantel Des Untergangs,1,"
+      <p>
+        <b>Verhindern:</b> Bezahle 7 <span class=""aether"">&AElig;</span>.<br />
+        <br />
+        <b>Zeit 1:</b> Fügt dem Spieler mit der meisten Energie 4 Schaden zu. Dieser Spieler wirft all seine Energie ab.
+      </p>
+    "
+GatherDarkness-AE,AE,3,Attack,Aufziehende Dunkelheit,,"
+      <p>
+        Wählt 1 Spieler, der seinen Ablagestapel auf sein Deck legt und es mischt. Dann zerstört dieser Spieler die 4 obersten Karten seines Decks.<br />
+        SPEZIAL 2.
+      </p>
+    "
+JaggedOne-AE,AE,3,Minion,Splitterwesen,,"
+      <p>
+        <b>Ansturm:</b> SPEZIAL 2.
+      </p>
+    "
+Obliterate-AE,AE,3,Attack,Auslöschen,,"
+      <p>
+        SPEZIAL 2.<br />
+        Der Spieler mit den meisten aktiven Rissen: Zerstört 4 Karten auf seiner Hand
+        <span class=""or"">ODER</span>
+        erleidet 4 Schaden.
+      </p>
+    "
+RealityRupture-AE,AE,3,Power,Realitätsbruch,1,"
+      <p>
+        <b>Verhindern:</b> Zerstöre 2 deiner gebundenen Zauber mit 
+        <span class=""aether"">&AElig;</span>-Kosten von jeweils 3 oder mehr.<br />
+        <br />
+        <b>Zeit 1:</b> SPEZIAL 3.
+      </p>
+    "
+Sunder-AE,AE,3,Attack,Entzweien,,"
+      <p>
+        Fügt der <i>Feste</i> 4 Schaden zu. Fügt dem Spieler eurer Wahl mit dem geringsten übrigen Leben 4 Schaden zu.
+        <span class=""or"">ODER</span>
+        Mischt alle Erzfeind-Reihenfolgekarten im Ablagestapel zurück in das Reihenfolgedeck.
+      </p>
+    "
+Topple-AE,AE,3,Attack,Topple,,"
+      <p>
+        SPEZIAL 2.<br />
+        Fügt der <i>Feste der letzten Ruhe</i> 4 Schaden zu.
+      </p>
+    "

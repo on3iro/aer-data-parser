@@ -1,0 +1,75 @@
+type,expansion,name,id,cost,effect,keywords
+Gem,SD,Olivinite,Olivinite,3,"
+      <p>
+      Gain 2 aether.
+        <span class=""or"">OR</span>
+      Deal 1 damage to a minion.
+      </p>
+      ",[]
+Gem,SD,Cache Glass,CacheGlass,4,"
+      <p>
+      Gain 2 <span class=""aether"">&AElig;</span>.<br/>
+      If there is a Cache Glass in your discard pile, you may destroy a card 
+      in your discard pile.
+      </p>
+      ",[]
+Relic,SD,Reflective Conduit,ReflectiveConduit,3,"
+      <p>
+      <b>Attach</b> this to any player's breach.
+      </p>
+      <p>
+      When a spell is cast from this breach, the player who cast that spell may 
+      return it to their hand instead of discarding it. If they do, discard this.
+      </p>
+      ","[""attach""]"
+Relic,SD,Will Weaver,WillWeaver,7,"
+      <p>
+      Gain 2 charges.<br/>
+      After the next time you activate your ability this turn, deal 3 damage.
+      </p>
+      ",[]
+Spell,SD,Breach Seeker,BreachSeeker,5,"
+      <p>
+      <b>Echo</b>
+      </p>
+      <p>
+      <b>Cast:</b> Deal 1 damage.<br/>
+      Focus any ally's breach.
+        </p>
+      ","[""echo""]"
+Spell,SD,Crescendo Ray,CrescendoRay,4,"
+      <p>
+      <b>Cast:</b> Deal 3 damage.<br/>
+      Gain 1 <span class=""aether"">&AElig;</span> for each other spell you have 
+        prepped.
+        </p>
+      ",[]
+Spell,SD,Storm Vapors,StormVapors,4,"
+      <p>
+      <b>Cast:</b> Deal 3 damage.<br/>
+      If there is another Storm Vapors in any player's discard pile, 
+      focus any player's breach.
+        </p>
+      ",[]
+Spell,SD,Mantra of Strength,MantraOfStrength,3,"
+      <p>
+      <b>Cast:</b> Any player focuses their closed breach wich the highest 
+      focus cost.<br/>
+      Deal 1 damage.<br/>
+      You may destroy this. If you do, deal 2 additional damage.
+        </p>
+      ",[]
+Spell,SD,Embody Flame,EmbodyFlame,7,"
+      <p>
+      <b>Cast:</b> Deal 5 damage.<br/>
+      You may destroy a card in this card's supply pile. If you do deal 3 
+      additional damage.
+        </p>
+      ",[]
+Spell,SD,Snap Ritual,SnapRitual,6,"
+      <p>
+      While prepped once per turn during your main phase, you may discard 
+      a card in hand to deal 2 damage.<br/>
+        <b>Cast:</b> Deal 3 damage.
+        </p>
+        ",[]

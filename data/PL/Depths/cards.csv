@@ -1,0 +1,54 @@
+type,expansion,name,id,cost,effect,keywords
+Spell,Depths,Więź z Otchłanią,VoidBond,4,"
+      <p>
+      <b>Aktywacja:</b> Zadaj 3 obrażenia.<br/>
+      Możesz aktywować przygotowane Zaklęcie dowolnego gracza.
+        </p>
+      ",[]
+Spell,Depths,Seryjny Zapłon,Combustion,5,"
+      <p>
+      <b>Aktywacja:</b> Zadaj 2 obrażenia Poplecznikowi.<br/>
+      Zadaj 2 obrażenia innemu Poplecznikowi albo Nemezis.<br/>
+      <span class=""hint"">Efekty modyfikujące obrażenia, dotyczą obu przypadków obrażeń zadawanych przez to Zaklęcie.
+      </span>
+        </p>
+        ",[]
+Relic,Depths,Dynamo Vim,VimDynamo,4,"
+      <p>
+        Otrzymujesz 1 obrażenie. Dowolny gracz dobiera dwie karty.
+          <span class=""or"">ALBO</span>
+        Zniszcz tę kartę. Dowolny gracz otrzymuje 2 punkty życia i 1 Ładunek.
+      </p>
+        ",[]
+Spell,Depths,Kosa Dezintegracji,DisintegratingScythe,7,"
+      <p>
+      <b>Aktywacja:</b> Zadaj 8 obrażeń.<br/>
+        Otrzymujesz 1 obrażenie. Zamiast odrzucać tę kartę, zniszcz ją albo umieść na wierzchu stosu kart odrzuconych dowolnego gracza.
+        </p>
+        ",[]
+Spell,Depths,Piekielna Nawałnica,MonstrousInferno,8,"
+      <p>
+        To Zaklęcie musi być przygotowane na dwóch przylegających Bramach w taki sposób, aby karta dotykała obu Bram.<br/>
+        <b>Aktywacja:</b> Zadaj 7 obrażeń podzielonych w dowolny, wybrany przez ciebie sposób, pomiędzy Nemezis i dowolną liczbę Popleczników.
+        </p>
+        ",[]
+Spell,Depths,Pożerający Cień,DevouringShadow,6,"
+      <p>
+        Gdy przygotowane: raz na turę w trakcie swojej fazy głównej możesz zniszczyć kartę z ręki.<br/>
+        <b>Aktywacja:</b> Zadaj 3 obrażenia.
+        </p>
+        ",[]
+Gem,Depths,Wypędzający Topaz,BanishingTopaz,5,"
+      <p>
+      Otrzymujesz 2 <span class=""aether"">&AElig;</span>.<br/>
+      Możesz położyć dowolną kartę z ręki na wierzchu swojej talii. 
+      Jeżeli to zrobisz, otrzymujesz dodatkowe 2 <span class=""aether"">&AElig;</span>.
+      </p>
+      ",[]
+Relic,Depths,Transmutator,Transmogrifier,4,"
+      <p>
+        Zniszcz kartę z ręki.<br/>
+        Możesz otrzymać kartę z dowolnego stosu zasobów, która kosztuje maksymalnie o 
+        3 <span class=""aether"">&AElig;</span> więcej niż zniszczona karta.
+      </p>
+        ",[]

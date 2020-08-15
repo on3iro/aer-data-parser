@@ -1,0 +1,185 @@
+type,expansion,name,id,cost,effect,keywords
+Gem,WE,Erratic Ingot,ErraticIngot,5,"
+      <p>
+      Gain 2 <span class=""aether"">&AElig;</span>.<br/>
+      Gain an additional 2 <span class=""aether"">&AElig;</span> if there is 
+        at least one nemesis turn order card in the turn order discard pile.
+      </p>
+      ",[]
+Spell,WE,Reduce To Ash,ReduceToAsh,7,"
+      <p>
+      While prepped, at the start of your casting phase reveal the top card 
+      of your deck. You may destroy the revealed card.<br/>
+        <b>Cast:</b> Deal 4 damage.
+        </p>
+        ",[]
+Relic,WE,Vortex Gauntlet,VortexGauntlet,6,"
+      <p>
+      Cast any player's prepped spell.<br/>
+      Return that spell to that player's hand.
+      </p>
+      ",[]
+Spell,WE,Carbonize,Carbonize,4,"
+      <p>
+      <b>Cast:</b> Deal 3 damage.<br/>
+      Reveal the top card of the turn order deck. You may place that card on 
+      the bottom of the turn order deck.
+        </p>
+      ",[]
+Spell,WE,Equilibrium,Equilibrium,7,"
+      <p>
+      While prepped, when you suffer damage reduce that damage by 1, to a 
+      minimum of 1.<br/>
+        <b>Cast:</b> Deal 4 damage.
+        </p>
+        ",[]
+Gem,WE,Volcanic Glass,VolcanicGlass,3,"
+      <p>
+      When you gain this on your turn, you may spend 2 <span class=""aether"">&AElig;</span>. 
+        If you do, any ally also gains a Volcanic Glass and places it on top 
+      of their deck.<br/>
+      Gain 2 <span class=""aether"">&AElig;</span>.
+      </p>
+      ",[]
+Spell,WE,Convection Field,ConvectionField,5,"
+      <p>
+      <b>Cast:</b> Deal 4 damage.
+        <span class=""or"">OR</span>
+      <b>Cast:</b> Deal 2 damage. Any ally day destroy a card in hand.
+        </p>
+      ",[]
+Spell,WE,Jagged Lightning,JaggedLightning,4,"
+      <p>
+      <b>Cast:</b> Deal 3 damage.<br/>
+      You may discard a card in hand. If you do, any player focuses their 
+      closed breach with the lowest focus cost.
+        </p>
+      ",[]
+Gem,WE,Bloodstone Jewel,BloodstoneJewel,6,"
+      <p>
+      When you gain a Bloodstone Jewel for the first time on you turn, gain
+        3 <span class=""aether"">&AElig;</span>. <br/>
+      Gain 3 <span class=""aether"">&AElig;</span>.
+      </p>
+      ",[]
+Spell,WE,Kindle,Kindle,4,"
+      <p>
+      While prepped, during your main phase you may also prep on Spark to the 
+      breach this spell is prepped to.<br/>
+        <b>Cast:</b> Deal 3 damage.
+        </p>
+        ",[]
+Spell,WE,Thoughtform Familiar,ThoughtformFamiliar,3,"
+      <p>
+      <b>Cast:</b> Deal 2 damage.<br/>
+      Deal 1 additional damage for each of your other prepped spells.
+        </p>
+        ",[]
+Spell,WE,Crystallize,Crystallize,8,"
+      <p>
+      This spell must be prepped to two adjacent breaches so that this card 
+      touches both breaches. This fully occupies both breaches.<br/>
+      <b>Cast:</b> Any ally reveals their hand.<br/>
+      Deal 2 damage for each gem in that ally's hand.
+        </p>
+        ",[]
+Spell,WE,Fiery Torrent,FieryTorrent,5,"
+      <p>
+      <b>Cast:</b> Deal 2 damage.<br/>
+      Deal 2 additional damage for each other Fiery Torrent prepped by any 
+        player.
+        </p>
+      ",[]
+Spell,WE,Celestial Spire,CelestialSpire,5,"
+      <p>
+      <b>Cast:</b> Deal 3 damage.<br/>
+      If this card's supply pile is empty, any ally draws a card.
+        </p>
+      ",[]
+Spell,WE,Conjure The Lost,ConjureTheLost,6,"
+      <p>
+      <b>Cast:</b> Deal 5 damage.<br/>
+      You may destroy this. If you do, Gravehold gains 4 life.
+        </p>
+      ",[]
+Spell,WE,Nova Forge,NovaForge,6,"
+      <p>
+      While prepped, once per turn during your main phase you may gain 2 
+      <span class=""aether"">&AElig;</span> that can only be used to gain a spell.<br/>
+        <b>Cast:</b> Deal 4 damage.
+        </p>
+        ",[]
+Gem,WE,Dread Diamond,DreadDiamond,3,"
+      <p>
+      Gain 2 <span class=""aether"">&AElig;</span>.<br/>
+      You may discard a prepped spell. If you do, gain an additional 1 
+      <span class=""aether"">&AElig;</span>.
+      </p>
+      ",[]
+Relic,WE,Cairn Compass,CairnCompass,4,"
+      <p>
+      Any ally may prep a spell in their discard pile to their opened or 
+      closed breach(es).
+      </p>
+      ",[]
+Gem,WE,Scoria Slag,ScoriaSlag,4,"
+      <p>
+      Gain 2 <span class=""aether"">&AElig;</span>.<br/>
+      If the nemesis tier is 2 or higher, gain an additional 1 <span class=""aether"">&AElig;</span>.
+      </p>
+      ",[]
+Gem,WE,Breach Ore,BreachOre,4,"
+      <p>
+      Gain 2 <span class=""aether"">&AElig;</span>.<br/>
+      <span class=""or"">OR</span>
+      Focus your closed breach with the lowest focus cost.
+      </p>
+      ",[]
+Relic,WE,Fiend Catcher,FiendCatcher,3,"
+      <p>
+      You may destroy a card in your hand or discard pile.<br/>
+      Reveal the top card of the turn order deck. If you revealed a nemesis 
+      turn order card, you may place that card on the bottom of the turn order deck.
+      </p>
+      ",[]
+Spell,WE,Pyrotechnic Surge,PyrotechnicSurge,4,"
+      <p>
+      This spell must be prepped to two adjacent breaches so that this card 
+      touches both breaches. This fully occupies both breaches.<br/>
+      <b>Cast:</b> Deal 4 damage.<br/>
+      You may destroy a card in you discard pile.
+        </p>
+      ",[]
+Spell,WE,Aurora,Aurora,5,"
+      <p>
+      While prepped, once per turn during your main phase you may gain 1 charge.<br/>
+        <b>Cast:</b> Deal 3 damage.
+        </p>
+        ",[]
+Relic,WE,Conclave Scroll,ConclaveScroll,3,"
+      <p>
+      Gain 1 charge.<br/>
+      If this card's supply pile is empty, you may destroy the top card of 
+      any ally's discard pile.
+      </p>
+      ",[]
+Relic,WE,Primordial Fetish,PrimordialFetish,4,"
+      <p>
+      Focus any player's breach.
+        <span class=""or"">OR</span>
+      Destroy this. Gain 3 life.
+      </p>
+      ",[]
+Gem,WE,Frozen Magmite,FrozenMagmite,3,"
+      <p>
+      Gain 2 <span class=""aether"">&AElig;</span>.<br/>
+      You may place the next card you gain this turn on top of your deck.
+      </p>
+      ",[]
+Relic,WE,Mages Totem,MagesTotem,2,"
+      <p>
+      Destroy a gem or relic you played this turn.
+        <span class=""or"">OR</span>
+      Destroy this. Gravehold gains 1 life.
+      </p>
+      ",[]

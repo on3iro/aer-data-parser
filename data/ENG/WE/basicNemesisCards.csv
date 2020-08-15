@@ -1,0 +1,146 @@
+id,expansion,tier,type,name,effect
+Afflict-WE,WE,1,Attack,Afflict,"
+      <p>
+        Unleash. Any player suffers 3 damage and may place a card in their discard pile into their hand.
+      </p>
+    "
+CatacombDrone-WE,WE,1,Minion,Catacomb Drone,"
+      <p>
+        <b>Persistent:</b> Unleash. Gravehold suffers 1 damage.
+      </p>
+    "
+Encroach-WE,WE,1,Attack,Encroach,"
+      <p>
+        Unleash. Reveal the top card of the turn order deck. If a player turn order card was revealed, that player suffers 2 damage. Otherwise, Gravehold suffers 3 damage.
+      </p>
+    "
+HeartofNothing-WE,WE,1,Power,Heart of Nothing,"
+      <p>
+        <b>To Discard:</b> Discard four cards in hand.<br />
+        <br />
+        <b>Power 2:</b> Unleash twice.
+        <span class=""or"">OR</span>
+        Any player suffers 4 damage.
+      </p>
+    "
+HowlingSpinners-WE,WE,1,Minion,Howling Spinners,"
+      <p>
+        <b>Persistent:</b> Any player suffers 2 damage.
+      </p>
+    "
+NightUnending-WE,WE,1,Power,Night Unending,"
+      <p>
+        <b>Power 3:</b> Gravehold suffers 2 damage for each spell prepped by the player with the most prepped spells.
+      </p>
+    "
+Nix-WE,WE,1,Attack,Nix,"
+      <p>
+        Unleash. Any player suffers 1 damage and discards their most expensive card in hand.
+      </p>
+    "
+PlanarCollision-WE,WE,1,Power,Planar Collision,"
+      <p>
+        <b>To Discard:</b> Discard two prepped spells.<br />
+        <br />
+        <b>Power 2:</b> Unleash twice.
+      </p>
+    "
+Thrash-WE,WE,1,Attack,Thrash,"
+      <p>
+        Unleash. The players collectively discard two cards in hand.
+      </p>
+    "
+AphoticSun-WE,WE,2,Power,Aphotic Sun,"
+      <p>
+        <b>To Discard:</b> Spend 7 <span class=""aether"">&AElig;</span>.<br />
+        <br />
+        <b>Power 2:</b> Unleash. The player with the most charges suffers 3 damage and loses all of their charges.
+      </p>
+    "
+ChaosFlail-WE,WE,2,Power,Chaos Flail,"
+      <p>
+        <b>To Discard:</b> Spend 7 <span class=""aether"">&AElig;</span>.<br />
+        <br />
+        <b>Power 2:</b> Unleash twice. Any player places their discard pile on top of their deck and shuffles it. Then, that player reveals the top two cards of their deck and destroys the most expensive card revealed.
+      </p>
+    "
+MageEnder-WE,WE,2,Minion,Mage Ender,"
+      <p>
+        <b>Persistent:</b> The player with the most opened breaches suffers 2 damage.
+      </p>
+    "
+Mangleroot-WE,WE,2,Minion,Mangleroot,"
+      <p>
+        <b>Persistent:</b> Gravehold suffers 3 damage. This minon suffers 2 damage.
+      </p>
+    "
+MorbidGyre-WE,WE,2,Power,Morbid Gyre,"
+      <p>
+        <b>To Discard:</b> Spend 7 <span class=""aether"">&AElig;</span>.<br />
+        <br />
+        <b>Power 1:</b> Unleash twice. The players collectively discard three cards in hand.
+      </p>
+    "
+Mutilate-WE,WE,2,Attack,Mutilate,"
+      <p>
+        Unleash. The players collectively discard two prepped spells. Any player suffers 2 damage.
+      </p>
+    "
+NullScion-WE,WE,2,Minion,Null Scion,"
+      <p>
+        <b>Persistent:</b> Unleash.
+      </p>
+    "
+Smite-WE,WE,2,Attack,Smite,"
+      <p>
+        Unleash twice. Gravehold suffers 2 damage.
+      </p>
+    "
+ApocalypseRitual-WE,WE,3,Power,Apocalypse Ritual,"
+      <p>
+        <b>To Discard:</b> Spend 8 <span class=""aether"">&AElig;</span>.<br />
+        <br />
+        <b>Power 2:</b> Gravehold suffers 5 damage for each nemesis turn order card in the turn order discard pile.
+      </p>
+    "
+Banish-WE,WE,3,Attack,Banish,"
+      <p>
+        Unleash twice. The player with the most prepped spells suffers 1 damage for each of their prepped spells.
+      </p>
+    "
+CataclysmicFate-WE,WE,3,Power,Cataclysmic Fate,"
+      <p>
+        <b>To Discard:</b> Destroy a prepped spell that costs 5 <span class=""aether"">&AElig;</span> or more and a breach in which it was prepped.<br />
+        <br />
+        <b>Power 1:</b> The player with the lowest life suffers 4 damage.
+      </p>
+    "
+MonstrosityofOmens-WE,WE,3,Minion,Monstrosity of Omens,"
+      <p>
+        When damage is dealt to this minion, reduce that damage to 1.<br />
+        <br />
+        <b>Persistent:</b> Gravehold suffers damage equal to this minion's current life.
+      </p>
+    "
+Engulf-WE,WE,3,Attack,Engulf,"
+      <p>
+        Resolve the most recently discarded attack card in the nemesis discard pile.
+      </p>
+    "
+Quell-WE,WE,3,Attack,Quell,"
+      <p>
+        Gravehold Suffers 7 damage.
+        <span class=""or"">OR</span>
+        Unleash three times.
+      </p>
+    "
+Throttle-WE,WE,3,Attack,Throttle,"
+      <p>
+        Unleash twice. Any player destorys their three most expensive cards in hand.
+      </p>
+    "
+WitheringBeam-WE,WE,3,Power,Withering Beam,"
+      <p>
+        <b>Power 2:</b> Unleash twice. The players collectively destroy the two most expensive prepped spells.
+      </p>
+    "

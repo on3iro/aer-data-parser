@@ -1,0 +1,31 @@
+type,expansion,name,id,cost,effect,keywords
+Relic,Nameless,Marteau en fusion,MoltenHammer,5,"<p>
+Gagnez 1 charge.<br/>
+Vous pouvez détruire une carte de votre main ou du dessus de le défausse de n'importe quel joueur.
+</p>",[]
+Spell,Nameless,Radiance,Radiance,8,"<p>
+<b>Lancer :</b> Infligez 5 dégâts. Chaque allié pioche une carte.
+</p>",[]
+Spell,Nameless,Flamber,Blaze,4,"<p>
+Lorsque vous gagnez cette carte, vous pouvez la placer sur la défausse de n'importe quel joueur.<br/>
+<br/>
+<b>Lancer :</b> Infligez 2 dégâts. Infligez 1 dégât suplémentaire par Flamber que vous avez lancé ce tour et par autre Flamber préparé  sur vos brèches.
+</p>",[]
+Spell,Nameless,Eclair de prophétie,ScryingBolt,6,"<p>
+<b>Lancer :</b> Infligez 5 dégâts. Vous pouvez perdre 1 charge.<br/>
+Si vous le faites, révélez les deux premières cartes de la pioche de la Némésis et replacez les dans l'ordre de votre choix.
+</p>",[]
+Spell,Nameless,La marque du sage,SagesBrand,7,"<p>
+Ce sort doit être préparé sur deux brèches adjacentes, de manière à ce qu'il touche les deux brèches.<br/>
+Les deux brèches sont occupées par ce sort.<br/>
+Lorsque préparé, piochez une carte de plus lors de votre phase de pioche.<br/>
+<br/>
+<b>Lancer :</b> Infligez 6 dégâts.
+</p>",[]
+Gem,Nameless,Agate sangsue,LeechingAgate,3,"<p>
+Lorsque vous gagnez cette carte, gagner 1 charge.<br/>
+Gagnez 2 <span class=""aether"">&AElig;</span>.
+</p>",[]
+Relic,Nameless,Spirale temporelle,TemporalHelix,7,"<p>
+Lancez un sort préparé de n'importe quel joueur sans le défausser.
+</p>",[]

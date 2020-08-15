@@ -1,0 +1,9 @@
+expansion,name,id,mageTitle,ability,numberOfCharges,uniqueStarters
+Nameless,Malastar,Malastar,Riss-Magier-Mentor,"
+        <h2>Aetherium-Geschenk</h2>
+        <p class=""ability-activation"">In DEINEM SPIELER-ZUG während <i>Aktionen ausführen</i>:</p>
+        <p>
+          Erwirb 1 Zauber deiner Wahl gratis. Du darfst diesen Zauber sofort an den aktiven 
+          Riss 1 Spielers deiner Wahl binden.
+        </p>
+      ",6,"[{""type"":""Spell"",""name"":""Brennende Luft"",""expansion"":""Nameless"",""id"":""Immolate"",""cost"":0,""effect"":""\n          <p>\n            <b>Gebunden:</b> mmer wenn du 1 oder mehr Leben verlierst, erhalte 1 Energie.<br />\n            <b>Wirken:</b> Füge 1 Schaden zu.\n          </p>\n        "",""keywords"":[]}]"

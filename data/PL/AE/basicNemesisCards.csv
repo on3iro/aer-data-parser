@@ -1,0 +1,153 @@
+id,expansion,tier,type,name,power,effect
+AgonyField-AE,AE,1,Power,Pole Agonii,2,"
+      <p>
+        <b>ABY ODRZUCIĆ:</b> Zniszcz kartę na ręce kosztującą 2 <span class=""aether"">&AElig;</span> lub więcej.<br />
+        <br />
+        <b>MOC 2:</b> Wyzwolenie. Dowolny gracz odrzuca trzy karty z ręki, a następnie dobiera jedną kartę.
+      </p>
+    "
+BaneSire-AE,AE,1,Minion,Demiurg Zguby,,"
+      <p>
+        <b>TRWAŁY:</b> Wyzwolenie.
+      </p>
+    "
+BleedStatic-AE,AE,1,Power,Zakrzepły Krwotok,3,"
+      <p>
+        <b>MOC 3:</b> Gracz z największą liczbą przygotowanych Zaklęć, otrzymuje po 2 obrażenia za każde z nich.
+      </p>
+    "
+EyeofNothing-AE,AE,1,Power,Oko Nicości,2,"
+      <p>
+        <b>ABY ODRZUCIĆ:</b> Wydaj 6 <span class=""aether"">&AElig;</span>.<br />
+        <br />
+        <b>MOC 2:</b> Dwukrotne Wyzwolenie.
+      </p>
+    "
+HazeSpewer-AE,AE,1,Minion,Mglaki,,"
+      <p>
+        <b>TRWAŁY:</b> Gravehold otrzymuje tyle obrażeń, ile obecnie życia ma ten Poplecznik. Następnie, ten Poplecznik otrzymuje 1 obrażenie.
+      </p>
+    "
+Skewer-AE,AE,1,Attack,Szpikulec,,"
+      <p>
+        Wyzwolenie.<br />
+        <br />
+        Dowolny gracz otrzymuje 3 obrażenia i dobiera kartę.
+      </p>
+    "
+Slaughter-AE,AE,1,Attack,Rzeź,,"
+      <p>
+        Wyzwolenie.<br />
+        <br />
+        Gravehold otrzymuje 3 obrażenia.
+      </p>
+    "
+WovenSky-AE,AE,1,Power,Osnowa Firmamentu,2,"
+      <p>
+        <b>ABY ODRZUCIĆ:</b> Odrzucić trzy karty z ręki.<br />
+        <br />
+        <b>MOC 2:</b> Wyzwolenie. Dowolny gracz otrzymuje 4 obrażenia.
+      </p>
+    "
+Awaken-AE,AE,2,Attack,Przebudzenie,,"
+      <p>
+        Dwukrotne Wyzwolenie.<br />
+        Gravehold otrzymuje 3 obrażenia.<br />
+        <br />
+        <span class=""or"">ALBO</span><br />
+        <br />
+        Umieść z powrotem w grze ostatnią odrzuconą kartę Poplecznika ze stosu kart odrzuconych Nemezis.
+      </p>
+    "
+Cauterizer-AE,AE,2,Minion,Przyżegacz,,"
+      <p>
+        Wartość obrażeń zadawanych temu Poplecznikowi jest zawsze redukowana do 1.<br />
+        <br />
+        <b>TRWAŁY:</b> Dowolny gracz otrzymuje tyle obrażeń, ile obecnie życia ma ten Poplecznik.
+      </p>
+    "
+Dispel-AE,AE,2,Attack,Odrzucenie,,"
+      <p>
+        Dwukrotne Wyzwolenie.<br />
+        <br />
+        Gracz z największą liczbą przygotowanych Zaklęć odrzuca najdroższe przygotowane Zaklęcie.
+      </p>
+    "
+Needlemaw-AE,AE,2,Minion,Szpilopaszcze,,"
+      <p>
+        <b>TRWAŁY:</b> Gravehold otrzymuje 2 obrażenia.
+      </p>
+    "
+LayWaste-AE,AE,2,Attack,Zrównanie z Ziemią,,"
+      <p>
+        Dwukrotne Wyzwolenie.<br />
+        <br />
+        Dowolny gracz otrzymuje 2 obrażenia.
+      </p>
+    "
+PulverizingRay-AE,AE,2,Power,Promień Zniszczenia,1,"
+      <p>
+        <b>Power 1:</b> Gravehold otrzymuje 3 obrażenia.<br />
+        <br />
+        <span class=""or"">ALBO</span><br />
+        <br />
+        Dowolny gracz odrzuca kartę Klejnotu z ręki. Należy powtórzyć tę czynności dodatkowo 5 razy.
+      </p>
+    "
+Venomite-AE,AE,2,Minion,Jadomit,,"
+      <p>
+        <b>TRWAŁY:</b> Gracz z najmniejszą liczbą punktów życia otrzymuje 2 obrażenia. 
+        <span class=""or"">ALBO</span>
+        Dowolny gracz odrzuca przygotowane Zaklęcie kosztujące 3 <span class=""aether"">&AElig;</span> lub więcej.
+      </p>
+    "
+DoomAegis-AE,AE,3,Power,Egida Zagłady,1,"
+      <p>
+        <b>ABY ODRZUCIĆ:</b> Wydaj 7 <span class=""aether"">&AElig;</span>.<br />
+        <br />
+        <b>MOC 1:</b> Gracz z największą liczbą Ładunków otrzymuje 4 obrażenia i odrzuca wszystkie Ładunki.
+      </p>
+    "
+GatherDarkness-AE,AE,3,Attack,Narastająca Ciemność,,"
+      <p>
+        Dowolny gracz umieszcza swój stos kart odrzuconych na wierzchu swojej talii, tasuje ją, a następnie niszczy cztery wierzchnie karty.<br />
+        <br />
+        Dwukrotne Wyzwolenie.
+      </p>
+    "
+JaggedOne-AE,AE,3,Minion,Wyszczerbiony,,"
+      <p>
+        <b>TRWAŁY:</b> Dwukrotne Wyzwolenie.
+      </p>
+    "
+Obliterate-AE,AE,3,Attack,Unicestwienie,,"
+      <p>
+        Dwukrotne Wyzwolenie.<br />
+        <br />
+        Gracz z największą liczbą otwartych Bram niszczy cztery karty ze swojej ręki lub otrzymuje 4 obrażenia.
+      </p>
+    "
+RealityRupture-AE,AE,3,Power,Rozdarcie Materii,1,"
+      <p>
+        <b>ABY ODRZUCIĆ:</b> Zniszcz dwa przygotowane Zaklęcia, każde kosztujące 3 <span class=""aether"">&AElig;</span> lub więcej.<br />
+        <br />
+        <b>MOC 1:</b> Trzykrotne Wyzwolenie.
+      </p>
+    "
+Sunder-AE,AE,3,Attack,Rozszarpanie,,"
+      <p>
+        Gravehold otrzymuje 4 obrażenia.<br />
+        Gracz z najmniejszą liczbą punktów życia otrzymuje 4 obrażenia.<br />
+        <br />
+        <span class=""or"">ALBO</span><br />
+        <br />
+        Wtasuj wszystkie karty tury Nemezis do talii tur.
+      </p>
+    "
+Topple-AE,AE,3,Attack,Obalenie,,"
+      <p>
+        Dwukrotne Wyzwolenie.<br />
+        <br />
+        Gravehold otrzymuje 4 obrażenia.
+      </p>
+    "

@@ -1,0 +1,129 @@
+id,expansion,tier,type,name,power,effect
+AgonyField-AE,AE,1,Power,Agony Field,2,"
+      <p>
+        <b>To Discard:</b> Destroy a card in hand that costs 2 <span class=""aether"">&AElig;</span> or more.<br />
+        <br />
+        <b>Power 2:</b> Unleash. Any player discards three cards and then draws one card.
+      </p>
+    "
+BaneSire-AE,AE,1,Minion,Bane Sire,,"
+      <p>
+        <b>Persistent:</b> Unleash.
+      </p>
+    "
+BleedStatic-AE,AE,1,Power,Bleed Static,3,"
+      <p>
+        <b>Power 3:</b> The player with the most prepped spells suffers 2 damage for each of their prepped spells.
+      </p>
+    "
+EyeofNothing-AE,AE,1,Power,Eye of Nothing,2,"
+      <p>
+        <b>To Discard:</b> Spend 6 <span class=""aether"">&AElig;</span>.<br />
+        <br />
+        <b>Power 2:</b> Unleash twice.
+      </p>
+    "
+HazeSpewer-AE,AE,1,Minion,Haze Spewer,,"
+      <p>
+        <b>Persistent:</b> Gravehold suffers damage equal to this minion's current life. Then, this minion suffers 1 damage.
+      </p>
+    "
+Skewer-AE,AE,1,Attack,Skewer,,"
+      <p>
+        Unleash. Any player suffers 3 damage and draws a card.
+      </p>
+    "
+Slaughter-AE,AE,1,Attack,Slaughter,,"
+      <p>
+        Unleash. Gravehold suffers 3 damage.
+      </p>
+    "
+WovenSky-AE,AE,1,Power,Woven Sky,2,"
+      <p>
+        <b>To Discard:</b> Discard three cards.<br />
+        <br />
+        <b>Power 2:</b> Unleash. Any player suffers 4 damage.
+      </p>
+    "
+Awaken-AE,AE,2,Attack,Awaken,,"
+      <p>
+        Unleash twice and Gravehold suffers 3 damage. 
+        <span class=""or"">OR</span>
+        Place the most recently discarded minion in the nemesis discard pile back into play.
+      </p>
+    "
+Cauterizer-AE,AE,2,Minion,Cauterizer,,"
+      <p>
+        When damage is dealt to this minion, reduce that damage to 1.<br />
+        <br />
+        <b>Persistent:</b> Any player suffers damage equal to this minion's current life.
+      </p>
+    "
+Dispel-AE,AE,2,Attack,Dispel,,"
+      <p>
+        Unleash twice. The player with the most prepped spells discards their most expensive prepped spell.
+      </p>
+    "
+Needlemaw-AE,AE,2,Minion,Needlemaw,,"
+      <p>
+        <b>Persistent:</b> Gravehold suffers 2 damage.
+      </p>
+    "
+LayWaste-AE,AE,2,Attack,Lay Waste,,"
+      <p>
+        Unleash twice. Any player suffers 2 damage.
+      </p>
+    "
+PulverizingRay-AE,AE,2,Power,Pulverizing Ray,1,"
+      <p>
+        <b>Power 1:</b> Gravehold suffers 18 damage. The players may collectively discard up to 6 gems. For each gem discarded this way, prevent 3 of that damage.
+      </p>
+    "
+Venomite-AE,AE,2,Minion,Venomite,,"
+      <p>
+        <b>Persistent:</b> The player with the lowest life suffers 2 damage. 
+        <span class=""or"">OR</span>
+        Any player discards a prepped spell that costs 3 <span class=""aether"">&AElig;</span> or more.
+      </p>
+    "
+DoomAegis-AE,AE,3,Power,Doom Aegis,1,"
+      <p>
+        <b>To Discard:</b> Spend 7 <span class=""aether"">&AElig;</span>.<br />
+        <br />
+        <b>Power 1:</b> The player with the most charges suffers 4 damage and loses all of their charges.
+      </p>
+    "
+GatherDarkness-AE,AE,3,Attack,Gather Darkness,,"
+      <p>
+        Any player places their discard pile on top of their deck, shuffles it, and then destroys the top four cards of their deck. Then, Unleash twice.
+      </p>
+    "
+JaggedOne-AE,AE,3,Minion,Jagged One,,"
+      <p>
+        <b>Persistent:</b> Unleash twice.
+      </p>
+    "
+Obliterate-AE,AE,3,Attack,Obliterate,,"
+      <p>
+        Unleash twice. The player with the most opened breaches destroys four cards in hand or suffers 4 damage.
+      </p>
+    "
+RealityRupture-AE,AE,3,Power,Reality Rupture,1,"
+      <p>
+        <b>To Discard:</b> Destroy two prepped spells that each cost 3 <span class=""aether"">&AElig;</span> or more.<br />
+        <br />
+        <b>Power 1:</b> Unleash three times.
+      </p>
+    "
+Sunder-AE,AE,3,Attack,Sunder,,"
+      <p>
+        Gravehold suffers 4 damage and the player with the lowest life suffers 4 damage.
+        <span class=""or"">OR</span>
+        Shuffle all of the nemesis turn order cards into the turn order deck.
+      </p>
+    "
+Topple-AE,AE,3,Attack,Topple,,"
+      <p>
+        Unleash twice. Gravehold suffers 4 damage.
+      </p>
+    "

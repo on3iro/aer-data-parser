@@ -1,0 +1,18 @@
+expansion,name,id,mageTitle,ability,numberOfCharges,uniqueStarters
+Depths,Nym,Nym,Breach Mage Apprentice,"
+        <h2>Terminus Barrier</h2>
+        <p class=""ability-activation"">Activate during your main phase:</p>
+        <p>Discard the top card of the nemesis deck.</p>
+        <p>If you discarded an attack card, discard an additional card.</p>
+      ",5,"[{""type"":""Spell"",""name"":""Cinder"",""expansion"":""Depths"",""id"":""Cinder"",""cost"":0,""effect"":""\n            <p>\n              <b>Cast:</b> Deal 1 damage.\n              <span class=\""or\"">OR</span>\n              <b>Cast:</b> Gain 2 <span class=\""aether\"">&AElig;</span>.\n            </p>\n          "",""keywords"":[]}]"
+Depths,Reeve,Reeve,Breach Mage Elite,"
+        <h2>Quelling Blade</h2>
+        <p class=""ability-activation"">Activate during your main phase:</p>
+        <p>Deal 5 damage to a minion.</p>
+        <p>Deal 3 damage to a different minion.</p>
+      ",4,"[{""type"":""Gem"",""name"":""Obsidian Shard"",""expansion"":""Depths"",""id"":""ObsidianShard"",""cost"":0,""effect"":""\n            <p>\n              Gain 1 <span class=\""aether\"">&AElig;</span>.<br/>\n              You may suffer 1 damage. If you do, gain an additional 2 <span class=\""aether\"">&AElig;</span>.\n            </p>\n          "",""keywords"":[]}]"
+Depths,Zhana,Zhana,Breach Mage Renegade,"
+        <h2>Sanctum Glyph</h2>
+        <p class=""ability-activation"">Activate during your main phase:</p>
+        <p>Gravehold gains 7 life.</p>
+      ",5,"[{""type"":""Spell"",""name"":""Eternal Ember"",""expansion"":""Depths"",""id"":""EternalEmber"",""cost"":0,""effect"":""\n            <p>\n              <b>Cast:</b> Deal 1 damage.\n              <span class=\""or\"">OR</span>\n              <b>Cast:</b> Cast one of your prepped spells without \n              discarding it.\n            </p>\n          "",""keywords"":[]}]"

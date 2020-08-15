@@ -1,0 +1,70 @@
+type,expansion,name,id,cost,effect,keywords
+Spell,promos,Drown in Flames,DrownInFlames,6,"
+      <p>
+      <b>Cast:</b> Deal 4 damage to a minion or the nemesis.<br/>
+        You may lose 2 charges. If you do, repeat this.<br/>
+        <span class=""hint"">(Effects that modify damage affect each 
+        instance of damage this spell deals)</span>
+        </p>
+        ",[]
+Spell,promos,Fleeting Vision,FleetingVision,3,"
+      <p>
+      <b>Cast:</b> Deal 2 damage.<br/>
+      Each player may reveal the top two cards of their deck and may discard 
+      any of those cards.
+        </p>
+      ",[]
+Spell,promos,Splinter Missile,SplinterMissile,5,"
+      <p>
+      <b>Cast:</b> Deal 4 damage.<br/>
+      Any ally may discard a card in hand. 
+      If they do, divide this damage however you choose among the nemesis 
+      and any number of minions.
+        </p>
+      ",[]
+Gem,promos,Echo Stone,EchoStone,4,"
+      <p>
+      Gain 2 <span class=""aether"">&AElig;</span>.<br/>
+      If you have played another Echo Stone this turn, gain an additional 
+      1 <span class=""aether"">&AElig;</span>.
+      </p>
+      ",[]
+Spell,promos,Thieving Spirit,ThievingSpirit,5,"
+      <p>
+        <b>Cast:</b> Deal 4 damage.<br/>
+        Gain 1 <span class=""aether"">&AElig;</span>.
+        </p>
+        ",[]
+Gem,promos,Fractured Quartz,FracturedQuartz,4,"
+      <p>
+      Gain 2 <span class=""aether"">&AElig;</span>.<br/>
+      You may destroy two cards in this card's supply pile. If you do, 
+      gain an additional 1 <span class=""aether"">&AElig;</span>.
+      </p>
+      ",[]
+Relic,promos,Rock Launcher,RockLauncher,3,"
+      <p>
+      Discard or destroy a card in hand. If you do, deal damage equal to its cost.
+      </p>
+      ",[]
+Relic,promos,Abacus of Ignition,AbacusOfIgnition,4,"
+      <p>
+      You may casdt any ally's prepped spell.<br/>
+      Any ally draws a card.
+      </p>
+      ",[]
+Spell,promos,Illuminating Flame,IlluminatingFlame,6,"
+      <p>
+      <b>Cast:</b> Deal 5 damage.<br/>
+      If this was cast from an opened III or IV breach, you may destroy this.
+        If you do, gain 3 charges.
+        </p>
+      ",[]
+Spell,promos,Chronal Arc,ChronalArc,7,"
+      <p>
+        This spell must be prepped to two adjacent breaches so that this card 
+        touches both breaches. This fully occupies both breaches.<br/>
+        <b>Cast:</b> Deal 4 damage.<br/>
+        You may place this card into your hand.
+        </p>
+        ",[]

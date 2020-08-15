@@ -1,0 +1,70 @@
+id,expansion,tier,type,name,effect
+Menace-promos,promos,1,Attack,Menace,"
+      <p>
+        The players collectively discard two spells that are in hand or prepped. The players collectively place two gems from their hands on top of their decks.
+      </p>
+    "
+GlyphEnigma-promos,promos,1,Minion,Glyph Enigma,"
+      <p>
+        <b>Persistent:</b> Gravehod suffers 1 damage. If the nemesis tier is 2 or higher, Gravehold suffers 2 additional damage.
+      </p>
+    "
+GravitySplinter-promos,promos,2,Power,Gravity Splinter,"
+      <p>
+        <b>To Discard:</b> Spend 7 <span class=""aether"">&AElig;</span>.<br />
+        <br />
+        <b>Power 2:</b> Unleash twice. The player with the fewest opened breaches suffers 3 damage.
+      </p>
+    "
+WorldPurge-promos,promos,3,Power,World Purge,"
+      <p>
+        <b>To Discard:</b> Spend 9 <span class=""aether"">&AElig;</span>.<br />
+        <br />
+        <b>Power 2:</b> Unleash three times.
+        <span class=""or"">OR</span>
+        Gravehold suffers 7 damage.
+      </p>
+    "
+BaneSire-promos,promos,1,Minion,Bane Sire,"
+      <p>
+        <b>Persistent:</b> Unleash.
+      </p>
+    "
+Decimate-promos,promos,1,Attack,Decimate,"
+      <p>
+        Unleash twice and any player gains 2 charges.
+        <span class=""or"">OR</span>
+        Gravehold suffers 4 damage.
+      </p>
+    "
+SpiritCage-promos,promos,1,Power,Spirit Cage,"
+      <p>
+        <b>To Discard:</b> Discard a card in hand that costs 5 <span class=""aether"">&AElig;</span> or more.<br />
+        <br />
+        <b>Power 3:</b> Unleash twice. Any player discards a spell in hand.
+      </p>
+    "
+BanefulCrux-promos,promos,2,Power,Baneful Crux,"
+      <p>
+        <b>To Discard:</b> Discard two cards in hand that each cost 4 <span class=""aether"">&AElig;</span> or more.<br />
+        <br />
+        <b>Power 2:</b> Unleash twice. Gravehold suffers 3 damage.
+      </p>
+    "
+Negate-promos,promos,2,Attack,Negate,"
+      <p>
+        Unleash twice. Any player destroys their most expensive card in hand.
+        <span class=""or"">OR</span>
+        Unleash twice. Gravehold suffers 3 damage.
+      </p>
+    "
+Gallowskulk-promos,promos,3,Minion,Gallowskulk,"
+      <p>
+        The player with the lowest life suffers 3 damage.
+      </p>
+    "
+Unmake-promos,promos,3,Attack,Unmake,"
+      <p>
+        Unleash twice. Any player destroys the top three cards of their deck and suffers 3 damage.
+      </p>
+    "

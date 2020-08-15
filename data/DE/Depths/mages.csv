@@ -1,0 +1,18 @@
+expansion,name,id,mageTitle,ability,numberOfCharges,uniqueStarters
+Depths,Nym,Nym,Riss-Magier-Lehrling,"
+        <h2>Barriere</h2>
+        <p class=""ability-activation"">In DEINEM SPIELER-ZUG während <i>Aktionen ausführen</i>:</p>
+        <p>Sieh dir die oberste Erzfeind-Karte an und wirf sie ab.</p>
+        <p>Hast du einen ANGRIFF gesehen, wiederhole das (1x).</p>
+      ",5,"[{""type"":""Spell"",""name"":""Zunder"",""expansion"":""Depths"",""id"":""Cinder"",""cost"":0,""effect"":""\n          <p>\n            <b>Wirken:</b> Füge 1 Schaden zu.\n            <span class=\""or\"">ODER</span>\n            <b>Wirken:</b> Erhalte 2 <span class=\""aether\"">&AElig;</span>.\n          </p>\n        "",""keywords"":[]}]"
+Depths,Reeve,Reeve,Riss-Magier-Elite,"
+        <h2>Quelling Blade</h2>
+        <p class=""ability-activation"">In DEINEM SPIELER-ZUG während <i>Aktionen ausführen</i>:</p>
+        <p>Füge 1 Monster 5 Schaden zu.</p>
+        <p>Füge 1 anderen Monster 3 Schaden zu.</p>
+      ",4,"[{""type"":""Gem"",""name"":""Obsidian-Scherbe"",""expansion"":""Depths"",""id"":""ObsidianShard"",""cost"":0,""effect"":""\n          <p>\n            Erhalte 1 <span class=\""aether\"">&AElig;</span>.<br/>\n            Fügst du dir jetzt 1 Schaden zu? Erhalte 2 <span class=\""aether\"">&AElig;</span>.\n          </p>\n        "",""keywords"":[]}]"
+Depths,Z'hana,Zhana,Abtrünnige Riss-Magierin,"
+        <h2>Das Licht Der Welt, Die War</h2>
+        <p class=""ability-activation"">In DEINEM SPIELER-ZUG während <i>Aktionen ausführen</i>:</p>
+        <p>Die <i>Feste der letzten Ruhe</i> heilt 7 Leben.</p>
+      ",5,"[{""type"":""Spell"",""name"":""Ewige Glut"",""expansion"":""Depths"",""id"":""EternalEmber"",""cost"":0,""effect"":""\n          <p>\n            <b>Wirken:</b> Füge 1 Schaden zu.\n            <span class=\""or\"">ODER</span>\n            <b>Wirken:</b> Wirke 1 anderen deiner gebundenen Zauber. Der Zauber bleibt gebunden.\n          </p>\n        "",""keywords"":[]}]"

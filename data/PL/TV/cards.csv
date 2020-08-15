@@ -1,0 +1,64 @@
+type,expansion,name,id,cost,effect,keywords
+Gem,TV,Nawiedzony Beryl,FossilizedScarab,3,"
+      <p>
+      Otrzymujesz 2 <span class=""aether"">&AElig;</span>.
+        <span class=""or"">ALBO</span>
+      Odrzuć kartę z ręki. Jeżeli to zrobisz, otrzymujesz 2 Ładunki.
+      </p>
+      ",[]
+Spell,TV,Termiczny Grot,ThermalDart,4,"
+      <p>
+      <b>WIĘŹ</b> <span class=""hint"">(Dwa Zaklęcia z Więzią mogą być przygotowane na tej samej Bramie.)</span>
+      </p>
+      <p>
+      <b>Aktywacja:</b> Zadaj 3 obrażenia.<br/>
+      Jeżeli nie jest to pierwszy Termiczny Grot aktywowany przez ciebie w tej turze, otrzymujesz 1 Ładunek.
+        </p>
+      ","[""link""]"
+Spell,TV,Rezonans,Resonate,6,"
+      <p>
+      <b>Aktywacja:</b> Zadaj 4 obrażenia.<br/>
+      Jeżeli w twoim stosie kart odrzuconych jest co najmniej 6 innych kart, zadaj 3 dodatkowe obrażenia.
+        </p>
+      ",[]
+Spell,TV,Pożoga,Conflagration,3,"
+      <p>
+      <b>WIĘŹ</b> <span class=""hint"">(Dwa Zaklęcia z Więzią mogą być przygotowane na tej samej Bramie.)</span>
+      </p>
+      <p>
+      <b>Aktywacja:</b> Zadaj 2 obrażenia.<br/>
+      Otrzymaj 1 <span class=""aether"">&AElig;</span>.
+        </p>
+      ","[""link""]"
+Relic,TV,Klucz do Wymiarów,DimensionalKey,8,"
+      <p>
+      Dowolny sojusznik dobiera dwie karty.
+        <span class=""or"">ALBO</span>
+      Zniszcz tę kartę. Otrzymujesz 1 obrażenie. Umieść kartę Nemezis, która jest w grze, na wierzchu talii Nemezis.
+      </p>
+      ",[]
+Spell,TV,Wewnętrzny Żar,InnerFire,2,"
+      <p>
+        <b>WIĘŹ</b> <span class=""hint"">(Dwa Zaklęcia z Więzią mogą być przygotowane na tej samej Bramie.)</span>
+      </p>
+      <p>
+        <b>Aktywacja:</b> Zadaj 1 obrażenie.<br/>
+        Jeżeli rząd kart Nemezis jest wyższy niż 1, zadaj 1 dodatkowe obrażenie.
+        </p>
+        ","[""link""]"
+Spell,TV,Ognisty piorun,Fulminate,5,"
+      <p>
+      Gdy przygotowane: pozostałe aktywowane przez ciebie Zaklęcia zadają 1 dodatkowe obrażenie.
+      </p>
+      <p>
+      <b>WIĘŹ</b> <span class=""hint"">(Dwa Zaklęcia z Więzią mogą być przygotowane na tej samej Bramie.)</span>
+      </p>  
+      <b>Aktywacja:</b> Zadaj 3 obrażenia.
+        </p>
+        ","[""link""]"
+Relic,TV,Powab Wieczności,EternityCharm,3,"
+      <p>
+        Wzmocnij swoją zamkniętą Bramę o najniższym koszcie wzmocnienia. Odkryj trzy karty z wierzchu wojej talii. 
+        Możesz przygotować jedno z odkrytych Zaklęć.
+      </p>
+        ",[]

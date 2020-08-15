@@ -1,0 +1,54 @@
+type,expansion,name,id,cost,effect,keywords
+Gem,TA,Shining Fluorite,ShiningFluorite,7,"
+      <p>
+      Gain 3 <span class=""aether"">&AElig;</span>.<br/>
+      Place the next spell you gain this turn into your hand.
+      </p>
+      ",[]
+Relic,TA,Polyphase Turbine,PolyphaseTurbine,3,"
+      <p>
+        If this is the first time you've played a Polyphase Turbine this turn, 
+        gain 2 <span class=""aether"">&AElig;</span>. Otherwise, gain 1 charge 
+        and 1 <span class=""aether"">&AElig;</span>.
+      </p>
+        ",[]
+Relic,TA,Breach Extractor,BreachExtractor,5,"
+      <p>
+      Any player destroys up to two cards in hand.
+        <span class=""or"">OR</span>
+      Destroy this. Gravehold gains 3 life.
+      </p>
+      ",[]
+Relic,TA,Focusing Conduit,FocusingConduit,5,"
+      <p>
+        <b>Attach</b> this to any player's breach.
+      </p>
+      <p>
+        At the end of that player's casting phase, focus this breach.
+        When this breach is opened, destory this card.
+      </p>
+        ",[]
+Spell,TA,Dual Flash,DualFlash,3,"
+      <p>
+      <b>Cast:</b> Deal 2 damage.<br/>
+      If this is the first time you have cast Dual Flash during your casting 
+      phase this turn, you may cast any player's prepped Dual Flash without
+      discarding it.
+        </p>
+      ",[]
+Spell,TA,Dust Caller,DustCaller,5,"
+      <p>
+      <b>Cast:</b> Deal 4 damage.<br/>
+      Any ally returns a card that costs 0 <span class=""aether"">&AElig;</span> 
+      from their discard pile to their hand.
+        </p>
+      ",[]
+Spell,TA,Symbiotic Synapse,SymbioticSynapse,7,"
+      <p>
+        If there is another Symbiotic Synapse in any player's discard pile, this
+        gains <b>Echo</b>.
+        </p>
+        <p>
+        <b>Cast:</b> Deal 4 damage.
+        </p>
+        ","[""echo""]"

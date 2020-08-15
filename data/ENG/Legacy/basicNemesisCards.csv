@@ -1,0 +1,125 @@
+id,expansion,tier,type,name,effect
+Ambush-Legacy,Legacy,1,Attack,Ambush,"
+      <p>
+        Unleash. Gravehold suffers 2 damage. Any player suffers 1 damage.
+      </p>
+    "
+Conduct-Legacy,Legacy,1,Attack,Conduct,"
+      <p>
+        Unleash. The player with the most charges suffers 2 damage and gains a charge.
+      </p>
+    "
+CreepingCurse-Legacy,Legacy,1,Power,Creeping Curse,"
+      <p>
+        <b>To Discard:</b> Spend 6 <span class=""aether"">&AElig;</span>.<br />
+        <br />
+        <b>Power 3:</b> Unleash. Any player suffers 2 damage. The players collectively discad two cards in hand.
+      </p>
+    "
+Daze-Legacy,Legacy,1,Attack,Daze,"
+      <p>
+        Any player suffers 2 damage and discards a card in hand. If that card costs 0 <span class=""aether"">&AElig;</span>, Gravehold suffers 2 damage.
+      </p>
+    "
+EndlessChasm-Legacy,Legacy,1,Power,Endless Chasm,"
+      <p>
+        <b>To Discard:</b> Spend 6 <span class=""aether"">&AElig;</span>.<br />
+        <br />
+        <b>Power 2:</b> Unleash twice. Gravehold suffers 2 damage.
+      </p>
+    "
+AetherExtract-Legacy,Legacy,1,Power,Aether Extract,"
+      <p>
+        <b>Power 2:</b> Unleash. Any player discards two gems. If both of those gems cost 0 <span class=""aether"">&AElig;</span>, Unleash.
+      </p>
+    "
+RavenousLeviathan-Legacy,Legacy,1,Minion,Ravenous Leviathan,"
+      <p>
+        <b>Persistent:</b> Gravehold suffers 2 damage.
+      </p>
+    "
+SpineThresher-Legacy,Legacy,1,Minion,Spine Thresher,"
+      <p>
+        <b>Persistent:</b> Unleash. Any player suffers 1 damage.
+      </p>
+    "
+CausticCocoon-Legacy,Legacy,2,Minion,Caustic Cocoon,"
+      <p>
+        <b>Persistent:</b> Unleash. Gravehold suffers 1 damage.
+      </p>
+    "
+Sap-Legacy,Legacy,2,Attack,Sap,"
+      <p>
+        Unleash twice. Any player loses 2 charges.
+        <span class=""or"">OR</span>
+        Unleash twice. Any player suffers 3 damage.
+      </p>
+    "
+Tremor-Legacy,Legacy,2,Power,Tremor,"
+      <p>
+        <b>To Discard:</b> Spend 7 <span class=""aether"">&AElig;</span>.<br />
+        <br />
+        <b>Power 2:</b> Unleash twice. Gravehold suffers 4 damage.
+      </p>
+    "
+Drain-Legacy,Legacy,2,Attack,Drain,"
+      <p>
+        Unleash. Gravehold suffers 2 damage. The players collectively discard two prepped spells. Then, if any player has a prepped spell that costs 4 <span class=""aether"">&AElig;</span> or more, Unleash.
+      </p>
+    "
+HummingHive-Legacy,Legacy,2,Minion,Humming Hive,"
+      <p>
+        <b>Persistent:</b> Any player suffers 2 damage.
+      </p>
+    "
+Hunted-Legacy,Legacy,2,Attack,Hunted,"
+      <p>
+        Unleash twice. The player with the lowest life suffers 1 damage.
+      </p>
+    "
+TemptingOffer-Legacy,Legacy,2,Power,Tempting Offer,"
+      <p>
+        <b>To Discard:</b> Spend 7 <span class=""aether"">&AElig;</span>.<br />
+        <br />
+        <b>Power 3:</b> Unleash twice. The player with the lowest life suffers 3 damage.
+      </p>
+    "
+Annihilate-Legacy,Legacy,3,Attack,Annihilate,"
+      <p>
+        Unleash twice. The player with the most expensive card in hand discards two cards in hand. Then, for each card in that players hand that costs 2 <span class=""aether"">&AElig;</span> or more, Gravehold suffers 2 damage.
+      </p>
+    "
+FacetOgre-Legacy,Legacy,3,Minion,Facet Ogre,"
+      <p>
+        <b>Persistent:</b> Gravehold suffers damage equal to the number of shield tokens this minion has. If this minion has two or less shield tokens, it gains one shield token.
+      </p>
+    "
+FlashofDecay-Legacy,Legacy,3,Power,Flash of Decay,"
+      <p>
+        <b>Power 2:</b> Unleash twice. The player with the most expensive prepped spell destroys it. If that spell costs 4 <span class=""aether"">&AElig;</span> or less, or no spell was destroyed, Unleash.
+      </p>
+    "
+GatheringStorm-Legacy,Legacy,3,Power,Gathering Storm,"
+      <p>
+        <b>To Discard:</b> Spend 8 <span class=""aether"">&AElig;</span>.<br />
+        <br />
+        <b>Power 2:</b> Unleash twice. If there are two nemesis turn order cards in the turn order discard pile, any player suffers 4 damage. Otherwise, Gravehold suffers 4 damage.
+      </p>
+    "
+MaddeningSpectre-Legacy,Legacy,3,Minion,Maddening Spectre,"
+      <p>
+        <b>Persistent:</b> Unleash twice.
+      </p>
+    "
+Scatter-Legacy,Legacy,3,Attack,Scatter,"
+      <p>
+        Unleash twice. Any player destroys their most expensive card in hand.
+      </p>
+    "
+Suffocate-Legacy,Legacy,3,Attack,Suffocate,"
+      <p>
+        Unleash three times.
+        <span class=""or"">OR</span>
+        Gravehold suffers 3 damage and any player suffes 3 damage.
+      </p>
+    "

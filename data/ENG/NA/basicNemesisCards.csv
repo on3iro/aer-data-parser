@@ -1,0 +1,206 @@
+id,expansion,tier,type,name,hp,effect
+DrillbeakWurm-NA,NA,1,Minion,Drillbeak Wurm,6,"
+      <p>
+        <b>Persistent:</b> Any player suffers 1 damage. Gravehold suffers 1 damage.
+      </p>
+    "
+CarriodeColony-NA,NA,1,Minion,Carriode Colony,4,"
+      <p>
+        <b>Immediately:</b> This minion suffers damage equal to the number of players in the game.<br />
+        <b>Persistent:</b> Unleash.
+      </p>
+    "
+ChaosOrb-NA,NA,1,Power,Chaos Orb,,"
+      <p>
+        <b>To Discard:</b> Spend 6 <span class=""aether"">&AElig;</span>.<br />
+        <br />
+        <b>Power 3:</b> Unleash. Gravehold suffers 4 damage.
+      </p>
+    "
+Disorient-NA,NA,1,Attack,Disorient,,"
+      <p>
+        Unleash. Any player suffers 1 damage and discards a card in hand. If that card is a gem, Gravehold suffers 2 damage.
+      </p>
+    "
+Rend-NA,NA,1,Attack,Rend,,"
+      <p>
+        Unleash. Gravehold suffers 1 damage. Any player suffers 2 damage.
+      </p>
+    "
+UnnervingHowl-NA,NA,1,Power,Unnerving Howl,,"
+      <p>
+        <b>Power 2:</b> Unleash. Any player discards two gems in hand.
+      </p>
+    "
+CeaselessDarkness-NA,NA,1,Power,Ceaseless Darkness,,"
+      <p>
+        <b>To Discard:</b> Spend 5 <span class=""aether"">&AElig;</span>.<br />
+        <br />
+        <b>Power 2:</b> Unleash. Any player suffers 3 damage. Any player discards a card in hand.
+      </p>
+    "
+AetherShock-NA,NA,1,Attack,Aether Shock,,"
+      <p>
+        Unleash. The player with the most prepped spells suffers 1 damage and discards a prepped spell.
+      </p>
+    "
+Decimate-NA,NA,1,Attack,Decimate,,"
+      <p>
+        Unleash twice and any players gains 2 charges.
+        <span class=""or"">OR</span>
+        Gravehold suffers 4 damage.
+      </p>
+    "
+BlindEnigma-NA,NA,1,Minion,Blind Enigma,7,"
+      <p>
+        <b>Persistent:</b> Any player suffers 1 damage. If the nemesis tier is 2 or higher, that player suffers 2 additional damage.
+      </p>
+    "
+PlanarCollision-NA,NA,1,Power,Planar Collision,,"
+      <p>
+        <b>To Discard:</b> Discard two prepped spells.<br />
+        <br />
+        <b>Power 2:</b> Unleash twice.
+      </p>
+    "
+SpiritSnare-NA,NA,1,Power,Spirit Snare,,"
+      <p>
+        <b>To Discard:</b> Discard a card in hand that costs 5 <span class=""aether"">&AElig;</span> or more.<br />
+        <br />
+        <b>Power 3:</b> Unleash. Any player discards a spell in hand and suffers 2 damage.
+      </p>
+    "
+Dement-NA,NA,2,Attack,Dement,,"
+      <p>
+        Unleash twice. Any player suffers 1 damage and places their most expensive card in hand on top of their deck.
+      </p>
+    "
+Decay-NA,NA,2,Attack,Decay,,"
+      <p>
+        Unleash twice. Any player or Gravehold suffers 3 damage.
+      </p>
+    "
+CullingScythe-NA,NA,2,Power,Culling Scythe,,"
+      <p>
+        <b>To Discard:</b> Spend 7 <span class=""aether"">&AElig;</span>.<br />
+        <br />
+        <b>Power 2:</b> Unleash. The player with the lowest life suffers 4 damage.
+      </p>
+    "
+Fugue-NA,NA,2,Attack,Fugue,,"
+      <p>
+        Any player discards three cards in hand and suffers 2 damage.
+      </p>
+    "
+VolcanicZala-NA,NA,2,Minion,Volcanic Zala,10,"
+      <p>
+        <b>Persistent:</b> Gravehold suffers 3 damage.
+        <span class=""or"">OR</span>
+        Any player loses 2 charges.
+      </p>
+    "
+PortalGuardian-NA,NA,2,Minion,Portal Guardian,8,"
+      <p>
+        <b>Persistent:</b> Unleash. Any player suffers 1 damage.
+      </p>
+    "
+ObliteratingMeteor-NA,NA,2,Power,Obliterating Meteor,,"
+      <p>
+        <b>To Discard:</b> Discard four cards in hand.<br />
+        <br />
+        <b>Power 1:</b> Unleash twice. Gravehold suffers 3 damage.
+      </p>
+    "
+Mutilate-NA,NA,2,Attack,Mutilate,,"
+      <p>
+        Unleash. The players collectively discard two prepped spells. Any player suffers 2 damage.
+      </p>
+    "
+Needlemaw-NA,NA,2,Minion,Needlemaw,11,"
+      <p>
+        <b>Persistent:</b> Gravehold suffers 2 damage.
+      </p>
+    "
+MorbidGyre-NA,NA,2,Power,Morbid Gyre,,"
+      <p>
+        <b>To Discard:</b> Spend 7 <span class=""aether"">&AElig;</span>.<br />
+        <br />
+        <b>Power 1:</b> Unleash twice. The players collectively discard three cards in hand.
+      </p>
+    "
+GravitySplinter-NA,NA,2,Power,Gravity Splinter,,"
+      <p>
+        <b>To Discard:</b> Spend 7 <span class=""aether"">&AElig;</span>.<br />
+        <br />
+        <b>Power 2:</b> Unleash twice. The player with the fewest opened breaches suffers 3 damage.
+      </p>
+    "
+Eliminate-NA,NA,3,Attack,Eliminate,,"
+      <p>
+        Unleash three times.
+        <span class=""or"">OR</span>
+        Gravehold suffers 6 damage.
+        <span class=""or"">OR</span>
+        Any player suffers 5 damage.
+      </p>
+    "
+CrushingStorm-NA,NA,3,Power,Crushing Storm,,"
+      <p>
+        <b>To Discard:</b> Destroy two opened breaches.<br />
+        <br />
+        <b>Power 1:</b> Unleash three times.
+      </p>
+    "
+GnashingMaw-NA,NA,3,Power,Gnashing Maw,,"
+      <p>
+        <b>Power 2:</b> Unleash. The player with the most expensive prepped spell destroys it. If that spell costs 4 <span class=""aether"">&AElig;</span> or less, Unleash and any player suffers 3 damage.
+      </p>
+    "
+Disperse-NA,NA,3,Attack,Disperse,,"
+      <p>
+        Unleash twice. Any player suffers 2 damage and destroys their most expensive card in hand.
+      </p>
+    "
+Gore-NA,NA,3,Attack,Gore,,"
+      <p>
+        Unleash twice. The player with the most expensive card in hand discards three cards in hand. Then, for each card in that player's hand that costs 2 <span class=""aether"">&AElig;</span> or more, that player suffers 2 damage.
+      </p>
+    "
+HexofDestruction-NA,NA,3,Power,Hex of Destruction,,"
+      <p>
+        <b>To Discard:</b> Spend 8 <span class=""aether"">&AElig;</span>.<br />
+        <br />
+        <b>Power 2:</b> Unleash twice. Gravehold suffers 4 damage. Any player destroys the top four cards of their deck.
+      </p>
+    "
+EternalWatcher-NA,NA,3,Minion,Eternal Watcher,10,"
+      <p>
+        <b>Persistent:</b> Any player suffers 3 damage. If this minion has 6 or less life, it gains 3 life.
+      </p>
+    "
+Sunder-NA,NA,3,Attack,Sunder,,"
+      <p>
+        Gravehold suffers 4 damage and the player with the lowest life suffers 4 damage.
+        <span class=""or"">OR</span>
+        Shuffle all of the nemesis turn order cards into the turn order deck.
+      </p>
+    "
+Topple-NA,NA,3,Attack,Topple,,"
+      <p>
+        Unleash twice. Gravehold suffers 4 damage.
+      </p>
+    "
+MonstrosityofOmens-NA,NA,3,Minion,Monstrosity of Omens,0,"
+      <p>
+        When damage is dealt to this minion, reduce that damage to 1.<br />
+        <br />
+        <b>Persistent:</b> Gravehold suffers damage equal to this minion's current life.
+      </p>
+    "
+DoomAegis-NA,NA,3,Power,Doom Aegis,,"
+      <p>
+        <b>To Discard:</b> Spend 7 <span class=""aether"">&AElig;</span>.<br />
+        <br />
+        <b>Power 1:</b> The player with the most charges suffers 4 damage and loses all of their charges.
+      </p>
+    "

@@ -1,0 +1,50 @@
+id,name,expansion,level,subtype,effect
+ReevesRavenShard,Reeve's RavenShard,promos,1,Gem,"
+      <p>
+      Gain 1 <span class=""aether"">&AElig;</span>. You may discard a card in 
+      hand. If you do, gain and additional 1 <span class=""aether"">&AElig;</span>.
+      </p>
+      "
+NymsVision,Nym's Vision,promos,1,Spell,"
+      <p>
+      <b>Cast:</b> Deal 1 damage.<br/>
+      Reveal the top card of the nemesis deck. If you revealed an attack, gain 
+      2 <span class=""aether"">&AElig;</span>.
+      </p>
+      "
+SparrowsAid,Sparrow's Aid,promos,1,,"
+      <p>
+      <b>Cast:</b> Deal 1 damage.<br/>
+      Any ally may prep a spell in hand to their opened or closed breach(es).
+      </p>
+      "
+WraithsEssence,Wraith's Essence,promos,2,,"
+      <p>
+      When a player becomse exhausted, do not resolve any on-exhaust effects.<br/>
+      <br/>
+      The players do not lose when all players are exhausted.
+      </p>
+      "
+VolatileClasp,Volatile Clasp,promos,3,,"
+      <p>
+      When you play a relic that costs 4 <span class=""aether"">&AElig;</span> 
+      or more, any ally gains 1 charge.
+      </p>
+      "
+BreachStabilizer,Breach Stabilizer,promos,3,,"
+      <p>
+      Any number of Sparks mya be prepped to your I breach.
+      </p>
+      "
+FangedChoker,Fanged Choker,promos,3,,"
+      <p>
+      At the end of your draw phase, if the total cost of spells in your hand 
+      is 6 <span class=""aether"">&AElig;</span> or more, draw a card.
+      </p>
+      "
+EndlessBandolier,Endless Bandolier,promos,3,,"
+      <p>
+      Once per turn during your main phase you may discard a card in hand. 
+      If you do, deal 1 damage and gain 1 charge.
+      </p>
+      "
