@@ -36,7 +36,7 @@ Spell,AE,Blitzsturm,FeralLightning,5,"
         <b>Wirken:</b> Füge 3 Schaden zu.
       </p>
     ",[]
-Spell,AE,Einblick Ins Nichts,PlanarInsight,6,"
+Spell,AE,Einblick ins Nichts,PlanarInsight,6,"
       <p>
         <b>Wirken:</b> Füge 2 Schaden zu.<br />
         +1 Schaden für jeden deiner aktiven Risse.
@@ -57,11 +57,11 @@ Gem,AE,Glühender Opal,BurningOpal,5,"
 Spell,AE,Fressende Leere,ConsumingVoid,7,"
       <p>
         <b>Wirken:</b> Zerstöre bis zu 2 Karten deiner Wahl auf deiner Hand.<br />
-        Für jede zerstörte Karte:<br />
-        Füge 3 Schaden zu.
+        Füge X Schaden zu.<br />
+        X = 0/3/6 für 0/1/2 zerstörte Karten.
       </p>
     ",[]
-Relic,AE,instabiles Prisma,UnstablePrism,3,"
+Relic,AE,Instabiles Prisma,UnstablePrism,3,"
       <p>
         Spiele 1 Kristall von deiner Hand sofort 2x aus. Dann zerstöre ihn.
         <span class=""or"">ODER</span>
@@ -75,7 +75,7 @@ Gem,AE,Getrübter Saphir,CloudedSapphire,6,"
         Wähle 1 anderen Spieler, der 1 Energie erhält.
       </p>
     ",[]
-Relic,AE,Talisman Der Magier,MagesTalisman,5,"
+Relic,AE,Talisman der Magier,MagesTalisman,5,"
       <p>
         Erhalte 1 Energie.<br />
         Wähle 1 anderen Spieler, der 1 Energie erhält.
@@ -95,7 +95,7 @@ Spell,AE,Lava-Takeln,LavaTendril,4,"
         <b>Wirken:</b> Füge 3 Schaden zu.
       </p>
     ",[]
-Relic,AE,Vortex In Flaschen,BottledVortex,3,"
+Relic,AE,Vortex in Flaschen,BottledVortex,3,"
       <p>
         Wähle bis zu 2 Karten auf deiner Hand/Ablagestapel. Zerstöre sie.<br />
         Ziehe 1 Karte.<br />
@@ -111,8 +111,8 @@ Spell,AE,Arkaner Nexus,ArcaneNexus,7,"
 Spell,AE,Dunkles Feuer,DarkFire,5,"
       <p>
         <b>Wirken:</b> Wirf bis zu 2 Karten deiner Wahl von deiner Hand ab.<br />
-        Für jede abgeworfene Karte:<br />
-        Füge 3 Schaden zu.
+        Füge X Schaden zu.<br />
+        X = 0/3/6 für 0/1/2 abgeworfene Karten.
       </p>
     ",[]
 Spell,AE,Phoenix-Flamme,PhoenixFlame,3,"
@@ -128,7 +128,7 @@ Gem,AE,Jade,Jade,2,"
     ",[]
 Spell,AE,Erweiterter Blick,AmplifyVision,4,"
       <p>
-        <b>Wirken:</b> Bündele gratis 1 deiner dunklen Risse mit den geringsten <span class=""aether"">&AElig;</span>-Kosten.<br />
+        <b>Wirken:</b> Bündele 1 deiner dunklen Risse mit den geringsten <span class=""aether"">&AElig;</span>-Kosten.<br />
         Füge 2 Schaden zu.<br />
         Sind alle deine Risse aktiv? +1 Schaden.
       </p>
@@ -159,7 +159,7 @@ Spell,AE,Feuer-Peitsche,WildfireWhip,6,"
         <b>Wirken:</br> Füge 4 Schaden zu.
       </p>
     ",[]
-Relic,AE,Orb Der Bündelung,FocusingOrb,4,"
+Relic,AE,Orb der Bündelung,FocusingOrb,4,"
       <p>
         Bündele 1 Riss deiner Wahl (bei 1 Spieler deiner Wahl).
         <span class=""or"">ODER</span>

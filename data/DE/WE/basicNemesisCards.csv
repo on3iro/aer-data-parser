@@ -1,0 +1,164 @@
+id,expansion,tier,type,name,effect
+Afflict-WE,WE,1,Attack,Heimsuchung,"
+      <p>
+        SPEZIAL 1.<br/>
+        Fügt 1 Spieler eurer Wahl 3 Schaden zu. Dieser Spieler darf 1 Karte seiner Wahl aus seinem
+        Ablagestapel zurück auf die Hand nehmen.
+      </p>
+    "
+CatacombDrone-WE,WE,1,Minion,Katakomben-Drohne,"
+      <p>
+        <b>Ansturm:</b> SPEZIAL 1.<br/>
+        Fügt der <i>Feste der letzten Ruhe</i> 1 Schaden zu.
+      </p>
+    "
+Encroach-WE,WE,1,Attack,Eindringen,"
+      <p>
+        SPEZIAL 1.<br/> 
+        Seht euch die oberste Karte des Reihenfolgedecks an. Ist es eine Spieler-Reihenfolgekarte? Fügt genau diesem Spieler
+        2 Schaden zu.<br/>
+        <b>Andernfalls:</b> Fügt der <i>Feste der letzten Ruhe</i> 3 Schaden zu.
+      </p>
+    "
+HeartofNothing-WE,WE,1,Power,Herz des Nichts,"
+      <p>
+        <b>Verhindern:</b> Wirf 4 Karten deiner Wahl von der Hand ab.<br />
+        <br/>
+        <b>Zeit 2:</b> SPEZIAL 2.
+        <span class=""or"">ODER</span>
+        Fügt 1 Spieler eurer Wahl 4 Schaden zu.
+      </p>
+    "
+HowlingSpinners-WE,WE,1,Minion,Jaulendes Gebein,"
+      <p>
+        <b>Ansturm:</b> Fügt 1 Spieler eurer Wahl 2 Schaden zu.
+      </p>
+    "
+NightUnending-WE,WE,1,Power,Endlose Nacht,"
+      <p>
+        <b>Zeit 3:</b> Wählt den Spieler mit den meisten gebundenen Zaubern. Fügt der Feste X Schaden zu.
+        X = 2 je gebundenen Zauber dieses Spielers.
+      </p>
+    "
+Nix-WE,WE,1,Attack,Ins Nichts,"
+      <p>
+        SPEZIAL 1.<br/>
+        Wählt einen Spieler. Fügt diesem Spieler 1 Schaden zu. Dann wählt dieser Spieler 1 Karte auf seiner
+        Hand mit den höchsten <span class=""aether"">&AElig;</span>-Kosten und wirft sie ab.
+      </p>
+    "
+PlanarCollision-WE,WE,1,Power,Kollision der Ebenen,"
+      <p>
+        <b>Verhindern:</b> Wähle 2 deiner gebundenen Zauber. Wirf sie ab.<br />
+        <br />
+        <b>Zeit 2:</b> SPEZIAL 2.
+      </p>
+    "
+Thrash-WE,WE,1,Attack,Zerschmettern,"
+      <p>
+        SPEZIAL 1. Werft insgesamt 2 Karten eurer Wahl von der Hand ab.
+      </p>
+    "
+AphoticSun-WE,WE,2,Power,Lichtlose Sonne,"
+      <p>
+        <b>Verhindern:</b> Bezahle 7 <span class=""aether"">&AElig;</span>.<br />
+        <br />
+        <b>Zeit 2:</b> SPEZIAL 1. Wählt den Spieler mit der meisten Energie und werft alle seine Energie ab.
+        Fügt diesem Spieler 3 Schaden zu.
+      </p>
+    "
+ChaosFlail-WE,WE,2,Power,Wüstes Chaos,"
+      <p>
+        <b>Verhindern:</b> Bezahle 7 <span class=""aether"">&AElig;</span>.<br />
+        <br />
+        <b>Zeit 2:</b> SPEZIAL 2. Wählt 1 Spieler. Dieser legt seinen Ablagestapel auf sein Deck und mischt es. Dann sieht er
+        sich die 2 obersten Karten seines Decks an und zerstört die Karte mit den höchsten <span class=""aether"">&AElig;</span>-Kosten
+        davon.
+      </p>
+    "
+MageEnder-WE,WE,2,Minion,Magier-Vernichter,"
+      <p>
+        <b>Ansturm:</b> Wählt den Spieler mit den meisten aktiven Rissen. Fügt diesem Spieler 2 Schaden zu.
+      </p>
+    "
+Mangleroot-WE,WE,2,Minion,Wurzel der Zerstörung,"
+      <p>
+        <b>Ansturm:</b> Fügt der <i>Feste der letzten Ruhe</i> 3 Schaden zu. Dieses Monster erleidet 2 Schaden.
+      </p>
+    "
+MorbidGyre-WE,WE,2,Power,Tödlicher Mahlstrom,"
+      <p>
+        <b>Verhindern:</b> Bezahle 7 <span class=""aether"">&AElig;</span>.<br />
+        <br />
+        <b>Zeit 1:</b> SPEZIAL 2. Werft insgesamt 3 Karten eurer Wahl von der Hand ab.
+      </p>
+    "
+Mutilate-WE,WE,2,Attack,Verstümmeln,"
+      <p>
+        SPEZIAL 1.<br/>
+        Wählt insgesamt 2 gebundene Zauber und werft sie ab. Fügt 1 Spieler eurer Wahl 2 Schaden zu.
+      </p>
+    "
+NullScion-WE,WE,2,Minion,Abkömmling der Leere,"
+      <p>
+        <b>Ansturm:</b> SPEZIAL 1.
+      </p>
+    "
+Smite-WE,WE,2,Attack,Niederschmettern,"
+      <p>
+        SPEZIAL 2.<br/>
+        Fügt der <i>Feste der letzten Ruhe</i> 2 Schaden zu.
+      </p>
+    "
+ApocalypseRitual-WE,WE,3,Power,Apokalyptisches Ritual,"
+      <p>
+        <b>Verhindern:</b> Bezahle 8 <span class=""aether"">&AElig;</span>.<br />
+        <br />
+        <b>Zeit 2:</b> Fügt der <i>Feste</i> 5 Schaden für jede Erzfeind-Reihenfolgekarte im Ablagestapel zu.
+      </p>
+    "
+Banish-WE,WE,3,Attack,Verbannen,"
+      <p>
+        SPEZIAL 2.<br/>
+        Wählt den Spieler mit den meisten gebundenen Zaubern. Fügt diesem Spieler X Schaden zu.
+        X = Anzahl gebundene Zauber dieses Spielers.
+      </p>
+    "
+CataclysmicFate-WE,WE,3,Power,Verheerendes Schicksal,"
+      <p>
+        <b>Verhindern:</b> Wähle 1 deiner gebundenen Zauber mit <span class=""aether"">&AElig;</span>-Kosten von 5 oder mehr. Zerstöre ihn und 1 Riss,
+        an den er gebunden ist.<br/>
+        <br/>
+        <b>Zeit 1:</b> Fügt dem Spieler mit dem geringsten übrigen Leben 4 Schaden zu.
+      </p>
+    "
+MonstrosityofOmens-WE,WE,3,Minion,Das Omen,"
+      <p>
+        <b>Dauerhaft:</b> Wenn du diesem MONSTER Schaden zufügst, fügst du nur 1 Schaden zu.<br />
+        <br />
+        <b>Ansturm:</b> Fügr der <i>Feste</i> Schaden in Höhe des aktuellen Lebens dieses MONSTERS zu.
+      </p>
+    "
+Engulf-WE,WE,3,Attack,Verschlingen,"
+      <p>
+        Nehmt den zuletzt abgelegten ANGRIFF im Erzfeind-Ablagestapel und führt ihn erneut aus.
+      </p>
+    "
+Quell-WE,WE,3,Attack,Bändigen,"
+      <p>
+        Fügt der <i>Feste der letzten Ruhe</i> 7 Schaden zu.
+        <span class=""or"">ODER</span>
+        SPEZIAL 3.
+      </p>
+    "
+Throttle-WE,WE,3,Attack,Erdrosseln,"
+      <p>
+        SPEZIAL 2.<br/>
+        Wählt 1 Spieler. Dieser Spieler zerstört 3 Karten seiner Wahl auf der Hand mit den höchsten <span class=""aether"">&AElig;</span>-Kosten.
+      </p>
+    "
+WitheringBeam-WE,WE,3,Power,Vernichtender Strahl,"
+      <p>
+        <b>Zeit 2:</b> SPEZIAL 2. Wählt die ingesamt 2 gebundenen Zauber mit den höchsten <span class=""aether"">&AElig;</span>-Kosten. Zerstört sie.
+      </p>
+    "

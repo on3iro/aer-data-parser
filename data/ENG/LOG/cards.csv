@@ -1,0 +1,237 @@
+type,expansion,name,id,cost,effect,keywords
+Gem,LOG,Darklite Sample,DarkliteSample,3,"
+      <p>
+        Gain 2 <span class=""aether"">&AElig;</span>.<br />
+        You may place your deck into your discard pile without rearranging the cards.
+      </p>
+    ",[]
+Gem,LOG,Nebula Shard,NebulaShard,3,"
+      <p>
+        Gain 2 <span class=""aether"">&AElig;</span>.
+        <span class=""or"">OR</span>
+        Gain 1 <span class=""aether"">&AElig;</span> for each spell you cast during
+        your casting phase this turn.
+      </p>
+    ",[]
+Gem,LOG,Scrying Sugilite,ScryingSugilite,3,"
+      <p>
+        Gain 2 <span class=""aether"">&AElig;</span>.<br/>
+        You may reveal the top card of your deck. If it is a spell,
+        gain an additional 1 <span class=""aether"">&AElig;</span>.
+      </p>
+    ",[]
+Gem,LOG,Starglass,Starglass,3,"
+      <p>
+        Gain 2 <span class=""aether"">&AElig;</span>.<br/>
+        <span class=""or"">OR</span>
+        <b>Conjure</b>.
+      </p>
+    ","[""conjure""]"
+Gem,LOG,Sunken Onyx,SunkenOnyx,3,"
+      <p>
+        Gain 2 <span class=""aether"">&AElig;</span>.<br/><br/>
+        You may discard this after any ally focuses a breach. If you do,
+        they focus that breach again.
+      </p>
+    ",[]
+Gem,LOG,Cobalt Clump,CobaltClump,4,"
+      <p>
+        Gain 2 <span class=""aether"">&AElig;</span>.<br/>
+        The next time you gain a card that costs 5 <span class=""aether"">&AElig;</span>
+        or more this turn, silence a minion.
+      </p>
+    ","[""silence""]"
+Gem,LOG,Glint Splinter,GlintSplinter,4,"
+      <p>
+        Gain 2 <span class=""aether"">&AElig;</span>.<br/><br/>
+        <b>Recall:</b> You may discard a prepped spell. If you do,
+        gain 1 <span class=""aether"">&AElig;</span> and you may place
+        the next card you gain this turn on top of your deck.
+      </p>
+    ","[""recall""]"
+Gem,LOG,Voidsteel Vein,VoidsteelVein,4,"
+      <p>
+        Gain 2 <span class=""aether"">&AElig;</span>.<br/><br/>
+        You may discard this when any ally casts a spell that costs
+        1 <span class=""aether"">&AElig;</span> or more. If you do,
+        that spell deals 2 additional damage.
+      </p>
+    ",[]
+Gem,LOG,Aether Dust,AetherDust,5,"
+      <p>
+        Gain 2 <span class=""aether"">&AElig;</span>.<br/>
+        Each ally gains an <span class=""aether"">&AElig;</span> token.
+      </p>
+    ",[]
+Gem,LOG,Frozen Light,Frozen Light,5,"
+      <p>
+        Gain 3 <span class=""aether"">&AElig;</span>.<br/><br/>
+        You may discard this during any ally's turn. If you do,
+        they gain 1 charge and you gain 1 charge.
+      </p>
+    ",[]
+Gem,LOG,Shattered Rupix,ShatteredRupix,5,"
+      <p>
+        Gain 3 <span class=""aether"">&AElig;</span>.<br/><br/>
+        When another card or effect would cause you to discard or
+        destroy this, you may return this to your hand.
+        <i>(Ignore this effect while this card is in the supply.)</i>
+      </p>
+    ",[]
+Relic,LOG,Echo Rune,EchoRune,2,"
+      <p>
+        Any player gains 1 charge.<br/><br/>
+        You may discard this during any ally's main phase. If you do,
+        they gain 1 <span class=""aether"">&AElig;</span>.
+      </p>
+    ",[]
+Relic,LOG,Electrum Rod,ElectrumRod,3,"
+      <p>
+        Any player may focus one of their breaches.<br/>
+        If that player has a prepped spell that costs 5 <span class=""aether"">&AElig;</span>
+        or more, gain 1 charge.
+      </p>
+    ",[]
+Relic,LOG,Martyr's Bone,MartyrsBone,3,"
+      <p>
+        Focus one of your breaches of <b>Conjure</b>.<br/>
+        You may lose 1 charge to do both.
+      </p>
+    ","[""conjure""]"
+Relic,LOG,Chaos Charm,ChaosCharm,5,"
+      <p>
+        Two different players may destroy a card in hand.<br/>
+        You may destroy this. If you do, remove a fire token from your location on the map.
+      </p>
+    ","[""fire token""]"
+Relic,LOG,Summoner's Horn,SummonersHorn,5,"
+      <p>
+        Any player may prep a spell in their discard pile to their opened
+        or closed breaches.<br/><br/>
+        <b>Recall:</b> Discard a card to gain 1 charge.
+      </p>
+    ","[""recall""]"
+Relic,LOG,Void Anchor,VoidAnchor,5,"
+      <p>
+        Silence a minion. Any ally gains 2 <span class=""aether"">&AElig;</span> tokens.<br/><br/>
+        <b>Recall:</b> Gravehold gains 1 life.
+      </p>
+    ","[""recall"",""silence""]"
+Relic,LOG,Lightbringer Staff,LightbringerStaff,6,"
+      <p>
+        The players collectively destroy up to to cards in their hands.
+        <span class=""or"">OR</span>
+        Silence up to two minions.
+        <span class=""or"">OR</span>
+        Destroy this. Remove a fire token from your location on the map.
+      </p>
+    ","[""fire token"",""silence""]"
+Relic,LOG,Phoenix Quill,PhoenixQuill,6,"
+      <p>
+        Two different players gain 1 life each.<br/><br/>
+        <b>Recall:</b> Lose 1 charge to return a card that costs 3 <span class=""aether"">&AElig;</span>
+        or less from your discard pile to your hand.
+      </p>
+    ","[""recall""]"
+Spell,LOG,Grassblade,Grassblade,2,"
+      <p>
+        You may destroy this from your hand during any ally's main phase.
+        If you do, draw a card.<br/>
+        <b>Cast:</b> Deal 2 damage.
+      </p>
+    ",[]
+Spell,LOG,Aether Ripple,AetherRipple,3,"
+      <p>
+        <b>Cast:</b> Deal 2 damage.<br/>
+        Each ally gains an <span class=""aether"">&AElig;</span> token.
+      </p>
+    ",[]
+Spell,LOG,Douse,Douse,4,"
+      <p>
+        <b>Cast:</b> Deal 3 damage.<br/>
+        You may destroy this. If you do, remove a fire token
+        from your location on the map.
+      </p>
+    ","[""fire token""]"
+Spell,LOG,Evaporating Ray,EvaporatingRay,4,"
+      <p>
+        <b>Cast:</b> Deal 3 damage.<br/>
+        Any ally may discard a card in hand that costs 2 <span class=""aether"">&AElig;</span>
+        or more. If they do, this deals an additional 2 damage.
+      </p>
+    ",[]
+Spell,LOG,Galvanize,Galvanize,4,"
+      <p>
+        While prepped, once during your main phase, you may <b>Conjure</b>.<br/>
+        <b>Cast:</b> Deal 2 damage.
+      </p>
+    ","[""conjure""]"
+Spell,LOG,Magnetic Burst,MagneticBurst,4,"
+      <p>
+        <b>Cast:</b> Deal 3 damage.<br/>
+        You may reveal the top two cards of you deck and place any number
+        of those cards on top of your discard pile.
+      </p>
+    ",[]
+Spell,LOG,Backfire,Backfire,5,"
+      <p>
+        <b>Cast:</b> Deal 4 damage.<br/>
+        You may lose 1 charge to return this to your hand.
+      </p>
+    ",[]
+Spell,LOG,Cascade,Cascade,5,"
+      <p>
+        <b>Cast:</b> Deal 3 damage.<br/>
+        You may return a card that costs 4 <span class=""aether"">&AElig;</span> or less
+        from your discard pile to your hand.
+      </p>
+    ",[]
+Spell,LOG,Crystal Carapace,CrystalCarapace,6,"
+      <p>
+        <b>Cast:</b> Deal 4 damage.<br/><br/>
+        When another card or effect would cause you to discard or destroy this,
+        you may return this to your hand. If it was prepped, you may prep it.
+        <i>(Ignore this effect while this card is in the supply.)</i>
+      </p>
+    ",[]
+Spell,LOG,Flame Quake,FlameQuake,6,"
+      <p>
+        <b>Cast:</b> Deal 5 damage.<br/><br/>
+        <b>Recall:</b> Lose 2 charges to remove a fire token from your location on the map.
+      </p>
+    ","[""recall"",""fire token""]"
+Spell,LOG,Parallel Self,Parallel Self,6,"
+      <p>
+        <b>Cast:</b> Deal 5 damage.<br/><br/>
+        <b>Recall:</b> Spend 2 <span class=""aether"">&AElig;</span> to deal 2 damage.
+      </p>
+    ","[""recall""]"
+Spell,LOG,Temporal Strike,TemporalStrike,6,"
+      <p>
+        While prepped, when you cast a spell that costs 2 <span class=""aether"">&AElig;</span>
+        or less, it deals 1 additional damage and you may return it to your hand.<br/>
+        <b>Cast:</b> Deal 4 damage.
+      </p>
+    ",[]
+Spell,LOG,Paradigm Flux,ParadigmFlux,7,"
+      <p>
+        <b>Cast:</b> Remove up to 2 shield tokens from minions.<br/>
+        Deal 5 damage.
+      </p>
+    ",[]
+Spell,LOG,Entwined Tremor,Entwined Tremor,8,"
+      <p>
+        <b>Cast:</b> Deal 6 damage.<br/>
+        If there is a spell that costs 5 <span class=""aether"">&AElig;</span> or more
+        prepped to an adjacent breach, this deals 2 additional damage.<br/>
+        If there is a spell that costs 4 <span class=""aether"">&AElig;</span> or less
+        prepped to an adjacent breach, gain 1 charge.
+      </p>
+    ",[]
+Spell,LOG,Volcanic Shrapnel,VolcanicShrapnel,8,"
+      <p>
+        <b>Cast:</b> Deal 1 damage. Deal 1 damage. Deal 1 damage.<br/>
+        You may return to your hand up to two card from your discard pile
+        that cost 0 <span class=""aether"">&AElig;</span>.
+      </p>
+    ",[]

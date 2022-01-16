@@ -1,0 +1,22 @@
+id,expansion,tier,type,name,hp,effect
+LabyrinthWisp-OD,OD,1,Minion,Nebel-Irrlicht,5,"
+      <p>
+        <b>Ansturm:</b> Wählt 1 Spieler, der 1 gebundenen Zauber abwirft.
+        <span class=""or"">ODER</span>
+        Wählt 1 Spieler, der 1 Energie abwirft.
+      </p>
+    "
+Assail-OD,OD,2,Attack,Überfall,,"
+      <p>
+        SPEZIAL 2.<br/>
+        Wähle 1 Spieler mit dem gebundenen Zauber mit den höchsten <span class=""aether"">&AElig;</span>-Kosten. Diesen Zauber
+        legt er oben auf sein Deck.
+      </p>
+    "
+DireAbbatoir-OD,OD,3,Power,Schlachthof,,"
+      <p>
+        <b>Verhindern:</b> Bezahle 8 <span class=""aether"">&AElig;</span>.<br/>
+        <br/>
+        <b>Zeit 2:</b> Fügt dem Spieler mit dem meisten Leben Schaden in Höhe des aktuellen Lebens dieses Spielers zu.
+      </p>
+    "

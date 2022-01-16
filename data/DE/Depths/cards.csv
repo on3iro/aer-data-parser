@@ -1,5 +1,5 @@
 type,expansion,name,id,cost,effect,keywords
-Spell,Depths,Verbindung Mit Der Leere,VoidBond,4,"
+Spell,Depths,Verbindung mit der Leere,VoidBond,4,"
       <p>
         <b>Wirken:</b> Füge 3 Schaden zu.<br />
         Wähle 1 Spieler und wirke 1 seiner gebundenen Zauber.
@@ -36,7 +36,7 @@ Spell,Depths,Verschlingender Schatten,DevouringShadow,6,"
         <b>Wirken:</b> Füge 3 Schaden zu.
       </p>
     ",[]
-Gem,Depths,Topas Der Verbannung,BanishingTopaz,5,"
+Gem,Depths,Topas der Verbannung,BanishingTopaz,5,"
       <p>
         Erhalte 2 <span class=""aether"">&AElig;</span>.<br />
         Legst du jetzt 1 Karte deiner Wahl von deiner Hand auf dein Deck? Erhalte 2 <span class=""aether"">&AElig;</span>.

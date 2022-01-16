@@ -1,0 +1,17 @@
+expansion,name,id,mageTitle,ability,numberOfCharges,uniqueStarters,complexityRating
+SV,Lucien,Lucien,,"
+      <h2>Magnetism</h2>
+      <p class=""ability-activation"">Activate during your casting phase:</p>
+      <p>
+        Open all of your breaches. Prep any number of spells in hand to your opened breaches.
+      </p>
+    ",5,"[{""type"":""Gem"",""name"":""Sun Shard"",""expansion"":""SV"",""id"":""SunShard"",""cost"":0,""effect"":""\n          <p>\n            Gain 1 <span class=\""aether\"">&AElig;</span>.\n            <span class=\""or\"">OR</span>\n            Gain 3 <span class=\""aether\"">&AElig;</span> that can only be used to open a breach.\n          </p>\n        "",""keywords"":[]}]",7
+SV,Reth,Reth,,"
+      <h2>Missing Half</h2>
+      <p class=""ability-activation"">Activate during your main phase:</p>
+      <p>
+        Reveal your deck. Place up to two spells with the same name from your deck into 
+        your hand, and up to two spells with that same name from your discard into 
+        your hand. Return your deck in the same order.
+      </p>
+    ",5,"[{""type"":""Spell"",""name"":""Fossilized Rose"",""expansion"":""SV"",""id"":""FossilizedRose"",""cost"":0,""effect"":""\n          <p>\n            <b>Cast:</b> Discard a card in hand. If you do, gain a spell that costs \n            5 <span class=\""aether\"">&AElig;</span> or less from any supply pile.\n            <span class=\""or\"">OR</span>\n            <b>Cast:</b> Deal 1 damage.\n          </p>\n        "",""keywords"":[]}]",5

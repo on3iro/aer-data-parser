@@ -1,0 +1,65 @@
+type,expansion,name,id,cost,effect,keywords
+Gem,TV,Bernstein-Skarabäus,FossilizedScarab,3,"
+      <p>
+      Erhalte 2 <span class=""aether"">&AElig;</span>.
+        <span class=""or"">ODER</span>
+      Wähle 1 Karte auf deiner Hand und zerstöre sie.
+      </p>
+      ",[]
+Spell,TV,Thermalpfeil,ThermalDart,4,"
+      <p>
+      <b>Verknüpfbar.</b> <span class=""hint"">(Bis zu 2 verknüpfbare Zauber dürfen gleichzeitig an 1 Riss gebunden sein.)</span>
+      </p>
+      <p>
+      <b>Wirken:</b> Füge 3 Schaden zu.<br/>
+      Ist dies dein mindestens 2. gerade gewirkter Thermalpfeil? Erhalte 1 Energie.
+      </p>
+      ","[""link""]"
+Spell,TV,Widerhall,Resonate,6,"
+      <p>
+      <b>Wirken:</b> Füge 4 Schaden zu.<br/>
+      Sind 6 oder mehr Karten in deinem Ablagestapel? +3 Schaden.
+      </p>
+      ",[]
+Spell,TV,Feuersbrunst,Conflagration,3,"
+      <p>
+      <b>Verknüpfbar.</b> <span class=""hint"">(Bis zu 2 verknüpfbare Zauber dürfen gleichzeitig an 1 Riss gebunden sein.)</span>
+      </p>
+      <p>
+      <b>Wirken:</b> Füge 2 Schaden zu.<br/>
+      Erhalte 1 <span class=""aether"">&AElig;</span> für <i>Aktionen ausführen</i>.
+      </p>
+      ","[""link""]"
+Relic,TV,Dimensions-Schlüssel,DimensionalKey,8,"
+      <p>
+      Wähle 1 anderen Spieler, der 2 Karten zieht.
+        <span class=""or"">ODER</span>
+      Zerstöre diese Karte. Erleide 1 Schaden. Lege 1 Erzfeind-Karte in der Auslage zurück auf den Erzfeind-Stapel.
+      </p>
+      ",[]
+Spell,TV,Inneres Feuer,InnerFire,2,"
+      <p>
+      <b>Verknüpfbar.</b> <span class=""hint"">(Bis zu 2 verknüpfbare Zauber dürfen gleichzeitig an 1 Riss gebunden sein.)</span>
+      </p>
+      <p>
+        <b>Wirken:</b> Füge 1 Schaden zu.<br/>
+        Ist das Erzfeind-Level 2 oder höher? +1 Schaden.
+      </p>
+        ","[""link""]"
+Spell,TV,Feuerstoss,Fulminate,5,"
+      <p>
+      <b>Verknüpfbar.</b> <span class=""hint"">(Bis zu 2 verknüpfbare Zauber dürfen gleichzeitig an 1 Riss gebunden sein.)</span>
+      </p>  
+      <p>
+      <b>Gebunden:</b> Deine anderen Zauber fügen +1 Schaden zu.
+      </p>
+      <b>Wirken:</b> Füge 3 Schaden zu.
+      </p>
+        ","[""link""]"
+Relic,TV,Amulett der Ewigkeit,EternityCharm,3,"
+      <p>
+        Bündele 1 deiner dunklen Risse mit den geringsten <span class=""aether"">&AElig;</span>-Kosten. 
+        Sieh dir die 3 obersten Karten deines Decks an. Siehst du Zauber? 1 davon darfst du an deine 
+        aktiven/gerade gebündelten Risse binden.
+      </p>
+        ",[]

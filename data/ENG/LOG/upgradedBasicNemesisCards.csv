@@ -1,0 +1,109 @@
+id,name,expansion,tier,type,hp,shields,effect,upgraded
+CarriodeRaiders,Carriode Raiders,LOG,1,Minion,3,3,"
+      <p>
+        <b>Persistent:</b> Gravehold suffers 2 damage. Add a fire token to your location on the map.
+      </p>
+    ",1
+Incense,Incense,LOG,1,Attack,,,"
+      <p>
+        Unleash twice. Any player suffers 1 damage.
+        <span class=""or"">OR</span>
+        Gravehold suffers 5 damage. Add 2 fire tokens to your location on the map.
+      </p>
+    ",1
+SpreadingBrushfire,Spreading Brushfire,LOG,1,Power,,,"
+      <p>
+        <b>To discard:</b> Spend 7 <span class=""aether"">&AElig;</span>.<br/>
+        <b>Power 2:</b> Unleash twice. Gravehold suffers 3 damage.
+        Add a fire token to your location on the map.
+      </p>
+    ",1
+Blacken,Blacken,LOG,2,Attack,,,"
+      <p>
+        Unleash twice.<br/>
+        Gravehold suffers 5 damage.<br/>
+        If there are 4 or less fire tokens on your location of the map,
+        add 2 fire tokens to your location on the map.
+      </p>
+    ",1
+BreachShatter,Breach Shatter,LOG,2,Power,,,"
+      <p>
+        <b>To discard:</b> Spend 8 <span class=""aether"">&AElig;</span>.<br/>
+        <b>Power 2:</b> Unleash twice. The player with the lowest life suffers 4 damage.<br/>
+        If that player becomes exhausted because of this, that mage is severed and cross out this sentence.
+      </p>
+    ",1
+ChitinKiller,Chitin Killer,LOG,2,Minion,13,,"
+      <p>
+        <b>Persistent:</b> The player with the most prepped spells suffers 3 damage.
+        If that player becomes exhausted because of this, that mage is severed and cross out this sentence.
+      </p>
+    ",1
+MagmaLordZala,Magma Lord Zala,LOG,2,Minion,10,2,"
+      <p>
+        <b>Persistent:</b> Gravehold and any player each suffer 2 damage.
+        Add a fire token to your location of the map.
+      </p>
+    ",1
+SoulRend,Soul Rend,LOG,2,Power,,,"
+      <p>
+        <b>To discard:</b> Spend 9 <span class=""aether"">&AElig;</span>.<br/>
+        <b>Power 2:</b> Unleash three times, and add 2 fire tokens to your location on the map.
+        <span class=""or"">OR</span>
+        Unleash twice, the player with the lowest life suffers 1 damage, their mage becomes severed,
+        and cross out this sentence.
+      </p>
+    ",1
+Stifle,Stifle,LOG,3,Attack,,,"
+      <p>
+        Unleash twice. The player with the lowest life suffers 3 damage.<br/>
+        If that player becomes exhausted because of this, that mage is severed and cross out this sentence.
+      </p>
+    ",1
+DreadIgnition,Dread Ignition,LOG,3,Power,,,"
+      <p>
+        <b>Power 1:</b> Unleash twice, and the player with the most charges suffers 3 damage
+        and loses all of their charges.
+        <span class=""or"">OR</span>
+        Gravehold suffers 5 damage, and add 2 fire tokens to your location on the map.
+      </p>
+    ",1
+Explosion,Explosion,LOG,3,Attack,,,"
+      <p>
+        Unleash three times.<br/>
+        The players collectively discard the two most expensive cards in hand.<br/>
+        Add 2 fire tokens to your location on the map.
+      </p>
+    ",1
+InescapableTorment,InescapableTorment,LOG,3,Power,,,"
+      <p>
+        <b>Power 2:</b> The player with the highest life suffers damage equal to their life.
+      </p>
+    ",1
+NyxOfBurningBones,Nyx of Burning Bones,LOG,3,Minion,15,,"
+      <p>
+        <b>Persistent:</b> Unleash twice. Gravehold suffers 2 damage.
+        Add a fire token to your location on the map.
+      </p>
+    ",1
+Ravage,Ravage,LOG,3,Attack,,,"
+      <p>
+        Unleash four times.
+        <span class=""or"">OR</span>
+        Add three fire tokens to your location on the map.
+        <span class=""or"">OR</span>
+        Gravehold suffers 7 damage.
+      </p>
+    ",1
+Revive,Revive,LOG,3,Attack,,,"
+      <p>
+        Unleash twice.<br/>
+        Place the most recently discarded minion in the nemesis discard pile into play.
+      </p>
+    ",1
+TheCeaselessObserver,The Ceaseless Observer,LOG,3,Minion,7,3,"
+      <p>
+        <b>Persistent:</b> Gravehold suffers 3 damage. Add fire tokens
+        to your location on the map equal to the number of shield tokens on this minion.
+      </p>
+    ",1

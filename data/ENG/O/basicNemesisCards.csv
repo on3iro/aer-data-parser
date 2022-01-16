@@ -1,0 +1,184 @@
+id,expansion,tier,type,name,effect
+WitheringRot-O,O,1,Attack,Withering Rot,"
+      <p>
+        Any player suffers 3 damage and gains a Curse of Rot from the Curse deck.
+      </p>
+    "
+WeepingHex-O,O,1,Attack,Weeping Hex,"
+      <p>
+        Unleash.<br />
+        <br />
+        Any player suffers 2 damage, gains a Cursed Shard from the Curse deck, and 
+        places it on top of their deck.
+      </p>
+    "
+Hemorrhage-O,O,1,Attack,Hemorrhage,"
+      <p>
+        Unleash.<br />
+        <br />
+        Gravehold suffers 1 damage.<br />
+        <br />
+        Place this in front of the player with the most opened breaches.<br />
+        <br />
+        At the start of that player's turn they suffer 1 damage. When that player gains a card 
+        that costs 5 <span class=""aether"">&AElig;</span> or more, this card is discarded.<br />
+        If there are no cards in the supply that cost 5 <span class=""aether"">&AElig;</span> or more, 
+        discard this when they gain a card with the highest cost in the supply.
+      </p>
+    "
+MoonstruckHound-O,O,1,Minion,Moonstruck Hound,"
+      <p>
+        Reduce to 1 all damage dealt to this minion by spells that cost 5 <span class=""aether"">&AElig;</span> 
+        or more.<br />
+        <b>Persistent:</b> Gravehold suffers 2 damage.
+      </p>
+    "
+WanderingLasher-O,O,1,Minion,Wandering Lasher,"
+      <p>
+        <b>Wandering</b> <span class=""hint"">(Reduce to 1 all damage that is dealt to this 
+        by abilities and player cards. During any player's main phase, that player 
+        may spend any amount of <span class=""aether"">&AElig;</span> to deal an 
+        equal amount of damage to this.)</span><br />
+        <b>Persistent:</b> Unleash.
+      </p>
+    "
+AuraDrain-O,O,1,Power,Aura Drain,"
+      <p>
+        When a power token is removed from this, any player suffers 2 damage.<br />
+        <br />
+        <b>To Discard:</b> Spend 5 <span class=""aether"">&AElig;</span>.<br />
+        <br />
+        <b>Power 2:</b> Unleash.
+      </p>
+    "
+HauntedForce-O,O,1,Power,Haunted Force,"
+      <p>
+        <b>Power 2:</b> Unleash. Gravehold suffers 2 damage. Any player gaines 
+        a Cursed Bolt from the Curse deck.
+      </p>
+    "
+NoxiousWinds-O,O,1,Power,Noxious Winds,"
+      <p>
+        <b>To Discard:</b> Spend 5 <span class=""aether"">&AElig;</span>.<br />
+        <br />
+        <b>Power 2:</b> Gravehold suffers 3 damage. Any player gains a Cursed Shard 
+        from the Curse deck. Any player gains a Cursed Bolt from the Curse deck.
+      </p>
+    "
+MarkedForDeath-O,O,2,Attack,Marked For Death,"
+      <p>
+        Unleash twice.<br />
+        <br />
+        Place this card in front of any player.<br />
+        <br />
+        For the rest of the game, when a nemesis card specifies 'any player' 
+        the player with this card must resolve that effect if possible.<br />
+        <br />
+        When the player with this card becomes exhausted, discard this.
+      </p>
+    "
+ConjuredGrapple-O,O,2,Attack,Conjured Grapple,"
+      <p>
+        Unleash twice.<br />
+        <br />
+        Any player suffers 2 damage and discards two cards in hand. That 
+        player gains a Cursed Manacles from the Curse deck and places it into 
+        their hand.
+      </p>
+    "
+ChitinCrawler-O,O,2,Minion,Chitin Crawler,"
+      <p>
+        Reduce to 1 all damage dealt to this minion by spells that cost 3 <span class=""aether"">&AElig;</span> 
+        or less.<br />
+        <b>Persistent:</b> Any player suffers 3 damage.
+        <span class=""or"">OR</span>
+        Unleash.
+      </p>
+    "
+WanderingObserver-O,O,2,Minion,Wandering Observer,"
+      <p>
+        <b>Wandering</b> <span class=""hint"">(Reduce to 1 all damage that is dealt to this 
+        by abilities and player cards. During any player's main phase, that player 
+        may spend any amount of <span class=""aether"">&AElig;</span> to deal an 
+        equal amount of damage to this.)</span><br />
+        <b>Persistent:</b> Gravehold suffers 2 damage.
+      </p>
+    "
+SeekingDestruction-O,O,2,Power,Seeking Destruction,"
+      <p>
+        <b>Immediately:</b> Place the player number token of the player with the most opened breaches 
+        on this.<br />
+        <br />
+        <b>To Discard:</br> Spend 7 <span class=""aether"">&AElig;</span>.<br />
+        <br />
+        <b>Power 3:</b> If the player whose player token is on this has the most opened breaches, 
+        that player suffers 5 damage. Otherwise, Unleash twice.
+      </p>
+    "
+SuffocatingHaze-O,O,2,Power,Suffocating Haze,"
+      <p>
+        Reduce by 1 all damage dealt to minions from the nemesis deck, to a minimum of 1.<br />
+        <br />
+        <b>Power 3:</b> Unleash twice. Gravehold suffers 2 damage.
+      </p>
+    "
+ToxicSubterfuge-O,O,2,Power,Toxic Subterfuge,"
+      <p>
+        When a power token is removed from this, Gravehold suffers 2 damage.<br />
+        <br />
+        <b>To Discard:</b> Spend 7 <span class=""aether"">&AElig;</span>.<br />
+        <br />
+        <b>Power 3:</b> Unleash.
+      </p>
+    "
+Throttle-O,O,3,Attack,Throttle,"
+      <p>
+        Unleash twice.<br />
+        <br />
+        Any player destroys their three most expensive cards in hand.
+      </p>
+    "
+Topple-O,O,3,Attack,Topple,"
+      <p>
+        Unleash twice.<br />
+        <br />
+        Gravehold suffers 4 damage.
+      </p>
+    "
+BreachSpike-O,O,3,Attack,Breach Spike,"
+      <p>
+        Unleash twice.<br />
+        <br />
+        The player with the most prepped spells suffers 3 damage.
+      </p>
+    "
+NyxTheSpineCruncher-O,O,3,Minion,"Nyx, The Spine Cruncher","
+      <p>
+        <b>Persistent:</b> Unleash. Any player suffers 2 damage.      
+      </p>
+    "
+EndlessTorment-O,O,3,Power,Endless Torment,"
+      <p>
+        <b>To Discard:</br> Spend 8 <span class=""aether"">&AElig;</span>.<br />
+        <br />
+        <b>Power 2:</b> Unleash three times.
+        <span class=""or"">OR</span>
+        Any player suffers 6 damage.
+      </p>
+    "
+DarkeningDepths-O,O,3,Power,Darkening Depths,"
+      <p>
+        <b>To Discard:</br> Destroy a prepped spell that costs 3 <span class=""aether"">&AElig;</span> 
+        or more and a breach in which it was prepped.<br />
+        <br />
+        <b>Power 1:</b> Unleash. The player with the lowest life suffers 3 damage.
+      </p>
+    "
+ApocalypseRitual-O,O,3,Power,Apocalypse Ritual,"
+      <p>
+        <b>To Discard:</br> Spend 8 <span class=""aether"">&AElig;</span>.<br />
+        <br />
+        <b>Power 2:</b> Gravehold suffers 5 damage for each nemesis turn order card in the turn order 
+        discard pile.
+      </p>
+    "

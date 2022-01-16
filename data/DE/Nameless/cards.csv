@@ -20,14 +20,14 @@ Spell,Nameless,Feuerbrunst,Blaze,4,"
         +1 Schaden für jeden anderen deiner gebundenen und gerade gewirkten Feuersbrunst-Zauber.
       </p>
     ",[]
-Spell,Nameless,Blitz Der Vorsehung,ScryingBolt,6,"
+Spell,Nameless,Blitz der Vorsehung,ScryingBolt,6,"
       <p>
         <b>Wirken:</b> Füge 5 Schaden zu.<br />
         Wirfst du jetzt 1 Energie ab? Sieh dir die obersten 2 Karten des Erzfeind- Stapels an 
         und lege sie in einer Reihenfolge deiner Wahl zurück.
       </p>
     ",[]
-Spell,Nameless,Mal Des Weisen,SagesBrand,7,"
+Spell,Nameless,Mal des Weisen,SagesBrand,7,"
       <p>
         <b>Dauerhaft:</b> Dieser Zauber muss auf 2 an einandergrenzende Risse gebunden werden. Beide Risse sind damit nicht mehr frei.<br />
         <b>Gebunden:</b> Ziehe in deinem Schritt <i>Karten ziehen</i> 1 Karte mehr.<br />
@@ -43,6 +43,6 @@ Gem,Nameless,Blutsauger-Achat,LeechingAgate,3,"
     ",[]
 Relic,Nameless,Zeitspirale,TemporalHelix,7,"
       <p>
-        Wähle 1 anderen Spieler und wirke 1 seiner gebundenen Zauber. Der Zauber bleibt gebunden.
+        Wähle 1 Spieler und wirke 1 seiner gebundenen Zauber. Der Zauber bleibt gebunden.
       </p>
     ",[]

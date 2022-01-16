@@ -1,0 +1,220 @@
+type,expansion,name,id,cost,effect,keywords
+Gem,O,Unstable Pyrite,UnstablePyrite,2,"
+      <p>
+        Gain 1 <span class=""aether"">&AElig;</span>.<br />
+        You may destroy this. If you do, gain an additional 2 <span class=""aether"">&AElig;</span>.
+      </p>
+    ",[]
+Gem,O,Molten Peridot,MoltenPeridot,3,"
+      <p>
+        Gain 2 <span class=""aether"">&AElig;</span>.<br />
+        If this is the second time you have played Molten Peridot this turn, 
+        you may destroy this. If you do, gain a card that costs 4 <span class=""aether"">&AElig;</span> 
+        or less from any supply pile.
+      </p>
+    ",[]
+Gem,O,Helix Of Amber,HelixOfAmber,3,"
+      <p>
+        Gain 2 <span class=""aether"">&AElig;</span>.<br />
+        You may suffer 1 damage. If you do, destroy a card that costs 0 <span class=""aether"">&AElig;</span> 
+        in your hand.
+      </p>
+    ",[]
+Gem,O,Petrified Phoenixium,PetrifiedPhoenixium,4,"
+      <p>
+        Gain 2 <span class=""aether"">&AElig;</span>.<br />
+        The next time you gain a card this turn, you may cast any player's prepped spell.
+      </p>
+    ",[]
+Gem,O,Galvanized Sapphire,GalvanizedSapphire,4,"
+      <p>
+        Gain 2 <span class=""aether"">&AElig;</span>.<br />
+        Xaxos: Outcast gains 1 charge.
+      </p>
+    ","[""xaxos""]"
+Gem,O,Elongated Looq,ElongatedLooq,4,"
+      <p>
+        Gain 2 <span class=""aether"">&AElig;</span>.<br />
+        The next time you focus or open a breach this turn, gain 1 charge.
+      </p>
+    ",[]
+Gem,O,Vigorous Sunstone,VigorousSunstone,5,"
+      <p>
+        When you gain this, if this is the second card you gained this turn, 
+        place it into your hand.<br />
+        Gain 3 <span class=""aether"">&AElig;</span>.
+      </p>
+    ",[]
+Gem,O,Duplicating Sazite,DuplicatingSazite,6,"
+      <p>
+        Gain 3 <span class=""aether"">&AElig;</span>.<br />
+        The next time you gain a card this turn, you may discard a prepped spell 
+        that costs 1 <span class=""aether"">&AElig;</span> or more. If you do, 
+        any ally gains a card from the supply that costs less than or equal to the card 
+        you gained.
+      </p>
+    ",[]
+Relic,O,Orb Of The Deep,OrbOfTheDeep,2,"
+      <p>
+        Focus your closed breach with the lowest focus cost.
+        <span class=""or"">OR</span>
+        Destroy this. Gain 1 charge.
+      </p>
+    ",[]
+Relic,O,Carnivorous Roox,CarnivorousRoox,3,"
+      <p>
+        Gain 1 <span class=""aether"">&AElig;</span>. You may destroy a card in hand 
+        to gain <span class=""aether"">&AElig;</span> equal to its cost.
+        <span class=""or"">OR</span>
+        Destroy this. Focus your closed breach with the lowest focus cost twice.
+      </p>
+    ",[]
+Relic,O,Rift Dagger,RiftDagger,3,"
+      <p>
+        Gain a card from any other supply pile that costs 3 <span class=""aether"">&AElig;</span> 
+        or less. You may destroy this to gain a card that costs up to 4 <span class=""aether"">&AElig;</span> 
+        instead.<br />
+        You may spend 1 <span class=""aether"">&AElig;</span>. If you do, place that card 
+        into your hand.
+      </p>
+    ",[]
+Relic,O,Reconstituting Circuit,ReconstitutingCircuit,3,"
+      <p>
+        Xaxos: Outcast gains 1 charge.<br />
+        You may destroy a card in hand.
+      </p>
+    ","[""xaxos""]"
+Relic,O,Destiny Forger,DestinyForger,4,"
+      <p>
+        Any ally may destroy a card in hand. That player may gain a card that costs 
+        up to 2 <span class=""aether"">&AElig;</span> more than the destroyed card and 
+        place it into their hands.
+        <span class=""or"">OR</span>
+        Destroy this. Gain 2 charges.
+      </p>
+    ",[]
+Relic,O,Chain Of Retrieval,ChainOfRetrieval,4,"
+      <p>
+        Focus any ally's breach.
+        <span class=""or"">OR</span>
+        Return a card in your discard pile to your hand that costs 
+        6 <span class=""aether"">&AElig;</span> or less.
+      </p>
+    ",[]
+Relic,O,Bottled Sun,BottledSun,6,"
+      <p>
+        Xaxos: Outcast gains 3 charges.
+      </p>
+    ","[""xaxos""]"
+Relic,O,Transmuter's Lens,TransmutersLens,5,"
+      <p>
+        Destroy this.<br />
+        You may destroy a card in your hand or discard pile.<br />
+        Gain a card that costs up to 6 <span class=""aether"">&AElig;</span> from 
+        any supply pile.
+      </p>
+    ",[]
+Relic,O,Unhinged Vortex,UnhingedVortex,7,"
+      <p>
+        Any ally draws three cards. Then, they discard a card in hand.
+        <span class=""or"">OR</span>
+        You may focus any ally's breach. Any ally may return a card in their discard pile 
+        to their hand.
+      </p>
+    ",[]
+Spell,O,Fortified Frost,FortifiedFrost,2,"
+      <p>
+        <b>Cast:</b> Deal 2 damage.<br />
+        You may discard a card in hand. If you do, deal 1 additional damage.
+      </p>
+    ",[]
+Spell,O,Paired Storm,PairedStorm,3,"
+      <p>
+        <b>Link</b> <span class=""hint"">(Two spells with Link may be prepped to the same breach.)</span>
+      </p>
+      <p>
+        <b>Cast:</b> Deal 2 damage.<br />
+        If this is the second time you have cast a Paired Storm this turn, 
+        deal 2 additional damage.
+      </p>
+    ","[""link""]"
+Spell,O,Twisted Fang,TwistedFang,4,"
+      <p>
+        <b>Cast:</b> Deal 3 damage.<br />
+        If this card's supply pile is empty, deal 1 additional damage.
+      </p>
+    ",[]
+Spell,O,Shattering Bolt,ShatteringBolt,4,"
+      <p>
+        <b>Cast:</b> Deal 2 damage.<br />
+        You may destroy a card in your hand.
+        <span class=""or"">OR</span>
+        <b>Cast:</b> Discard a gem in hand.<br />
+        If you do, deal 4 damage.
+      </p>
+    ",[]
+Spell,O,Infused Ignition,InfusedIgnition,4,"
+      <p>
+        <b>Cast:</b> Deal 3 damage.<br />
+        If Xaxos: Outcast has 4 or less charges, he gains 1 charge.
+      </p>
+    ","[""xaxos""]"
+Spell,O,Lightning Arrow,LightningArrow,5,"
+      <p>
+        <b>Cast:</b> Deal 3 damage.<br />
+        You may discard a card in hand. If you do, Gravehold gains 1 life.
+      </p>
+    ",[]
+Spell,O,Radiant Conflux,RadiantConflux,5,"
+      <p>
+        <b>Cast:</b> Deal 3 damage.<br />
+        Any ally may draw a card and then discard a card in hand.
+      </p>
+    ",[]
+Spell,O,Unstable Rift,UnstableRift,5,"
+      <p>
+        While prepped, at the end of your casting phase deal 1 damage and 
+        gain 1 <span class=""aether"">&AElig;</span>.<br />
+        <b>Cast:</br> Deal 4 damage.
+      </p>
+    ",[]
+Spell,O,Gathered Will,GatheredWill,5,"
+      <p>
+        <b>Cast:</b> Deal 2 damage.<br />
+        You may gain a spell from any supply pile that costs 4 <span class=""aether"">&AElig;</span> 
+        or less and place it on top of your deck.
+      </p>
+    ",[]
+Spell,O,Tornado Of Insight,TornadoOfInsight,6,"
+      <p>
+        <b>Cast:</b> Deal 5 damage.<br />
+        If you have no closed breaches, gain 1 charge.
+      </p>
+    ",[]
+Spell,O,Hasted Intellect,HastedIntellect,6,"
+      <p>
+        While prepped, when you gain a card, you may place that card on top 
+        of your deck.
+        <b>Cast:</b> Deal 4 damage.
+      </p>
+    ",[]
+Spell,O,Swarm Of Flame,SwarmOfFlame,6,"
+      <p>
+        <b>Cast:</b> Deal 5 damage.<br />
+        You may cast any player's prepped spell that costs 5 <span class=""aether"">&AElig;</span> or less.
+      </p>
+    ",[]
+Spell,O,Arcane Relay,ArcaneRelay,8,"
+      <p>
+        <b>Cast:</b> Any ally draws a card then reveals their hand.<br />
+        Deal 4 damage. Deal 1 additional damage for each card in that ally's 
+        hand that costs 1 <span class=""aether"">&AElig;</span> or more.
+      </p>
+    ",[]
+Spell,O,Dizzying Burst,DizzyingBurst,8,"
+      <p>
+        <b>Cast:</b> Deal 6 damage.<br />
+        Reveal the turn order deck.<br />
+        Return it in any order.
+      </p>
+    ",[]

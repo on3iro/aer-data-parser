@@ -1,0 +1,140 @@
+type,expansion,name,id,cost,effect,keywords
+Gem,RU,Witchglass,Witchglass,2,"
+      <p>
+        Gain 1 <span class=""aether"">&AElig;</span>. Any ally gains an <span class=""aether"">&AElig;</span> token.<br />
+        You may this during an ally's main phase. If you do that player may <b>Conjure</b>.
+      </p>
+    ","[""conjure""]"
+Gem,RU,Shimmerbead,Shimmerbead,3,"
+      <p>
+        Gain 2 <span class=""aether"">&AElig;</span>.
+      </p>
+      <p>
+        <b>Recall:</b> Il you have activated your ability this turn, gain 1 life.
+      </p>
+    ","[""recall""]"
+Gem,RU,Allaying Shell,AllayingShell,5,"
+      <p>
+        Gain 2 <span class=""aether"">&AElig;</span>.<br />
+	Silence a minion.
+      </p>
+    ","[""silence""]"
+Gem,RU,Pulsyrium Globe,PulsyriumGlobe,5,"
+      <p>
+        Gain 3 <span class=""aether"">&AElig;</span>.
+      </p>
+      <p>
+	<b>Recall:</b> Discard a card in hand. If you do, any player gains an <span class=""aether"">&AElig;</span> token.
+      </p>
+    ","[""recall""]"
+Gem,RU,Rainbow Fluorite,RainbowFluorite,6,"
+      <p>
+        Gain 3 <span class=""aether"">&AElig;</span>.<br />
+        <span class=""or"">OR</span>
+	Gain 2 charges.
+      </p>
+    ","[""silence""]"
+Relic,RU,Aether Widget,AetherWidget,2,"
+      <p>
+        Any ally may prep a spell in hand to one of their opened or closed breaches.
+      </p>
+      <p>
+	You may discard this during any ally's main phase. If you do, that ally may cast one of their prepped spells.
+      </p>
+    ",[]
+Relic,RU,Vim Infusor,VimInfusor,3,"
+      <p>
+        Gain 1 charge.<br />
+	If you have 2 life or less, repeat this effect.
+      </p>
+    ",[]
+Relic,RU,Contingency Kit,ContingencyKit,4,"
+      <p>
+        Any ally draws two cards and then discards one card.
+        <span class=""or"">OR</span>
+	Focus any player's breach. If you have 2 life or less, do both.
+      </p>
+    ",[]
+Relic,RU,Ghost Harness,GhostHarness,6,"
+      <p>
+        Each player focuses their closed breach with the lowest cost.
+        <span class=""or"">OR</span>
+	Each player may <b>Conjure</b>.
+      </p>
+    ","[""conjure""]"
+Relic,RU,Element Convertor,ElementConvertor,6,"
+      <p>
+        The players collectively destroy up to two gems from their hands or discard piles.<br />
+	Reveal the top card of the turn order deck. If it is a player card, that player gains an <span class=""aether"">&AElig;</span> token.
+      </p>
+    ",[]
+Spell,RU,Magnify,Magnify,2,"
+      <p>
+        While prepped, an additional spell that costs 2 <span class=""aether"">&AElig;</span> or less may be prepped to this brech.<br />
+        <b>Cast:</b> Deal 1 damage.
+      </p>
+    ",[]
+Spell,RU,Dawn Barrage,DawnBarrage,3,"
+      <p>
+        <b>Cast:</b> Deal 1 damage.<br />
+        Other spells you cast during your casting phase this turn deal an additional 1 damage.
+      </p>
+    ",[]
+Spell,RU,Stupefy,Stupefy,3,"
+      <p>
+        <b>Cast:</b> Deal 2 damage.
+      </p>
+      <p>
+        <b>Recall:</b> You may discard a card to silence a minion.
+      </p>
+    ","[""recall"",""silence""]"
+Spell,RU,Force Bubble,ForceBubble,4,"
+      <p>
+        <b>Cast:</b> Deal 2 damage.
+        <span class=""or"">OR</span>
+        <b>Cast:</b> Return this to your hand. You may prep a spell from your hand that is not named Force Bubble.
+      </p>
+    ",[]
+Spell,RU,Accelerating Field,AcceleratingField,5,"
+      <p>
+        <b>Cast:</b> Deal 3 damage.<br />
+	If this is the first time you have cast an Accelerating Field this turn, you may reveal the top four cards of your deck. You may place any cards named Accelerating Field revealed this way into your hand.
+      </p>
+    ",[]
+Spell,RU,Harmonize,Harmonize,5,"
+      <p>
+        You may discard this card from your hand when any ally casts a spell to have that spell deal an additional 2 damage.
+      </p>
+      <p>
+        <b>Cast:</b> Deal 4 damage.
+      </p>
+    ",[]
+Spell,RU,Phantasmagoria,Phantasmagoria,5,"
+      <p>
+        <b>Cast:</b> Deal 3 damage.
+      </p>
+      <p>
+        <b>Recall:</b> <b>Conjure</b>.
+      </p>
+    ","[""recall"",""conjure""]"
+Spell,RU,Rune Tutor,RuneTutor,5,"
+      <p>
+        <b>Cast:</b> Gain a card that costs 6 <span class=""aether"">&AElig;</span> or less from any supply pile and place it on top of your deck.
+        <span class=""or"">OR</span>
+        <b>Cast:</b> Deal 4 damage.
+      </p>
+    ",[]
+Spell,RU,Bestowing Light,BestowingLight,6,"
+      <p>
+        <b>Cast:</b> Deal 5 damage.<br />
+	Any ally gains an <span class=""aether"">&AElig;</span> token for each spell prepped in an adjacent breach.
+      </p>
+    ",[]
+Spell,RU,Reverse Gravity,ReverseGravity,7,"
+      <p>
+        <b>Cast:</b> Deal 6 damage.
+      </p>
+      <p>
+        When this is placed into your discard pile, you may place this on the botton of your discard pile.
+      </p>
+    ",[]

@@ -1,0 +1,14 @@
+expansion,name,id,mageTitle,ability,numberOfCharges,uniqueStarters
+OD,Indira,Indira,Riss-Magier-Lehrling,"
+        <h2>List der Pyromanen</h2>
+        <p class=""ability-activation"">In DEINEM SPIELER-ZUG während <i>Zauber wirken</i>:</p>
+        <p>Wirke eine Anzahl Zauber deiner Wahl direkt von deiner Hand. +1 Schaden für jeden so gewirkten
+        Zauber. Dann darfst du 1 Karte deiner Wahl in deinem Ablagestapel zerstören.</p>
+      ",4,"[{""type"":""Gem"",""name"":""Zwillings-Opal"",""expansion"":""OD"",""id"":""TwinOpal"",""cost"":0,""effect"":""\n            <p>\n              Erhalte 1 <span class=\""aether\"">&AElig;</span>.<br/>\n              Du darfst 1 Zauber deiner Wahl von der Hand wirken.\n            </p>\n          "",""keywords"":[]}]"
+OD,Reliquior,Remnant,Ätherisches Wesen,"
+        <h2>Hauch des Nichts</h2>
+        <p class=""ability-activation"">In DEINEM SPIELER-ZUG während <i>Aktionen ausführen</i>:</p>
+        <p>Wähle 1 anderen Spieler, der 2 Karten von seinem Ablagestapel zurück auf die Hand nimmt.
+        <span class=""or"">ODER</span>
+        Die <i>Feste der letzten Ruhe</i> heilt 5 Leben.</p>
+      ",5,"[{""type"":""Gem"",""name"":""Leere-Scherbe"",""expansion"":""OD"",""id"":""VoidShard"",""cost"":0,""effect"":""\n            <p>\n              Erhalte 1 <span class=\""aether\"">&AElig;</span>.<br/>\n              Erhalte 1 <span class=\""aether\"">&AElig;</span>, aber nur zum Bündeln oder Aktivieren\n              eines Risses.\n            </p>\n          "",""keywords"":[]}]"

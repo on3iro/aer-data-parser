@@ -1,0 +1,71 @@
+id,name,expansion,level,subtype,effect
+ClaudiasAetherscope,Claudia's Aetherscope,RTG,1,Gem,"
+      <p>
+        Gain 1 <span class=""aether"">&AElig;</span>.
+        <span class=""or"">OR</span>
+        Any ally may lose 1 charge. If they do, gain 2 charges.
+      </p>
+    "
+SoskelsLuckyCoin,Soskel's Lucky Coin,RTG,1,Gem,"
+      <p>
+        Gain 1 <span class=""aether"">&AElig;</span>.<br />
+        You may lose 1 charge. If you do, gain an additional 2 <span class=""aether"">&AElig;</span>.
+      </p>
+    "
+QusVoidRadite,Qu's Void Radite,RTG,1,Gem,"
+      <p>
+        Gain 1 <span class=""aether"">&AElig;</span>.<br />
+        You may cast any player's prepped spell. That spell deals 1 less damage, minimum 1.
+      </p>
+    "
+TaqrensGiftOfSpirit,Taqren's Gift Of Spirit,RTG,1,Spell,"
+      <p>
+        <b>Cast:</b> Deal 1 damage.
+        <span class=""or"">OR</span>
+        <b>Cast:</b> Any ally draws a card.
+      </p>
+    "
+GygarsTsunami,Gygar's Tsunami,RTG,1,Spell,"
+      <p>
+        <b>Cast:</b> Deal 1 damage.<br />
+        >ou may lose 1 charge. If you do, deal 3 additional damage.
+      </p>
+    "
+EnergizedHusk,Energized Husk,RTG,2,,"
+      <p>
+        After a player finishes resolving their ability, any ally draws a card.
+      </p>
+    "
+SparkingShards,Sparking Shards,RTG,2,,"
+      <p>
+        At the start of the game, set this next to a gem supply pile. When a player gains 
+        a card from that supply pile, that player gains 1 charge.
+      </p>
+    "
+SigilPendant,Sigil Pendant,RTG,2,,"
+      <p>
+        Once per turn during any player's main phase that player may spend 3 <span class=""aether"">&AElig;</span> 
+        to have each player gain a charge.
+      </p>
+    "
+HornOfPlenty,Horn Of Plenty,RTG,3,,"
+      <p>
+        Draw two cards from level 1 treasure deck and add them to the Barracks.<br />
+        <br />
+        Add two additional level 1 treasures to your starting deck using the level 1 
+        treasure rules.
+      </p>
+    "
+ImbuedCirclet,Imbued Circlet,RTG,3,,"
+      <p>
+        When you gain a gem, Gravehold gains 1 life.<br />
+        <br />
+        This can cause Gravehold to have more than its maximum life.
+      </p>
+    "
+BurstingBracelet,Bursting Bracelet,RTG,3,,"
+      <p>
+        When you focus or open a breach, you may cast any player's prepped spell. 
+        That spell deals 1 additional damage.
+      </p>
+    "

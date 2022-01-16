@@ -1,5 +1,5 @@
 id,expansion,tier,type,name,power,effect
-AgonyField-AE,AE,1,Power,Feld Der Qualen,2,"
+AgonyField-AE,AE,1,Power,Feld der Qualen,2,"
       <p>
         <b>Verhindern:</b> Zerstöre 1 Karte deiner Wahl auf deiner Hand, die 2 <span class=""aether"">&AElig;</span> oder mehr kostet.<br />
         <br />
@@ -16,7 +16,7 @@ BleedStatic-AE,AE,1,Power,Laufendes Blut,3,"
         <b>Zeit 3:</b> Wählt den Spieler mit den meisten Zaubern auf seinen Rissen: Erleide 2 Schaden für jeden Zauber auf deinen Rissen.
       </p>
     "
-EyeofNothing-AE,AE,1,Power,Auge Des Nichts,2,"
+EyeofNothing-AE,AE,1,Power,Auge des Nichts,2,"
       <p>
         <b>Verhindern:</b> Bezahle 6 <span class=""aether"">&AElig;</span>.<br />
         <br />
@@ -94,7 +94,7 @@ Venomite-AE,AE,2,Minion,Giftmilbe,,"
         Wählt 1 Spieler, der 1 seiner gebundenen Zauber abwirft, der 3 <span class=""aether"">&AElig;</span> oder mehr kostet.
       </p>
     "
-DoomAegis-AE,AE,3,Power,Mantel Des Untergangs,1,"
+DoomAegis-AE,AE,3,Power,Mantel des Untergangs,1,"
       <p>
         <b>Verhindern:</b> Bezahle 7 <span class=""aether"">&AElig;</span>.<br />
         <br />

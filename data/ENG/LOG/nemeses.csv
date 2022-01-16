@@ -1,0 +1,28 @@
+expansion,name,id,health,difficulty,expeditionRating,additionalInfo
+LOG,Bishop of Scrolls,BishopOfScrolls,50,2,1,
+LOG,Bishop: Returned,BishopReturned,60,7,3,"
+      <p>
+        Switch the minions in the nemesis deck with the minions you named during the campaign.
+        You may name and include more minions to make the game harder.
+      </p>
+    "
+LOG,Fate Shepherd,FateShepherd,70,3,1,
+LOG,Griefweaver,Griefweaver,60,8,4,
+LOG,Mist Revealed,MistRevealed,80,10,4,"
+      <p>
+        When playing outside of the legacy campaign, use three random tier 3
+        Mist Revealed cards when constructing the nemesis deck.
+      </p>
+    "
+LOG,Mother of Rust,MotherOfRust,*,4,2,
+LOG,Paradox of Bone,ParadoxOfBone,80,8,4,
+LOG,Paradox of Myth,ParadoxOfMyth,50,8,4,
+LOG,Paradox of Myth and Bone,ParadoxOfMythAndBone,40,5,3,"
+      <p>
+        Replace the nemesis turn order cards in the turn order deck with
+        the Myth and Bone turn order cards.
+      </p>
+    "
+LOG,Rust Amalgam,RustAmalgam,50,6,3,
+LOG,Paradox of Bone,ParadoxOfBone,80,8,4,
+LOG,Rust Superion,RustSuperion,50,5,2,

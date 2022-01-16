@@ -1,0 +1,38 @@
+id,name,expansion,level,subtype,effect
+IncosSpreadingEmerald,Inco's Spreading Emerald,SV,1,Gem,"
+      <p>
+        Gain 1 <span class=""aether"">&AElig;</span>.
+        <span class=""or"">OR</span>
+        The next time you gain a card that costs 3 <span class=""aether"">&AElig;</span> 
+        or less this turn, any ally gains a copy of that card from the supply.
+      </p>
+    "
+LostsForgedCrystal,Lost's Forged Crystal,SV,1,Gem,"
+      <p>
+        <span class=""hint"">(When the game starts, add a Crystal to your discard pile.)</span><br />
+        Gain 2 <span class=""aether"">&AElig;</span>.
+      </p>
+    "
+OnyxElixir,Onyx Elixir,SV,2,,"
+      <p>
+        At the start of the game, set this next to a supply pile that costs 
+        7 <span class=""aether"">&AElig;</span> or more. When a player gains a card 
+        from that supply pile, that player gains 2 life.
+      </p>
+    "
+AshenRib,Ashen Rib,SV,2,,"
+      <p>
+        Once per turn after a player plays their second relic, any ally draws a card.
+      </p>
+    "
+MassacreHelm,Massacre Helm,SV,3,,"
+      <p>
+        When you cast three or more spells during your casting phase, deal 3 damage.
+      </p>
+    "
+CloakOfWisdom,Cloak Of Wisdom,SV,3,,"
+      <p>
+        At the start of tyour main phase, if there are five or more cards in your 
+        discard pile, focus one of your closed breaches.
+      </p>
+    "

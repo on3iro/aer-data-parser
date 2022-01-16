@@ -1,0 +1,180 @@
+type,expansion,name,id,cost,effect,keywords
+Gem,WE,Unreiner Opal,ErraticIngot,5,"
+      <p>
+      Erhalte 2 <span class=""aether"">&AElig;</span>.<br/>
+      Sieh dir den Ablagestapel des Reihenfolgedecks an. Ist dort mindestens 1 Erzfeind-Reihenfolgekarte?
+      Erhalte 2 <span class=""aether"">&AElig;</span>.
+      </p>
+      ",[]
+Spell,WE,Einäschern,ReduceToAsh,7,"
+      <p>
+      <b>Gebunden:</b> Zu Beginn von <i>Zauber wirken</i>: Sieh dir die oberste Karte deines Decks an.
+      Du darfst sie zerstören.
+      <b>Wirken:</b> Füge 4 Schaden zu.
+      </p>
+        ",[]
+Relic,WE,Vortex-Handschuh,VortexGauntlet,6,"
+      <p>
+      Wähle 1 Spieler und wirke 1 seiner gebundenen Zauber.<br/>
+      Den gewirkten Zauber erhält dieser Spieler zurück auf die Hand (statt auf den
+      Ablagestapel).
+      </p>
+      ",[]
+Spell,WE,Verkohlen,Carbonize,4,"
+      <p>
+      <b>Wirken:</b> Füge 3 Schaden zu.<br/>
+      Sieh dir die oberste Karte des Reihenfolgedecks an. Du darfst diese Karte unter das
+      Reihenfolgedeck schieben.
+      </p>
+      ",[]
+Spell,WE,Equilibrium,Equilibrium,7,"
+      <p>
+      <b>Gebunden:</b> Erleidest du Schaden? Reduziere den Schaden um 1 (Minimum: 1 Schaden).<br/>
+      <b>Wirken:</b> Füge 4 Schaden zu.
+      </p>
+        ",[]
+Gem,WE,Vulkan-Glas,VolcanicGlass,3,"
+      <p>
+      <b>Einmalig bei Erwerb:</b> Bezahlst du jetzt 2 <span class=""aether"">&AElig;</span>? Wähle 1 anderen Spieler,
+      der 1 <i>Vulkan-Glas</i> erhält und oben auf sein Deck legt. Dieser Spieler kann diesen Effekt nicht auslösen.<br />
+      Erhalte 2 <span class=""aether"">&AElig;</span>.
+      </p>
+      ",[]
+Spell,WE,Konvektions-Feld,ConvectionField,5,"
+      <p>
+      <b>Wirken:</b> Füge 4 Schaden zu.
+        <span class=""or"">ODER</span>
+      <b>Wirken:</b> Füge 2 Schaden zu. Wähle 1 anderen Spieler, der 1 Karte seiner Wahl auf der Hand zerstören darf.
+        </p>
+      ",[]
+Spell,WE,Blitz-Kaskade,JaggedLightning,4,"
+      <p>
+      <b>Wirken:</b> Füge 3 Schaden zu.<br/>
+      Wirfst du jetzt 1 Karte deiner Wahl von der Hand ab? Wähle 1 Spieler, der 1 seiner Risse mit den niedrigsten
+      <span class=""aether"">&AElig;</span>-Kosten bündelt.
+      </p>
+      ",[]
+Gem,WE,Blut-Diamant,BloodstoneJewel,6,"
+      <p>
+      <b>Einmalig bei Erwerb:</b> Ist dies dein genau erster gerade erworbener Blut-Diamant? Erhalte 3 <span class=""aether"">&AElig;</span>.<br/>
+      Erhalte 3 <span class=""aether"">&AElig;</span>.
+      </p>
+      ",[]
+Spell,WE,Entfachen,Kindle,4,"
+      <p>
+      <b>Gebunden:</b> In deinem Schritt <i>Aktionen ausführen</i> darfst du hier auch noch 1 <i>Funken</i> binden (max. 1).<br/>
+      <b>Wirken:</b> Füge 3 Schaden zu.
+      </p>
+        ",[]
+Spell,WE,Gedankenvertrauter,ThoughtformFamiliar,3,"
+      <p>
+      <b>Wirken:</b> Füge 2 Schaden zu. +X Schaden.<br/>
+      X = Anzahl deiner anderen gebundenen Zauber.
+      </p>
+        ",[]
+Spell,WE,Kristallisieren,Crystallize,8,"
+      <p>
+      <b>Dauerhaft:</b> Dieser Zauber muss auf 2 aneinandergrenzende Risse gebunden werden. Beide Risse sind damit nicht mehr frei.<br/>
+      <b>Wirken:</b> Füge X Schaden zu.<br/>
+      X = 2 für jeden Kristall auf der Hand 1 anderen Spielers deiner Wahl.
+      </p>
+        ",[]
+Spell,WE,Feuerflut,FieryTorrent,5,"
+      <p>
+      <b>Wirken:</b> Füge 2 Schaden zu.<br/>
+      +2 Schaden für jede weitere gebundene <i>Feuerflut</i> im Spiel.
+      </p>
+      ",[]
+Spell,WE,Himmelsfeuer,CelestialSpire,5,"
+      <p>
+      <b>Wirken:</b> Füge 3 Schaden zu.<br/>
+      Ist der Vorrat dieser Karte leer? Wähle 1 anderen Spieler, der 1 Karte von seinem Deck zieht.
+      </p>
+      ",[]
+Spell,WE,Rückkehrer beschwören,ConjureTheLost,6,"
+      <p>
+      <b>Wirken:</b> Füge 5 Schaden zu.<br/>
+      Zerstörst du jetzt diese Karte? Die <i>Feste</i> heilt 4 Leben.
+      </p>
+      ",[]
+Spell,WE,Sternenschmiede,NovaForge,6,"
+      <p>
+      <b>Gebunden (1x pro Zug):</b> Erhalte 2 <span class=""aether"">&AElig;</span> im Schritt
+      <i>Aktionen ausführen</i>, aber nur zum Erwerb von Zaubern.<br/>
+      <b>Wirken:</b> Füge 4 Schaden zu.
+      </p>
+        ",[]
+Gem,WE,Terror-Diamant,DreadDiamond,3,"
+      <p>
+      Erhalte 2 <span class=""aether"">&AElig;</span>.<br/>
+      Wirfst du jetzt 1 deiner gebundenen Zauber deiner Wahl ab? 
+      Erhalte 1 <span class=""aether"">&AElig;</span>.
+      </p>
+      ",[]
+Relic,WE,Stein-Kompass,CairnCompass,4,"
+      <p>
+      Wähle 1 anderen Spieler. Dieser Spieler darf 1 Zauber aus seinem Ablagestapel wählen und
+      an seine aktiven oder dunklen Risse binden.
+      </p>
+      ",[]
+Gem,WE,Vulkan-Schlacke,ScoriaSlag,4,"
+      <p>
+      Erhalte 2 <span class=""aether"">&AElig;</span>.<br/>
+      Ist das Erzfeind-Level 2 oder höher? Erhalte 1 <span class=""aether"">&AElig;</span>.
+      </p>
+      ",[]
+Gem,WE,Riss-Erz,BreachOre,4,"
+      <p>
+      Erhalte 2 <span class=""aether"">&AElig;</span>.<br/>
+      <span class=""or"">ODER</span>
+      Bündele 1 deiner dunklen Risse mit den geringsten <span class=""aether"">&AElig;</span>-Kosten.
+      </p>
+      ",[]
+Relic,WE,Teufelschnapper,FiendCatcher,3,"
+      <p>
+      Du darfst 1 Karte deiner Wahl auf deiner Hand oder deinem Ablagestapel zerstören.<br/>
+      Sieh dir die oberste Karte des Reihenfolgedecks an. Ist es eine Erzfeind-Reihenfolgekarte?
+      Du darfst sie unter das Reihenfolgedeck schieben.
+      </p>
+      ",[]
+Spell,WE,Pyrotechnische Woge,PyrotechnicSurge,4,"
+      <p>
+      <b>Dauerhaft:</b> Dieser Zauber muss auf 2 aneinandergrenzende Risse gebunden werden. Beide Risse sind damit nicht mehr frei.<br/>
+      <b>Wirken:</b> Füge 4 Schaden zu.<br/>
+      Du darst 1 Karte deiner Wahl in deinem Ablagestapel zerstören.
+      </p>
+      ",[]
+Spell,WE,Aurora,Aurora,5,"
+      <p>
+      <b>Gebunden (1x pro Zug):</b> Im Schritt <i>Aktionen ausführen</i>: Erhalte 1 Energie.<br/>
+      <b>Wirken:</b> Füge 3 Schaden zu.
+      </p>
+        ",[]
+Relic,WE,Kodex der Konklave,ConclaveScroll,3,"
+      <p>
+      Erhalte 1 Energie.<br/>
+      Ist der Vorrat dieser Karte leer? Wähle 1 anderen Spieler, der die oberste Karte
+      seines Ablagestapels zerstören darf.
+      </p>
+      ",[]
+Relic,WE,Urzeitlicher Götze,PrimordialFetish,4,"
+      <p>
+      Bündele 1 Riss deiner Wahl (bei 1 Spieler deiner Wahl).
+        <span class=""or"">ODER</span>
+      Zerstöre diese Karte und heile 3 Leben.
+      </p>
+      ",[]
+Gem,WE,Geforener Magmit,FrozenMagmite,3,"
+      <p>
+      Erhalte 2 <span class=""aether"">&AElig;</span>.<br/>
+      Die nächste Karte, die du in deinem Zug erwirbst, darfst du oben auf dein
+      Deck legen.
+      </p>
+      ",[]
+Relic,WE,Magier-Totem,MagesTotem,2,"
+      <p>
+      Wähle und zerstöre 1 Artefakt oder 1 Kristall, den du gerade gespielt hast.
+        <span class=""or"">ODER</span>
+      Zerstöre diese Karte. Die <i>Feste</i> heilt 1 Leben.
+      </p>
+      ",[]

@@ -1,0 +1,161 @@
+id,expansion,tier,type,name,power,effect
+CeaselessDarkness-LOG,LOG,1,Power,Ceaseless Darkness,2,"
+      <p>
+        <b>To Discard:</b> Spend 5 <span class=""aether"">&AElig;</span>.<br />
+        <br/>
+        <b>Power 2:</b> Unleash. Any player suffers 3 damage. Any player discards a cards in hand.
+      </p>
+    "
+ChaosOrb-LOG,LOG,1,Power,Chaos Orb,3,"
+      <p>
+        <b>To Discard:</b> Spend 6 <span class=""aether"">&AElig;</span>.<br />
+        <br/>
+        <b>Power 3:</b> Unleash. Gravehold suffers 4 damage.
+      </p>
+    "
+CoalWelp-LOG,LOG,1,Minion,Coal Welp,,"
+      <p>
+        <b>Persistent:</b> Unleash. Add a fire token to your location on the map.
+      </p>
+    "
+Consume-LOG,LOG,1,Attack,Consume,,"
+      <p>
+        Unleash.<br/>
+        Any player suffers 2 damage and discards a card in hand.<br/>
+        If that card costs 2 <span class=""aether"">&AElig;</span> or less,
+        add a fire token to your location on the map.
+      </p>
+    "
+CosmopodHorror-LOG,LOG,1,Minion,Cosmopod Horror,,"
+      <p>
+        When this is discarded, banish it.<br/>
+        <b>Immediately:</b> This minion suffers damage equal to the number of
+        players in the game.<br/>
+        <b>Persistent:</b> Gravehold and any player each suffer 1 damage.
+      </p>
+    "
+Disorient-LOG,LOG,1,Attack,Disorient,,"
+      <p>
+        Unleash.<br/>
+        Any player suffers 1 damage and discards a card in hand.<br/>
+        If that card is a gem, Gravehold suffers 2 damage.
+      </p>
+    "
+ImpendingImmolation-LOG,LOG,1,Power,Impending Immolation,2,"
+      <p>
+        <b>To discard:</b> Spend 6 <span class=""aether"">&AElig;</span>.<br/>
+        <b>Power 2:</b> Unleash. Gravehold suffers 3 damage. Add a fire token
+        to your location on the map.
+      </p>
+    "
+Rend-LOG,LOG,1,Attack,Rend,,"
+      <p>
+        Unleash.<br/>
+        Gravehold suffers 1 damage.<br/>
+        Any player suffers 2 damage.
+      </p>
+    "
+CollapsingComet,LOG,2,Power,CollapsingComet,1,"
+      <p>
+        <b>To discard:</b> Discard four cards in hand.<br/>
+        <b>Power 1:</b> Unleash twice. Gravehold suffers 3 damage.<br/>
+        Banish this.
+      </p>
+    "
+DevilsPact,LOG,2,Attack,Devil's Pact,,"
+      <p>
+        Gravehold suffers 5 damage.
+        <span class=""or"">OR</span>
+        Any player suffers 5 damage.
+        <span class=""or"">OR</span>
+        The players discard the three most expensive prepped spells.
+        <span class=""or"">OR</span>
+        Unleash twice. The players collectively lose 3 charges.
+      </p>
+    "
+FoggyMiasma,LOG,2,Attack,Foggy Miasma,,"
+      <p>
+        Any player discards three cards in hand and suffers 2 damage.<br/>
+        Banish this.
+      </p>
+    "
+Otherling,LOG,2,Minion,Otherling,,"
+      <p>
+        When this is discarded, banish this.<br/>
+        <b>Persistent:</b> Unleash. Any player suffers 1 damage.
+      </p>
+    "
+PaleReckoner,LOG,2,Minion,Pale Reckoner,,"
+      <p>
+        <b>Immediately:</b> This minion loses a shield token for each player in the game.<br/>
+        <b>Persistent:</b> Any player suffers 2 damage. Add a fire token to your location on the map.
+      </p>
+    "
+SpreadingInferno,LOG,2,Power,Spreading Inferno,2,"
+      <p>
+        <b>To discard:</b> Spend 7 <span class=""aether"">&AElig;</span>.<br/>
+        <b>Power 2:</b> Unleash twice. If there are 3 or less fire tokens on your
+        location of the map, add a fire token to your location on the map.
+        Otherwise, Unleash.
+      </p>
+    "
+Ruin,LOG,2,Attack,Ruin,,"
+      <p>
+        Unleash twice. Gravehold suffers 3 damage.
+        <span class=""or"">OR</span>
+        Unleash twice. Add a fire token to your location on the map.
+      </p>
+    "
+CrushingStorm-LOG,LOG,3,Power,Crushing Storm,1,"
+      <p>
+        <b>To discard:</b> Destroy two opened breaches.<br/>
+        <b>Power 1:</b> Unleash three times.<br/>
+        Banish this.
+      </p>
+    "
+DemolishingVoid,LOG,3,Power,Demolishing Void,2,"
+      <p>
+        <b>Power 2:</b> Unleash. The player with the most expensive prepped spell
+        destroys it. If that spell costs 4 <span class=""aether"">&AElig;</span> or less,
+        Unleash and any player suffers 3 damage.<br/>
+        Banish this.
+      </p>
+    "
+Divide,LOG,3,Attack,Divide,,"
+      <p>
+        Unleash three times.
+        <span class=""or"">OR</span>
+        Gravehold suffers 6 damage.
+        <span class=""or"">OR</span>
+        Any player suffers 5 damage.
+      </p>
+    "
+Eviscerate,LOG,3,Attack,Eviscerate,,"
+      <p>
+        Unleash twice.<br/>
+        Any player suffers 2 damage and destroys their most expensive card in hand.<br/>
+        Banish this.
+      </p>
+    "
+HexOfDestruction-LOG,LOG,3,Power,Hex of Destruction,2,"
+      <p>
+        <b>To Discard:</b> Spend 8 <span class=""aether"">&AElig;</span>.<br />
+        <b>Power 2:</b> Unleash twice. Gravehold suffers 4 damage.
+        Any player destroys the top four cards of their deck.
+      </p>
+    "
+Incinerate,LOG,3,Attack,Incinerate,,"
+      <p>
+        Unleash twice.<br/>
+        The player with the most expensive card in hand suffers 2 damage and discards three cards.
+        Then, for each card in their hand that costs 2 <span class=""aether"">&AElig;</span> or more,
+        add a fire token to your location on the map.
+      </p>
+    "
+VoidStrays,LOG,3,Minion,Void Strays,,"
+      <p>
+        <b>Persistent:</b> Any player suffers 3 damage.
+        <span class=""or"">OR</span>
+        Unleash. Add 2 fire tokens to your location on the map.
+      </p>
+    "

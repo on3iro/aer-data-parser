@@ -1,0 +1,22 @@
+type,expansion,name,id,cost,effect,keywords
+Relic,RTG,Glass-Eyed Oracle,GlassEyedOracle,1,"
+      <p>
+        Gain 1 <span class=""aether"">&AElig;</span>.
+        <span class=""or"">OR</span>
+        Destroy this and any number of copies of this card in hand. You may gain a card with cost 
+        up to three times the number of copies destroyed.
+      </p>
+    ",[]
+Spell,RTG,Cleanse,Cleanse,4,"
+      <p>
+        <b>Cast:</b> Deal 3 damage.<br />
+        If you have 3 or less life, gain 1 life.
+      </p>
+    ",[]
+Spell,RTG,Memory Break,MemoryBreak,6,"
+      <p>
+        <b>Cast:</b> Deal 3 damage.<br />
+        You may destroy a card in hand. If you do, deal additional damage equal 
+        to the cost of the destroyed card.
+      </p>
+    ",[]
